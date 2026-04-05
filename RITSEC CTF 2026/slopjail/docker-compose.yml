@@ -1,0 +1,6 @@
+services:
+  slopjail:
+    build: .
+    ports:
+      - 4567:1337
+    container_name: slopjail

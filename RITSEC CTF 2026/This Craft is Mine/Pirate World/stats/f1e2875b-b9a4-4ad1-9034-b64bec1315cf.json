@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 582,
+      "minecraft:walk_one_cm": 25879,
+      "minecraft:leave_game": 5,
+      "minecraft:play_time": 17116,
+      "minecraft:jump": 49,
+      "minecraft:time_since_death": 549,
+      "minecraft:sprint_one_cm": 7033,
+      "minecraft:fall_one_cm": 300,
+      "minecraft:total_world_time": 27723,
+      "minecraft:fly_one_cm": 169300,
+      "minecraft:crouch_one_cm": 611,
+      "minecraft:sneak_time": 370,
+      "minecraft:climb_one_cm": 90,
+      "minecraft:deaths": 1
+    },
+    "minecraft:used": {
+      "minecraft:spruce_wood": 1,
+      "minecraft:spruce_log": 2,
+      "minecraft:black_concrete": 48,
+      "minecraft:grass_block": 1,
+      "minecraft:sand": 27,
+      "minecraft:spruce_leaves": 11,
+      "minecraft:white_concrete": 44,
+      "minecraft:magenta_glazed_terracotta": 4,
+      "minecraft:mangrove_wood": 1
+    }
+  },
+  "DataVersion": 4671
+}

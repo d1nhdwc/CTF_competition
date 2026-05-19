@@ -1,0 +1,16 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: john --single --session=singletty --format=pkzip hash.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 21 [worst case UTF-8] to 63 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 63 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 24576
+0:00:00:00 Proceeding with "single crack" mode
+0:00:00:00 - SingleWordsPairMax used is 6
+0:00:00:00 - SingleRetestGuessed = true
+0:00:00:00 - SingleMaxBufferSize = 4 GiB
+0:00:00:00 - No stacked rules
+0:00:00:00 - 1140 preprocessed word mangling rules
+0:00:00:00 - Allocated 1 buffer of 12 candidate passwords (total 2947 B)

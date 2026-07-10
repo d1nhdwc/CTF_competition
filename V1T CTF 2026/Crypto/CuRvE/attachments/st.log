@@ -1,0 +1,11 @@
+pycryptodome ok
+PARI stack size set to 1073741824 bytes, maximum size set to 1073741824
+[selftest] secret key: yodaczsbvwcdylhaazalu d.bit_length = 167
+[selftest] curve 1: smooth_bits added, total modulus bits = 54
+[selftest] curve 2: smooth_bits added, total modulus bits = 109
+[selftest] curve 3: smooth_bits added, total modulus bits = 147
+[selftest] curve 4: smooth_bits added, total modulus bits = 199
+[selftest] CRT solution bits=167 modulus bits=199
+[selftest] recovered d == real d ? True
+[selftest] FORGED valid signature: r=0x7f3790d8b37294978d5ba69e2667c743355a0719586953233cf02a60759fa771 s=0xf71320ebd0ba8f991849157c0ce91c1b671c9ecb34696d60e50e2560d5d2c4e
+[selftest] SUCCESS - full pipeline works

@@ -1,0 +1,125 @@
+0x42000038: 360103     entry        a1, 0x180
+0x4200003b: 3c31       movi.n       a1, 0x33
+0x4200003d: 01033c     l32r         a0, . 0x41fcf04c
+0x42000040: 570000     bnone        a0, a5, . +4
+0x42000043: 80d0fd0000569400006b4a35072801033c6001033c530103 .byte        0x80, 0xd0, 0xfd, 0x00, 0x00, 0x56, 0x94, 0x00, 0x00, 0x6b, 0x4a, 0x35, 0x07, 0x28, 0x01, 0x03, 0x3c, 0x60, 0x01, 0x03, 0x3c, 0x53, 0x01, 0x03, 0x3c, 0x46, 0x0
+0x42000142: 004248     ssx          f4, a2, a0
+0x42000145: 2d00       mov.n        a2, a0
+0x42000147: 422c29     l32i         a4, a12, 0xa4
+0x4200014a: 004208     lsx          f4, a2, a0
+0x4200014d: 2900       s32i.n       a2, a0, 0
+0x4200014f: 42d34d     addmi        a4, a3, 0x4d00
+0x42000152: 62100e     l16ui        a6, a0, 0x1c
+0x42000155: 02033c     l8ui         a0, a3, 0x3c
+0x42000158: ac8b033ca601033c3ce03740ffffcfff14423840d4a8c93f .byte        0xac, 0x8b, 0x03, 0x3c, 0xa6, 0x01, 0x03, 0x3c, 0x3c, 0xe0, 0x37, 0x40, 0xff, 0xff, 0xcf, 0xff, 0x14, 0x42, 0x38, 0x40, 0xd4, 0xa8, 0xc9, 0x3f, 0x24, 0x27, 0x0
+0x42000257: 3c5f       movi.n       a15, 0x35
+0x42000259: 05033c     call0        . +0x3c034
+0x4200025c: 760503     bf           b5, . +7
+0x4200025f: 3c7c       movi.n       a12, 0x37
+0x42000261: 05033c     call0        . +0x3c034
+0x42000264: e4ffce3f8905033cb005033cd805033c0006033cccacc93f .byte        0xe4, 0xff, 0xce, 0x3f, 0x89, 0x05, 0x03, 0x3c, 0xb0, 0x05, 0x03, 0x3c, 0xd8, 0x05, 0x03, 0x3c, 0x00, 0x06, 0x03, 0x3c, 0xcc, 0xac, 0xc9, 0x3f, 0x28, 0x06, 0x0
+0x42000363: 0464c2     ee.vldbc.32.ip q0, a0, 0xe4
+0x42000366: 3740f0     ball         a0, a3, . -0xc
+0x42000369: c53740     call0        . +0x40380
+0x4200036c: 8f2f033c   ee.vmulas.s8.qacc.ld.ip.qup q0, a8, , q4, q4, q0, q3
+0x42000370: 9e0a033c   ee.vmulas.s8.qacc.ld.ip.qup q0, a9, , q0, q0, q0, q3
+0x42000374: a30a03     lsi          f10, a10, 0xc
+0x42000377: 3cab       movi.n       a11, 0x3a
+0x42000379: 0a03       add.n        a0, a3, a0
+0x4200037b: 3cb3       movi.n       a3, 0x3b
+0x4200037d: 0a03       add.n        a0, a3, a0
+0x4200037f: 3cbc       movi.n       a12, 0x3b
+0x42000381: 0a03       add.n        a0, a3, a0
+0x42000383: 3cc5       movi.n       a5, 0x3c
+0x42000385: 0a03       add.n        a0, a3, a0
+0x42000387: 3cd0       movi.n       a0, 0x3d
+0x42000389: 0a03       add.n        a0, a3, a0
+0x4200038b: 3cdc       movi.n       a12, 0x3d
+0x4200038d: 0a03       add.n        a0, a3, a0
+0x4200038f: 3ce5       movi.n       a5, 0x3e
+0x42000391: 0a03       add.n        a0, a3, a0
+0x42000393: 3cea       movi.n       a10, 0x3e
+0x42000395: 0a03       add.n        a0, a3, a0
+0x42000397: 3cf1       movi.n       a1, 0x3f
+0x42000399: 0a03       add.n        a0, a3, a0
+0x4200039b: 3cf8       movi.n       a8, 0x3f
+0x4200039d: 0a03       add.n        a0, a3, a0
+0x4200039f: 3c05       movi.n       a5, 0x30
+0x420003a1: 0b03       addi.n       a0, a3, -1
+0x420003a3: 3c12       movi.n       a2, 0x31
+0x420003a5: 0b03       addi.n       a0, a3, -1
+0x420003a7: 3c1d       movi.n       a13, 0x31
+0x420003a9: 0b03       addi.n       a0, a3, -1
+0x420003ab: 3c2a       movi.n       a10, 0x32
+0x420003ad: 0b03       addi.n       a0, a3, -1
+0x420003af: 3c36       movi.n       a6, 0x33
+0x420003b1: 0b03       addi.n       a0, a3, -1
+0x420003b3: 3c43       movi.n       a3, 0x34
+0x420003b5: 0b03       addi.n       a0, a3, -1
+0x420003b7: 3c50       movi.n       a0, 0x35
+0x420003b9: 0b03       addi.n       a0, a3, -1
+0x420003bb: 3c5b       movi.n       a11, 0x35
+0x420003bd: 0b03       addi.n       a0, a3, -1
+0x420003bf: 3c68       movi.n       a8, 0x36
+0x420003c1: 0b03       addi.n       a0, a3, -1
+0x420003c3: 3c74       movi.n       a4, 0x37
+0x420003c5: 0b03       addi.n       a0, a3, -1
+0x420003c7: 3c83       movi.n       a3, 0x38
+0x420003c9: 0b03       addi.n       a0, a3, -1
+0x420003cb: 3c94       movi.n       a4, 0x39
+0x420003cd: 0b03       addi.n       a0, a3, -1
+0x420003cf: 3ca5       movi.n       a5, 0x3a
+0x420003d1: 0b03       addi.n       a0, a3, -1
+0x420003d3: 3cb4       movi.n       a4, 0x3b
+0x420003d5: 0b03       addi.n       a0, a3, -1
+0x420003d7: 3cc4       movi.n       a4, 0x3c
+0x420003d9: 0b03       addi.n       a0, a3, -1
+0x420003db: 3cd4       movi.n       a4, 0x3d
+0x420003dd: 0b03       addi.n       a0, a3, -1
+0x420003df: 3ce4       movi.n       a4, 0x3e
+0x420003e1: 0b03       addi.n       a0, a3, -1
+0x420003e3: 3cf4       movi.n       a4, 0x3f
+0x420003e5: 0b03       addi.n       a0, a3, -1
+0x420003e7: 3c03       movi.n       a3, 0x30
+0x420003e9: 0c03       movi.n       a3, 0
+0x420003eb: 3c12       movi.n       a2, 0x31
+0x420003ed: 0c03       movi.n       a3, 0
+0x420003ef: 3c20       movi.n       a0, 0x32
+0x420003f1: 0c03       movi.n       a3, 0
+0x420003f3: 3c2e       movi.n       a14, 0x32
+0x420003f5: 0c03       movi.n       a3, 0
+0x420003f7: 3c3d       movi.n       a13, 0x33
+0x420003f9: 0c03       movi.n       a3, 0
+0x420003fb: 3c4d       movi.n       a13, 0x34
+0x420003fd: 0c03       movi.n       a3, 0
+0x420003ff: 3c5d       movi.n       a13, 0x35
+0x42000401: 0c03       movi.n       a3, 0
+0x42000403: 3c6b       movi.n       a11, 0x36
+0x42000405: 0c03       movi.n       a3, 0
+0x42000407: 3c75       movi.n       a5, 0x37
+0x42000409: 0c03       movi.n       a3, 0
+0x4200040b: 3c7f       movi.n       a15, 0x37
+0x4200040d: 0c03       movi.n       a3, 0
+0x4200040f: 3c88       movi.n       a8, 0x38
+0x42000411: 0c03       movi.n       a3, 0
+0x42000413: 3c91       movi.n       a1, 0x39
+0x42000415: 0c03       movi.n       a3, 0
+0x42000417: 3c9a       movi.n       a10, 0x39
+0x42000419: 0c03       movi.n       a3, 0
+0x4200041b: 3ca3       movi.n       a3, 0x3a
+0x4200041d: 0c03       movi.n       a3, 0
+0x4200041f: 3ca9       movi.n       a9, 0x3a
+0x42000421: 0c03       movi.n       a3, 0
+0x42000423: 3cb0       movi.n       a0, 0x3b
+0x42000425: 0c03       movi.n       a3, 0
+0x42000427: 3cb7       movi.n       a7, 0x3b
+0x42000429: 0c03       movi.n       a3, 0
+0x4200042b: 3cc4       movi.n       a4, 0x3c
+0x4200042d: 0c03       movi.n       a3, 0
+0x4200042f: 3cd1       movi.n       a1, 0x3d
+0x42000431: 0c03       movi.n       a3, 0
+0x42000433: 3cde       movi.n       a14, 0x3d
+0x42000435: 0c03       movi.n       a3, 0
+0x42000437: 3cec       movi.n       a12, 0x3e
+0x42000439: 0c03       movi.n       a3, 0
+0x4200043b: 3cff       movi.n       a15, 0x3f

@@ -1,0 +1,32 @@
+PARI stack size set to 1073741824 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+PARI stack size set to 536870912 bytes, maximum size set to 1073741824
+[+] round 0: prime p has 256 bits
+    found curve, smooth_bits=56, submitting...
+    total CRT modulus = 54 bits
+[+] round 1: prime p has 256 bits
+    found curve, smooth_bits=61, submitting...
+    total CRT modulus = 115 bits
+[+] round 2: prime p has 256 bits
+    found curve, smooth_bits=68, submitting...
+    total CRT modulus = 177 bits
+[+] round 3: prime p has 256 bits
+    found curve, smooth_bits=84, submitting...
+    total CRT modulus = 256 bits
+[+] recovered candidate d (167 bits)
+[+] verified d*G == Q on last curve
+[+] key bytes: b'tmmwlaypemhfquaassvdy'
+[+] signature r=0xf892bd09d02f312a714c237f79ca3883895b68c4c6f2e4043cf6605bfc8839ed s=0xd7dfe59799b3ba5380f12db739c12e1a70892df2b9356ece4adf877050362161
+ Congratulations! Here is your flag: v1t{SomeTimeICanNotControlMyHeart}
+
+FLAG: v1t{SomeTimeICanNotControlMyHeart}

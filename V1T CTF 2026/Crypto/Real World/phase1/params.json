@@ -1,0 +1,7 @@
+{
+  "q": 1048583,
+  "dimension": 12,
+  "samples": 2400,
+  "vectors": "a_vectors.csv",
+  "frames": "frames/frame_0000.png ... frames/frame_2399.png"
+}

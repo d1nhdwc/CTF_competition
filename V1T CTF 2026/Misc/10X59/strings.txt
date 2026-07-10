@@ -1,0 +1,1994 @@
+14a0af9
+arduino-lib-builder
+11:43:43
+Mar 31 2026
+v5.5.4
+#11b4slqOHT
+uart_event_task
+uart_intr_config(uart->num, &uart_intr)
+C:\Users\jackv\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.3.8\cores\esp32\esp32-hal-uart.c
+uart_flush_input(uart->num)
+loopTask
+%s Memory Info:
+------------------------------------------
+  Total Size        : %8lu B (%6.1f KB)
+  Free Bytes        : %8lu B (%6.1f KB)
+  Allocated Bytes   : %8lu B (%6.1f KB)
+  Minimum Free Bytes: %8lu B (%6.1f KB)
+  Largest Free Block: %8lu B (%6.1f KB)
+=========== Before Setup Start ===========
+Chip Info:
+  Model             : 
+ESP32-S2
+ESP32-S3
+ESP32-C2
+ESP32-C3
+ESP32-C6
+ESP32-H2
+ESP32-P4
+ESP32-C5
+ESP32-C61
+ESP32-H21
+Unknown %d
+  Package           : 
+  Revision          : %.2f
+  Cores             : %u
+  CPU Frequency     : %lu MHz
+  XTAL Frequency    : %d MHz
+  Features Bitfield : %#010lx
+  Embedded Flash    : %s
+  Embedded PSRAM    : %s
+  2.4GHz WiFi       : %s
+  Classic BT        : %s
+  BT Low Energy     : %s
+  IEEE 802.15.4     : %s
+SPIRAM
+  Bus Mode          : 
+Flash Info:
+  Chip Size         : %8luB (%.0f MB)
+  Block Size        : %8luB (%6.1f KB)
+  Sector Size       : %8luB (%6.1f KB)
+  Page Size         : %8luB (%6.1f KB)
+  Bus Speed         : %lu MHz
+  Flash Frequency   : %lu MHz (source: %u MHz, divider: %u)
+Partitions Info:
+  %17s : addr: 0x%08lX, size: %7.1f KB
+, type:  APP
+, subtype: FACTORY
+, subtype: OTA_%u
+, subtype: TEST
+, subtype: 0x%02X
+, type: DATA
+, subtype: 
+COREDUMP
+NVS_KEYS
+EFUSE_EM
+UNDEFINED
+ESPHTTPD
+SPIFFS
+LITTLEFS
+Software Info:
+22:14:26
+Jun 23 2026
+  Compile Date/Time : %s %s
+windows
+  Compile Host OS   : %s
+  ESP-IDF Version   : %s
+  Arduino Version   : %s
+Board Info:
+ESP32S3_DEV
+  Arduino Board     : %s
+esp32s3
+  Arduino Variant   : %s
+esp32:esp32:esp32s3:UploadSpeed=921600,USBMode=hwcdc,CDCOnBoot=default,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,PSRAM=disabled,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default
+  Arduino FQBN      : %s
+============ Before Setup End ============
+=========== After Setup Start ============
+GPIO Info:
+  GPIO : BUS_TYPE[bus/unit][chan]
+  --------------------------------------  
+  %4u : 
+============ After Setup End =============
+UART_RX
+UART_TX
+UART_CTS
+UART_RTS
+SIGMADELTA
+ADC_ONESHOT
+ADC_CONT
+RMT_TX
+RMT_RX
+I2S_STD_MCLK
+I2S_STD_BCLK
+I2S_STD_WS
+I2S_STD_DOUT
+I2S_STD_DIN
+I2S_TDM_MCLK
+I2S_TDM_BCLK
+I2S_TDM_WS
+I2S_TDM_DOUT
+I2S_TDM_DIN
+I2S_PDM_TX_CLK
+I2S_PDM_TX_DOUT0
+I2S_PDM_TX_DOUT1
+I2S_PDM_RX_CLK
+I2S_PDM_RX_DIN0
+I2S_PDM_RX_DIN1
+I2S_PDM_RX_DIN2
+I2S_PDM_RX_DIN3
+I2C_MASTER_SDA
+I2C_MASTER_SCL
+I2C_SLAVE_SDA
+I2C_SLAVE_SCL
+SPI_MASTER_SCK
+SPI_MASTER_MISO
+SPI_MASTER_MOSI
+SPI_MASTER_SS
+SDMMC_CLK
+SDMMC_CMD
+SDMMC_D0
+SDMMC_D1
+SDMMC_D2
+SDMMC_D3
+USB_DM
+USB_DP
+ETHERNET_SPI
+PPP_MODEM_TX
+PPP_MODEM_RX
+PPP_MODEM_RTS
+PPP_MODEM_CTS
+E (%lu) %s: %s(%d): %s
+GPIO number error
+GPIO number error (input-only pad has no internal PU)
+esp_ota_ops
+E (%lu) %s: not found otadata
+E (%lu) %s: mmap otadata filed. Err=0x%8x
+phys_offs != SPI_FLASH_CACHE2PHYS_FAIL
+//IDF/components/app_update/esp_ota_ops.c
+it != NULL
+ota_app_count < 16 && "must erase the partition before writing to it"
+E (%lu) %s: Rollback is not possible, do not have any suitable apps in slots
+E (%lu) %s: Running firmware is factory
+partition
+E (%lu) %s: No MD5 found in partition table
+E (%lu) %s: Partition table MD5 mismatch
+E (%lu) %s: load_partitions returned 0x%x
+SLIST_EMPTY(&s_partition_list)
+//IDF/components/esp_partition/partition.c
+iterator != NULL
+partition != NULL
+//IDF/components/esp_partition/partition_target.c
+boot_comm
+E (%lu) %s: chip revision check failed. Required >= v%d.%d, found v%d.%d.
+E (%lu) %s: chip revision check failed. Required <= v%d.%d, found v%d.%d.
+E (%lu) %s: Image requires efuse blk rev >= v%lu.%lu, but chip is v%lu.%lu
+E (%lu) %s: Image requires efuse blk rev <= v%lu.%lu, but chip is v%lu.%lu
+E (%lu) %s: mismatch chip ID, expected %d, found %d
+bootloader_mmap
+E (%lu) %s: tried to bootloader_mmap twice
+E (%lu) %s: spi_flash_mmap failed: 0x%x
+mosi_len <= 32
+//IDF/components/bootloader_support/bootloader_flash/src/bootloader_flash.c
+miso_len <= 32
+miso_byte_num <= 4
+esp_image
+E (%lu) %s: Checksum failed. Calculated 0x%x read 0x%x
+E (%lu) %s: image at 0x%lx has invalid magic byte (nothing flashed here?)
+E (%lu) %s: image at 0x%lx segment count %d exceeds max %d
+E (%lu) %s: Image length %lu doesn't fit in partition length %lu
+E (%lu) %s: bootloader_flash_read failed at 0x%08lx
+E (%lu) %s: invalid segment length 0x%lx
+E (%lu) %s: Segment %d load address 0x%08lx, doesn't match data 0x%08lx
+E (%lu) %s: No free MMU pages are available
+E (%lu) %s: bootloader_mmap(0x%lx, 0x%lx) failed
+E (%lu) %s: image offset has wrapped
+Calculated hash
+E (%lu) %s: Image hash failed - image is corrupt
+Expected hash
+handle != NULL
+//IDF/components/bootloader_support/src/bootloader_sha.c
+ret == 0
+new_array_id < block_nums
+//IDF/components/spi_flash/flash_mmap.c
+0 && "invalid handle, or handle already unmapped"
+E (%lu) %s: Detected size(%dk) smaller than the size in the binary image header(%dk). Probe failed.
+E (%lu) %s: %s(%d): 32bit address feature check failed
+s_flash_op_mutex != NULL
+//IDF/components/spi_flash/cache_utils.c
+esp_task_stack_is_sane_cache_disabled()
+s_flash_op_cpu == -1
+other_cpuid == 1
+cpuid == s_flash_op_cpu
+!(xTaskGetSchedulerState() == taskSCHEDULER_NOT_STARTED && cpuid != 0)
+io <= ESP_MSPI_IO_D7
+//IDF/components/spi_flash/flash_ops.c
+cpuid == xPortGetCoreID()
+//IDF/components/esp_system/esp_ipc.c
+res == pdTRUE
+Panic handler entered multiple times. Abort panic handling. Rebooting ...
+Guru Meditation Error: Core 
+ panic'ed (
+Setting breakpoint at 0x
+ and returning...
+ELF file SHA256: 
+Re-entered core dump! Exception happened during core dump!
+Rebooting...
+flash_ret == ESP_OK
+//IDF/components/esp_system/startup_funcs.c
+task_wdt
+E (%lu) %s: %s(%d): task watchdog was never initialized
+E (%lu) %s: %s(%d): task is already subscribed
+E (%lu) %s: %s(%d): user is already subscribed
+E (%lu) %s: %s(%d): task not found
+E (%lu) %s: %s(%d): user not found
+E (%lu) %s: Aborting.
+ret == pdTRUE
+//IDF/components/esp_system/task_wdt/task_wdt.c
+E (%lu) %s: Print CPU %d (current core) backtrace
+E (%lu) %s: Print CPU %d backtrace
+E (%lu) %s: %s(%d): TWDT was never initialized
+idle_task_handle
+esp_task_wdt_add(idle_task_handle)
+esp_register_freertos_idle_hook_for_cpu(idle_hook_cb, core_num)
+E (%lu) %s: %s(%d): Invalid arguments
+E (%lu) %s: %s(%d): TWDT already initialized
+E (%lu) %s: %s(%d): insufficient memory
+ (CPU 0)
+ (CPU 1)
+ (CPU 0/1)
+Task watchdog got triggered. The following tasks/users did not reset the watchdog in time:
+E (%lu) %s: %s
+E (%lu) %s:  - %s%s
+E (%lu) %s: CPU %d: %s
+cpus_fail != 0
+cpu_start
+E (%lu) %s: Running on single core variant of a chip, but app is built with multi-core support.
+E (%lu) %s: Check that CONFIG_FREERTOS_UNICORE is enabled in menuconfig
+E (%lu) %s: Invalid app image header
+Unknown
+v5.5.4
+Memory dump at 0x
+, error address: 0x
+, error size: 0x
+Cache disabled but cached memory region accessed
+Debug exception reason: 
+SingleStep 
+HwBreakpoint 
+Stack canary watchpoint triggered (
+Watchpoint 0 triggered 
+BREAK instr 
+BREAKN instr 
+DebugIntr 
+ register dump:
+ was running in ISR context:
+EPC1    : 0x
+  EPC2    : 0x
+  EPC3    : 0x
+  EPC4    : 0x
+PC      
+PS      
+A0      
+A1      
+A2      
+A3      
+A4      
+A5      
+A6      
+A7      
+A8      
+A9      
+A10     
+A11     
+A12     
+A13     
+A14     
+A15     
+SAR     
+EXCCAUSE
+EXCVADDR
+LBEG    
+LEND    
+LCOUNT  
+Exception was unhandled.
+Unknown reason
+Unhandled debug exception
+Double exception
+Unhandled kernel exception
+Coprocessor exception
+Interrupt wdt timeout on CPU0
+Interrupt wdt timeout on CPU1
+Cache error
+IllegalInstruction
+Syscall
+InstructionFetchError
+LoadStoreError
+Level1Interrupt
+Alloca
+IntegerDivideByZero
+PCValue
+Privileged
+LoadStoreAlignment
+InstrPDAddrError
+LoadStorePIFDataError
+InstrPIFAddrError
+LoadStorePIFAddrError
+InstTLBMiss
+InstTLBMultiHit
+InstFetchPrivilege
+InstrFetchProhibited
+LoadStoreTLBMiss
+LoadStoreTLBMultihit
+LoadStorePrivilege
+LoadProhibited
+StoreProhibited
+Cp0Dis
+Cp1Dis
+Cp2Dis
+Cp3Dis
+Cp4Dis
+Cp5Dis
+Cp6Dis
+Cp7Dis
+ 0x%08lX:0x%08lX
+Backtrace:
+ |<-CORRUPTED
+ |<-CONTINUES
+No Name
+E (%lu) %s: %s(%d): Task snapshot alloc failed
+E (%lu) %s: %s(%d): IPC call failed
+DBG HLPR
+rtc_clk_xtal_freq_get() == SOC_XTAL_FREQ_40M
+//IDF/components/esp_system/port/soc/esp32s3/clk.c
+Dbus write to cache rejected
+Icache sync parameter configuration error
+Icache preload parameter configuration error
+Dcache sync parameter configuration error
+Dcache preload parameter configuration error
+Write back error occurred while dcache tries to write back to flash
+The following backtrace may not indicate the code that caused Cache invalid access
+MMU entry fault error
+core_id < CONFIG_FREERTOS_NUMBER_OF_CORES
+//IDF/components/esp_system/crosscore_int.c
+E (%lu) %s: init function %p has failed (0x%x), aborting
+ESP_FAIL
+ESP_ERR_NO_MEM
+ESP_ERR_INVALID_ARG
+ESP_ERR_INVALID_STATE
+ESP_ERR_INVALID_SIZE
+ESP_ERR_NOT_FOUND
+ESP_ERR_NOT_SUPPORTED
+ESP_ERR_TIMEOUT
+ESP_ERR_INVALID_RESPONSE
+ESP_ERR_INVALID_CRC
+ESP_ERR_INVALID_VERSION
+ESP_ERR_INVALID_MAC
+ESP_ERR_NOT_FINISHED
+ESP_ERR_NOT_ALLOWED
+ESP_ERR_NVS_BASE
+ESP_ERR_NVS_NOT_INITIALIZED
+ESP_ERR_NVS_NOT_FOUND
+ESP_ERR_NVS_TYPE_MISMATCH
+ESP_ERR_NVS_READ_ONLY
+ESP_ERR_NVS_NOT_ENOUGH_SPACE
+ESP_ERR_NVS_INVALID_NAME
+ESP_ERR_NVS_INVALID_HANDLE
+ESP_ERR_NVS_REMOVE_FAILED
+ESP_ERR_NVS_KEY_TOO_LONG
+ESP_ERR_NVS_PAGE_FULL
+ESP_ERR_NVS_INVALID_STATE
+ESP_ERR_NVS_INVALID_LENGTH
+ESP_ERR_NVS_NO_FREE_PAGES
+ESP_ERR_NVS_VALUE_TOO_LONG
+ESP_ERR_NVS_PART_NOT_FOUND
+ESP_ERR_NVS_NEW_VERSION_FOUND
+ESP_ERR_NVS_XTS_ENCR_FAILED
+ESP_ERR_NVS_XTS_DECR_FAILED
+ESP_ERR_NVS_XTS_CFG_FAILED
+ESP_ERR_NVS_XTS_CFG_NOT_FOUND
+ESP_ERR_NVS_ENCR_NOT_SUPPORTED
+ESP_ERR_NVS_KEYS_NOT_INITIALIZED
+ESP_ERR_NVS_CORRUPT_KEY_PART
+ESP_ERR_NVS_CONTENT_DIFFERS
+ESP_ERR_NVS_WRONG_ENCRYPTION
+ESP_ERR_ULP_BASE
+ESP_ERR_ULP_SIZE_TOO_BIG
+ESP_ERR_ULP_INVALID_LOAD_ADDR
+ESP_ERR_ULP_DUPLICATE_LABEL
+ESP_ERR_ULP_UNDEFINED_LABEL
+ESP_ERR_ULP_BRANCH_OUT_OF_RANGE
+ESP_ERR_OTA_BASE
+ESP_ERR_OTA_PARTITION_CONFLICT
+ESP_ERR_OTA_SELECT_INFO_INVALID
+ESP_ERR_OTA_VALIDATE_FAILED
+ESP_ERR_OTA_SMALL_SEC_VER
+ESP_ERR_OTA_ROLLBACK_FAILED
+ESP_ERR_OTA_ROLLBACK_INVALID_STATE
+ESP_ERR_EFUSE
+ESP_OK_EFUSE_CNT
+ESP_ERR_EFUSE_CNT_IS_FULL
+ESP_ERR_EFUSE_REPEATED_PROG
+ESP_ERR_CODING
+ESP_ERR_NOT_ENOUGH_UNUSED_KEY_BLOCKS
+ESP_ERR_DAMAGED_READING
+ESP_ERR_IMAGE_BASE
+ESP_ERR_IMAGE_FLASH_FAIL
+ESP_ERR_IMAGE_INVALID
+ESP_ERR_WIFI_BASE
+ESP_ERR_WIFI_NOT_INIT
+ESP_ERR_WIFI_NOT_STARTED
+ESP_ERR_WIFI_NOT_STOPPED
+ESP_ERR_WIFI_IF
+ESP_ERR_WIFI_MODE
+ESP_ERR_WIFI_STATE
+ESP_ERR_WIFI_CONN
+ESP_ERR_WIFI_NVS
+ESP_ERR_WIFI_MAC
+ESP_ERR_WIFI_SSID
+ESP_ERR_WIFI_PASSWORD
+ESP_ERR_WIFI_TIMEOUT
+ESP_ERR_WIFI_WAKE_FAIL
+ESP_ERR_WIFI_WOULD_BLOCK
+ESP_ERR_WIFI_NOT_CONNECT
+ESP_ERR_WIFI_POST
+ESP_ERR_WIFI_INIT_STATE
+ESP_ERR_WIFI_STOP_STATE
+ESP_ERR_WIFI_NOT_ASSOC
+ESP_ERR_WIFI_TX_DISALLOW
+ESP_ERR_WIFI_TWT_FULL
+ESP_ERR_WIFI_TWT_SETUP_TIMEOUT
+ESP_ERR_WIFI_TWT_SETUP_TXFAIL
+ESP_ERR_WIFI_TWT_SETUP_REJECT
+ESP_ERR_WIFI_DISCARD
+ESP_ERR_WIFI_ROC_IN_PROGRESS
+ESP_ERR_WIFI_REGISTRAR
+ESP_ERR_WIFI_WPS_TYPE
+ESP_ERR_WIFI_WPS_SM
+ESP_ERR_ESPNOW_BASE
+ESP_ERR_ESPNOW_NOT_INIT
+ESP_ERR_ESPNOW_ARG
+ESP_ERR_ESPNOW_NO_MEM
+ESP_ERR_ESPNOW_FULL
+ESP_ERR_ESPNOW_NOT_FOUND
+ESP_ERR_ESPNOW_INTERNAL
+ESP_ERR_ESPNOW_EXIST
+ESP_ERR_ESPNOW_IF
+ESP_ERR_ESPNOW_CHAN
+ESP_ERR_DPP_FAILURE
+ESP_ERR_DPP_TX_FAILURE
+ESP_ERR_DPP_INVALID_ATTR
+ESP_ERR_DPP_AUTH_TIMEOUT
+ESP_ERR_DPP_INVALID_LIST
+ESP_ERR_DPP_CONF_TIMEOUT
+ESP_ERR_MESH_BASE
+ESP_ERR_MESH_WIFI_NOT_START
+ESP_ERR_MESH_NOT_INIT
+ESP_ERR_MESH_NOT_CONFIG
+ESP_ERR_MESH_NOT_START
+ESP_ERR_MESH_NOT_SUPPORT
+ESP_ERR_MESH_NOT_ALLOWED
+ESP_ERR_MESH_NO_MEMORY
+ESP_ERR_MESH_ARGUMENT
+ESP_ERR_MESH_EXCEED_MTU
+ESP_ERR_MESH_TIMEOUT
+ESP_ERR_MESH_DISCONNECTED
+ESP_ERR_MESH_QUEUE_FAIL
+ESP_ERR_MESH_QUEUE_FULL
+ESP_ERR_MESH_NO_PARENT_FOUND
+ESP_ERR_MESH_NO_ROUTE_FOUND
+ESP_ERR_MESH_OPTION_NULL
+ESP_ERR_MESH_OPTION_UNKNOWN
+ESP_ERR_MESH_XON_NO_WINDOW
+ESP_ERR_MESH_INTERFACE
+ESP_ERR_MESH_DISCARD_DUPLICATE
+ESP_ERR_MESH_DISCARD
+ESP_ERR_MESH_VOTING
+ESP_ERR_MESH_XMIT
+ESP_ERR_MESH_QUEUE_READ
+ESP_ERR_MESH_PS
+ESP_ERR_MESH_RECV_RELEASE
+ESP_ERR_ESP_NETIF_BASE
+ESP_ERR_ESP_NETIF_INVALID_PARAMS
+ESP_ERR_ESP_NETIF_IF_NOT_READY
+ESP_ERR_ESP_NETIF_DHCPC_START_FAILED
+ESP_ERR_ESP_NETIF_DHCP_ALREADY_STARTED
+ESP_ERR_ESP_NETIF_DHCP_ALREADY_STOPPED
+ESP_ERR_ESP_NETIF_NO_MEM
+ESP_ERR_ESP_NETIF_DHCP_NOT_STOPPED
+ESP_ERR_ESP_NETIF_DRIVER_ATTACH_FAILED
+ESP_ERR_ESP_NETIF_INIT_FAILED
+ESP_ERR_ESP_NETIF_DNS_NOT_CONFIGURED
+ESP_ERR_ESP_NETIF_MLD6_FAILED
+ESP_ERR_ESP_NETIF_IP6_ADDR_FAILED
+ESP_ERR_ESP_NETIF_DHCPS_START_FAILED
+ESP_ERR_ESP_NETIF_TX_FAILED
+ESP_ERR_FLASH_BASE
+ESP_ERR_FLASH_OP_FAIL
+ESP_ERR_FLASH_OP_TIMEOUT
+ESP_ERR_FLASH_NOT_INITIALISED
+ESP_ERR_FLASH_UNSUPPORTED_HOST
+ESP_ERR_FLASH_UNSUPPORTED_CHIP
+ESP_ERR_FLASH_PROTECTED
+ESP_ERR_HTTP_BASE
+ESP_ERR_HTTP_MAX_REDIRECT
+ESP_ERR_HTTP_CONNECT
+ESP_ERR_HTTP_WRITE_DATA
+ESP_ERR_HTTP_FETCH_HEADER
+ESP_ERR_HTTP_INVALID_TRANSPORT
+ESP_ERR_HTTP_CONNECTING
+ESP_ERR_HTTP_EAGAIN
+ESP_ERR_HTTP_CONNECTION_CLOSED
+ESP_ERR_HTTP_NOT_MODIFIED
+ESP_ERR_HTTP_RANGE_NOT_SATISFIABLE
+ESP_ERR_HTTP_READ_TIMEOUT
+ESP_ERR_HTTP_INCOMPLETE_DATA
+ESP_ERR_ESP_TLS_BASE
+ESP_ERR_ESP_TLS_CANNOT_RESOLVE_HOSTNAME
+ESP_ERR_ESP_TLS_CANNOT_CREATE_SOCKET
+ESP_ERR_ESP_TLS_UNSUPPORTED_PROTOCOL_FAMILY
+ESP_ERR_ESP_TLS_FAILED_CONNECT_TO_HOST
+ESP_ERR_ESP_TLS_SOCKET_SETOPT_FAILED
+ESP_ERR_ESP_TLS_CONNECTION_TIMEOUT
+ESP_ERR_ESP_TLS_SE_FAILED
+ESP_ERR_ESP_TLS_TCP_CLOSED_FIN
+ESP_ERR_ESP_TLS_SERVER_HANDSHAKE_TIMEOUT
+ESP_ERR_MBEDTLS_CERT_PARTLY_OK
+ESP_ERR_MBEDTLS_CTR_DRBG_SEED_FAILED
+ESP_ERR_MBEDTLS_SSL_SET_HOSTNAME_FAILED
+ESP_ERR_MBEDTLS_SSL_CONFIG_DEFAULTS_FAILED
+ESP_ERR_MBEDTLS_SSL_CONF_ALPN_PROTOCOLS_FAILED
+ESP_ERR_MBEDTLS_X509_CRT_PARSE_FAILED
+ESP_ERR_MBEDTLS_SSL_CONF_OWN_CERT_FAILED
+ESP_ERR_MBEDTLS_SSL_SETUP_FAILED
+ESP_ERR_MBEDTLS_SSL_WRITE_FAILED
+ESP_ERR_MBEDTLS_PK_PARSE_KEY_FAILED
+ESP_ERR_MBEDTLS_SSL_HANDSHAKE_FAILED
+ESP_ERR_MBEDTLS_SSL_CONF_PSK_FAILED
+ESP_ERR_MBEDTLS_SSL_TICKET_SETUP_FAILED
+ESP_ERR_MBEDTLS_SSL_READ_FAILED
+ESP_ERR_WOLFSSL_SSL_SET_HOSTNAME_FAILED
+ESP_ERR_WOLFSSL_SSL_CONF_ALPN_PROTOCOLS_FAILED
+ESP_ERR_WOLFSSL_CERT_VERIFY_SETUP_FAILED
+ESP_ERR_WOLFSSL_KEY_VERIFY_SETUP_FAILED
+ESP_ERR_WOLFSSL_SSL_HANDSHAKE_FAILED
+ESP_ERR_WOLFSSL_CTX_SETUP_FAILED
+ESP_ERR_WOLFSSL_SSL_SETUP_FAILED
+ESP_ERR_WOLFSSL_SSL_WRITE_FAILED
+ESP_ERR_HTTPS_OTA_BASE
+ESP_ERR_HTTPS_OTA_IN_PROGRESS
+ESP_ERR_PING_BASE
+ESP_ERR_PING_INVALID_PARAMS
+ESP_ERR_PING_NO_MEM
+ESP_ERR_HTTPD_BASE
+ESP_ERR_HTTPD_HANDLERS_FULL
+ESP_ERR_HTTPD_HANDLER_EXISTS
+ESP_ERR_HTTPD_INVALID_REQ
+ESP_ERR_HTTPD_RESULT_TRUNC
+ESP_ERR_HTTPD_RESP_HDR
+ESP_ERR_HTTPD_RESP_SEND
+ESP_ERR_HTTPD_ALLOC_MEM
+ESP_ERR_HTTPD_TASK
+ESP_ERR_HW_CRYPTO_BASE
+ESP_ERR_HW_CRYPTO_DS_HMAC_FAIL
+ESP_ERR_HW_CRYPTO_DS_INVALID_KEY
+ESP_ERR_HW_CRYPTO_DS_INVALID_DIGEST
+ESP_ERR_HW_CRYPTO_DS_INVALID_PADDING
+ESP_ERR_MEMPROT_BASE
+ESP_ERR_MEMPROT_MEMORY_TYPE_INVALID
+ESP_ERR_MEMPROT_SPLIT_ADDR_INVALID
+ESP_ERR_MEMPROT_SPLIT_ADDR_OUT_OF_RANGE
+ESP_ERR_MEMPROT_SPLIT_ADDR_UNALIGNED
+ESP_ERR_MEMPROT_UNIMGMT_BLOCK_INVALID
+ESP_ERR_MEMPROT_WORLD_INVALID
+ESP_ERR_MEMPROT_AREA_INVALID
+ESP_ERR_MEMPROT_CPUID_INVALID
+flash_hal
+E (%lu) %s: Target frequency %dMHz higher than src %dMHz.
+i == 0 || s_log_cache[(i - 1) / 2].generation < s_log_cache[i].generation
+//IDF/components/log/src/log_level/tag_log_level/cache/log_binary_heap.c
+heap_size <= HEAP_SIZE_MAX
+//IDF/components/heap/heap_caps_init.c
+heap_idx <= num_heaps
+heap_idx == num_heaps
+SLIST_EMPTY(&registered_heaps)
+heaps_array != NULL
+start_ptr
+//IDF/components/heap/multi_heap.c
+%p %s size: %x (%p)
+!block_is_last(block)
+//IDF/components/heap/tlsf/tlsf_block_functions.h
+tlsf_add_pool: Memory must be aligned by %u bytes.
+tlsf_add_pool: Memory size must be between %u and %u bytes.
+current && "free list cannot have a null entry"
+//IDF/components/heap/tlsf/tlsf_control_functions.h
+block_to_ptr(block) == align_ptr(block_to_ptr(block), ALIGN_SIZE) && "block not aligned properly"
+block_is_free(block) && "block should be free"
+//IDF/components/heap/tlsf/tlsf.c
+!block_is_free(block_next(block)) && "next block should not be free"
+block_size(block_next(block)) == 0 && "next block size should be zero"
+prev && "prev_free field can not be null"
+next && "next_free field can not be null"
+tlsf_create: Memory must be aligned to %u bytes.
+ALIGN_SIZE == control->small_block_size / control->sl_index_count
+reserved[i].start <= reserved[i].end
+//IDF/components/heap/port/memory_layout_utils.c
+reserved[i + 1].start > reserved[i].start
+memory_layout
+E (%lu) %s: SOC_RESERVE_MEMORY_REGION region range 0x%08x - 0x%08x overlaps with 0x%08x - 0x%08x
+RTCRAM
+heap != NULL && "free() target pointer is outside heap areas"
+//IDF/components/heap/heap_caps_base.c
+esp_ptr_in_diram_dram((void *)dstart) || esp_ptr_in_rtc_dram_fast((void *)dstart)
+esp_ptr_in_diram_dram((void *)dend) || esp_ptr_in_rtc_dram_fast((void *)dend)
+(dstart & 3) == 0
+(dend & 3) == 0
+heap != NULL && "realloc() pointer is outside heap areas"
+old_size > 0
+!((vd->flags & VECDESC_FL_SHARED) && (vd->flags & VECDESC_FL_NONSHARED))
+//IDF/components/esp_hw_support/intr_alloc.c
+svd != NULL
+intr_alloc
+E (%lu) %s: No free interrupt inputs for %s interrupt (flags 0x%X)
+intr_num >= 0 && intr_num < SOC_CPU_INTR_NUM
+//IDF/components/esp_hw_support/include/esp_cpu.h
+periph < PERIPH_MODULE_MAX
+//IDF/components/esp_hw_support/periph_ctrl.c
+esp_clk_tree
+E (%lu) %s: %s(%d): unknown clk src
+E (%lu) %s: %s(%d): unknown precision
+E (%lu) %s: %s(%d): null pointer
+E (%lu) %s: %s(%d): freq shouldn't be 0, calibration failed
+s_cache_suspend_cnt >= 0 && DRAM_STR("cache resume doesn't match suspend ops")
+//IDF/components/esp_hw_support/sleep_modes.c
+E (%lu) %s: Deep sleep request is rejected
+ESP_SLEEP_RTC_USE_RC_FAST_MODE
+ESP_SLEEP_DIG_USE_RC_FAST_MODE
+ESP_SLEEP_USE_ADC_TSEN_MONITOR_MODE
+ESP_SLEEP_ULTRA_LOW_MODE
+ESP_SLEEP_RTC_FAST_USE_XTAL_MODE
+ESP_SLEEP_DIG_USE_XTAL_MODE
+ESP_SLEEP_LP_USE_XTAL_MODE
+ESP_SLEEP_VBAT_POWER_DEEPSLEEP_MODE
+ENABLED
+DISABLED
+%s : %s (cnt = %ld)
+slowclk_cycles
+//IDF/components/esp_hw_support/port/esp32s3/rtc_time.c
+period
+core_id >= 0 && core_id < SOC_CPU_CORES_NUM && intr_desc_ret != NULL
+//IDF/components/esp_hw_support/port/esp32s3/esp_cpu_intr.c
+esp_task_wdt_init(&twdt_config)
+//IDF/components/freertos/app_startup.c
+pxQueueSetContainer
+//IDF/components/freertos/FreeRTOS-Kernel/queue.c
+pxQueueSetContainer->uxMessagesWaiting < pxQueueSetContainer->uxLength
+pxQueue
+xReturn != ( ( ( BaseType_t ) 0 ) )
+xSize == sizeof( Queue_t )
+pxNewQueue
+ppxStaticQueue
+xSemaphore
+xHandle
+!( ( pvItemToQueue == ((void *)0) ) && ( pxQueue->uxItemSize != ( UBaseType_t ) 0U ) )
+!( ( xCopyPosition == ( ( BaseType_t ) 2 ) ) && ( pxQueue->uxLength != 1 ) )
+!( ( xTaskGetSchedulerState() == ( ( BaseType_t ) 0 ) ) && ( xTicksToWait != 0 ) )
+pxMutex
+pxQueue->uxItemSize == 0
+!( ( pxQueue->pcHead == ((void *)0) ) && ( pxQueue->u.xSemaphore.xMutexHolder != ((void *)0) ) )
+( pxQueue )
+!( ( ( pvBuffer ) == ((void *)0) ) && ( ( pxQueue )->uxItemSize != ( UBaseType_t ) 0U ) )
+!( ( pvBuffer == ((void *)0) ) && ( pxQueue->uxItemSize != ( UBaseType_t ) 0U ) )
+uxTaskPriority < ( 25 )
+//IDF/components/freertos/FreeRTOS-Kernel/tasks.c
+pxTCB->ucStaticallyAllocated == ( ( uint8_t ) 2 )
+uxPriority < ( 25 )
+xPortGetCoreID() == 0
+( ( ( ( pxDelayedTaskList )->uxNumberOfItems == ( UBaseType_t ) 0 ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) )
+xTaskScheduled == ( ( BaseType_t ) 1 )
+pxEventList
+pxUnblockedTCB
+uxSchedulerSuspended[ uxPendCore ] != ( UBaseType_t ) 0U
+pxTimeOut
+pxTicksToWait
+uxNewPriority < ( 25 )
+( ( xTaskGetSchedulerState() == ( ( BaseType_t ) 0 ) ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) == ( ( BaseType_t ) 0 )
+( ( xTaskGetSchedulerState() == ( ( BaseType_t ) 0 ) ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) == ( ( BaseType_t ) 1 )
+pxTCB == pxCurrentTCBs[ xPortGetCoreID() ]
+pxTCB->uxMutexesHeld
+pxTCB != pxCurrentTCBs[ xPortGetCoreID() ]
+uxIndexToWait < 1
+uxIndexToNotify < 1
+xTaskToNotify
+xTickCount == ( TickType_t ) 0
+( ( &( pxTCB->xEventListItem ) )->pvContainer ) == ((void *)0)
+xCoreID != 0
+//IDF/components/freertos/esp_additions/freertos_tasks_c_additions.h
+( ( ( ( BaseType_t ) xCoreID ) >= 0 && ( ( BaseType_t ) xCoreID ) < 2 ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) == ( ( BaseType_t ) 1 ) || xCoreID == ( ( BaseType_t ) 0x7FFFFFFF )
+xPortcheckValidStackMem(puxStackBuffer)
+xPortCheckValidTCBMem(pxTaskBuffer)
+xSize == sizeof( TCB_t )
+xReturn != ( -1 )
+( ( ( ( BaseType_t ) xCoreID ) >= 0 && ( ( BaseType_t ) xCoreID ) < 2 ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) == ( ( BaseType_t ) 1 )
+( xIdleTaskHandle[ xCoreID ] != ((void *)0) )
+FreeRTOS
+E (%lu) %s: FreeRTOS Task "%s" should not return, Aborting now!
+(uxStackPointer & ( 0x000f )) == 0
+//IDF/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c
+***ERROR*** A stack overflow in task 
+ has been detected.
+E (%lu) %s: Fatal error: TLSP deletion callback at index %d overwritten with non-excutable pointer %p
+eRunning != eTaskGetState( xTaskToDelete )
+//IDF/components/freertos/esp_additions/idf_additions.c
+xResult == ( ( BaseType_t ) 1 )
+puxStackBuffer != ((void *)0)
+pxTaskBuffer != ((void *)0)
+pxTCBBufferTemp != NULL
+//IDF/components/freertos/port_common.c
+pxStackBufferTemp != NULL
+esp_intr_alloc(ETS_SYSTIMER_TARGET0_INTR_SOURCE + cpuid, ESP_INTR_FLAG_IRAM | level, SysTickIsrHandler, &systimer_hal, NULL)
+/IDF/components/freertos/port_systick.c
+/dev/console
+lock != NULL && "Uninitialized lock used"
+//IDF/components/newlib/src/locks.c
+h != ((void *)0)
+xQueueGetMutexHolder( ( h ) ) == ((void *)0)
+handle == (SemaphoreHandle_t) &s_common_mutex
+handle == (SemaphoreHandle_t) &s_common_recursive_mutex
+pthread
+E (%lu) %s: %s(%d): Failed to initialize pthread key
+false && "Failed to find pthread for current task!"
+//IDF/components/pthread/pthread.c
+E (%lu) %s: %s: not supported!
+false && "Failed to unlock mutex!"
+tls != NULL
+//IDF/components/pthread/pthread_local_storage.c
+alarm_id < sizeof(timestamp_id) / sizeof(timestamp_id[0])
+//IDF/components/esp_timer/src/esp_timer_impl_systimer.c
+esp_timer_systimer
+E (%lu) %s: timer ISR is already initialized
+E (%lu) %s: esp_intr_alloc failed (0x%x)
+E (%lu) %s: Can not enable ISR (0x%0x)
+E (%lu) %s: Failed to initialize PSRAM MSPI memory barrier!
+E (%lu) %s: %s(%d): uart_num error
+E (%lu) %s: %s(%d): data bit error
+E (%lu) %s: %s(%d): stop bit error
+E (%lu) %s: %s(%d): invalid src_clk
+E (%lu) %s: %s(%d): baud rate unachievable
+E (%lu) %s: %s(%d): uart port not enabled, unable to get register values
+E (%lu) %s: %s(%d): Invalid src_clk
+E (%lu) %s: %s(%d): rx flow thresh error
+E (%lu) %s: %s(%d): hw_flowctrl mode error
+E (%lu) %s: %s(%d): uart driver error
+E (%lu) %s: %s(%d): empty intr threshold error
+E (%lu) %s: %s(%d): param null
+E (%lu) %s: %s(%d): not able to power down in light sleep
+E (%lu) %s: baud rate unachievable
+!(is_rs485_mode && disabled && uart_hal_get_intraw_mask(&(uart_context[uart_num].hal)) & UART_INTR_TX_DONE)
+//IDF/components/esp_driver_uart/src/uart.c
+E (%lu) %s: %s(%d): buffer null
+E (%lu) %s: %s(%d): uart size error
+E (%lu) %s: %s(%d): uart data null
+E (%lu) %s: %s(%d): break_num error
+E (%lu) %s: %s(%d): arg pointer is NULL
+E (%lu) %s: rx_buffered_len error
+E (%lu) %s: %s(%d): uart rx buffer length error
+E (%lu) %s: %s(%d): uart tx buffer length error
+E (%lu) %s: UART driver malloc error
+E (%lu) %s: UART driver already installed
+E (%lu) %s: %s(%d): Could not allocate an interrupt for UART
+E (%lu) %s: %s(%d): Could not configure the interrupt for UART
+E (%lu) %s: %s(%d): rx fifo full threshold value error
+E (%lu) %s: call uart_driver_install API first
+E (%lu) %s: tout_thresh = %d > maximum value = %d
+fd >= 0 && fd < 3
+//IDF/components/esp_driver_uart/src/uart_vfs.c
+s_ctx[fd]->peek_char == NONE
+c != NONE
+/dev/uart
+esp_vfs_register_fs("/dev/uart", &s_vfs_uart, ESP_VFS_FLAG_STATIC, NULL)
+nvs::Page::SEC_SIZE == esp_partition_get_main_flash_sector_size()
+esp_err_t nvs_flash_init_partition(const char*)
+//IDF/components/nvs_flash/src/nvs_api.cpp
+/dev/secondary
+s_ctx.peek_char == NONE
+//IDF/components/esp_driver_usb_serial_jtag/src/usb_serial_jtag_vfs.c
+fd == USJ_LOCAL_FD
+/dev/uart/0
+strncmp(src_path, vfs->path_prefix, vfs->path_prefix_len) == 0
+//IDF/components/vfs/vfs.c
+/dev/null
+ROM btdm data
+ROM btdm BSS
+ROM interface btdm data
+ROM interface btdm BSS
+BT Controller BSS
+BT Controller Data
+BT BSS
+BT Data
+E (%lu) %s: Core dump write failed with error=%d
+start != ((void *)0)
+//IDF/components/espcoredump/src/core_dump_common.c
+E (%lu) %s: Core dump flash config is corrupted! CRC=0x%x instead of 0x%x
+E (%lu) %s: Invalid flash partition config!
+E (%lu) %s: Failed to write cached data to flash (%d)!
+E (%lu) %s: Not enough space to save core dump!
+E (%lu) %s: Failed to erase flash (%d)!
+E (%lu) %s: Failed to flush cached data to flash (%d)!
+E (%lu) %s: No core dump partition found!
+E (%lu) %s: Too small core dump partition!
+E (%lu) %s: Failed to erase core dump partition (%d)!
+E (%lu) %s: Failed to write core dump partition size (%d)!
+E (%lu) %s: Failed to read core dump data size (%d)!
+E (%lu) %s: Incorrect size of core dump image: %d
+checksum_size <= 32
+//IDF/components/espcoredump/src/core_dump_flash.c
+E (%lu) %s: Failed to read data from core dump (%d)!
+E (%lu) %s: Failed to read checksum from core dump (%d)!
+E (%lu) %s: Core dump data check failed:
+Calculated checksum
+Image checksum
+E (%lu) %s: %s(%u): Write ELF note header failure (%d)
+E (%lu) %s: %s(%u): Write ELF note name failure (%d)
+E (%lu) %s: %s(%u): Invalid data pointer for segment
+E (%lu) %s: %s(%u): Segment note name is too long %d.
+E (%lu) %s: %s(%u): Write ELF note data failure (%d)
+E (%lu) %s: %s(%u): Write ELF note data failure, returned (%d)
+E (%lu) %s: Zero size register dump for task 0x%x!
+E (%lu) %s: %s(%u): Invalid data for segment.
+E (%lu) %s: %s(%u): Write ELF segment header failure (%d)
+E (%lu) %s: %s(%u): Write ELF segment data failure (%d)
+E (%lu) %s: %s(%u): Invalid input data.
+E (%lu) %s: Task (TCB:%x) processing failure = %d
+E (%lu) %s: %s(%u): Task %x, TCB write failed, return (%d).
+E (%lu) %s: Task (TCB:%x), (Stack:%x), stack processing failure = %d.
+E (%lu) %s: %s(%u): Task %x, stack write failed, return (%d).
+E (%lu) %s: %s(%u): NOTE segment header write failure, returned (%d).
+E (%lu) %s: %s(%u): Write ELF header failure (%d)
+E (%lu) %s: %s(%u): ELF header writing error, returned (%d).
+E (%lu) %s: %s(%u): Task %x, PR_STATUS write failed, return (%d).
+E (%lu) %s: %s(%u): PR_STATUS note segment processing failure, returned(%d).
+E (%lu) %s: %s(%u): Tasks regs addition failed, return (%d).
+E (%lu) %s: %s(%u): Interrupted task stack write failed, return (%d).
+E (%lu) %s: %s(%u): ELF Size writing error, returned (%d).
+E (%lu) %s: %s(%u): invalid memory region
+E (%lu) %s: %s(%u): memory region write failed. Returned (%d).
+E (%lu) %s: %s(%u): memory regions writing error, returned (%d).
+ESP_CORE_DUMP_INFO
+E (%lu) %s: %s(%u): Version info note write failed. Returned (%d).
+E (%lu) %s: Zero size extra info!
+ESP_EXTRA_INFO
+E (%lu) %s: %s(%u): Extra info note write failed. Returned (%d).
+E (%lu) %s: %s(%u): wdt panic message len is zero!
+ESP_PANIC_DETAILS
+E (%lu) %s: %s(%u): Write ELF note padding failure (%d)
+E (%lu) %s: %s(%u): Panic details note write failed. Returned (%d).
+E (%lu) %s: %s(%u): EXTRA_INFO note segment processing failure, returned(%d).
+E (%lu) %s: %s(%u): Version info writing failed. Returned (%d).
+E (%lu) %s: Elf write init failed!
+E (%lu) %s: Failed to prepare core dump storage (%d)!
+E (%lu) %s: Failed to start core dump (%d)!
+E (%lu) %s: Failed to write core dump header (%d)!
+E (%lu) %s: Failed to end core dump (%d)!
+checksum != ((void *)0)
+//IDF/components/espcoredump/src/core_dump_crc.c
+'%08lx'
+E (%lu) %s: Empty data to add to checksum calculation!
+stk_paddr != ((void *)0) && stk_vaddr != ((void *)0)
+//IDF/components/espcoredump/src/port/xtensa/core_dump_port.c
+task != ((void *)0) && reg_dump != ((void *)0)
+E (%lu) %s: Too small stack to keep frame: %d bytes!
+E (%lu) %s: Error while registers processing.
+arduino-esp32
+Unhandled interrupt %d on cpu %d!
+/IDF/components/hal/esp32s3/include/hal/cache_ll.h
+hw_mem_regions[i].region_size % CONFIG_MMU_PAGE_SIZE == 0
+//IDF/components/esp_mm/esp_mmu_map.c
+(mmu_ll_vaddr_to_laddr((uint32_t)&_instruction_reserved_end) - mmu_ll_vaddr_to_laddr((uint32_t)&_instruction_reserved_start)) == irom_len_to_reserve
+(mmu_ll_vaddr_to_laddr((uint32_t)&_rodata_reserved_end) - mmu_ll_vaddr_to_laddr((uint32_t)&_rodata_reserved_start)) == drom_len_to_reserve
+available_region_idx == region_num
+E (%lu) %s: %s(%d): invalid caps
+E (%lu) %s: %s(%d): paddr must be rounded up to the nearest multiple of CONFIG_MMU_PAGE_SIZE
+E (%lu) %s: %s(%d): no mem
+E (%lu) %s: %s(%d): paddr block is overlapped with an already mapped paddr block
+E (%lu) %s: %s(%d): no such vaddr range
+E (%lu) %s: %s(%d): munmap target pointer is outside external memory regions
+E (%lu) %s: %s(%d): munmap target pointer isn't mapped yet
+E (%lu) %s: %s(%d): not a valid external virtual address
+E (%lu) %s: %s(%d): vaddr isn't mapped
+/IDF/components/hal/esp32s3/include/hal/clk_tree_ll.h
+/IDF/components/hal/esp32s3/clk_tree_hal.c
+clk_hal
+E (%lu) %s: Invalid cpu config
+WIFI_NMI
+WIFI_PWR
+WIFI_BB
+BT_MAC
+BT_BB_NMI
+RWBT_NMI
+RWBLE_NMI
+I2C_MASTER
+GPIO_NMI
+GPIO_INTR_2
+GPIO_NMI_2
+LCD_CAM
+SDIO_HOST
+RTC_CORE
+I2C_EXT0
+I2C_EXT1
+SPI2_DMA
+SPI3_DMA
+TIMER1
+TIMER2
+TG0_T0_LEVEL
+TG0_T1_LEVEL
+TG0_WDT_LEVEL
+TG1_T0_LEVEL
+TG1_T1_LEVEL
+TG1_WDT_LEVEL
+CACHE_IA
+SYSTIMER_TARGET0
+SYSTIMER_TARGET1
+SYSTIMER_TARGET2
+SPI_MEM_REJECT_CACHE
+DCACHE_PRELOAD0
+ICACHE_PRELOAD0
+DCACHE_SYNC0
+ICACHE_SYNC0
+APB_ADC
+DMA_IN_CH0
+DMA_IN_CH1
+DMA_IN_CH2
+DMA_IN_CH3
+DMA_IN_CH4
+DMA_OUT_CH0
+DMA_OUT_CH1
+DMA_OUT_CH2
+DMA_OUT_CH3
+DMA_OUT_CH4
+FROM_CPU_INTR0
+FROM_CPU_INTR1
+FROM_CPU_INTR2
+FROM_CPU_INTR3
+ASSIST_DEBUG
+DMA_APBPERI_PMS
+CORE0_IRAM0_PMS
+CORE0_DRAM0_PMS
+CORE0_PIF_PMS
+CORE0_PIF_PMS_SIZE
+CORE1_IRAM0_PMS
+CORE1_DRAM0_PMS
+CORE1_PIF_PMS
+CORE1_PIF_PMS_SIZE
+BACKUP_PMS_VIOLATE
+CACHE_CORE0_ACS
+CACHE_CORE1_ACS
+USB_SERIAL_JTAG
+PERI_BACKUP
+DMA_EXTMEM_REJECT
+s_periph_ref_counts > 0
+//IDF/components/esp_hw_support/clk_ctrl_os.c
+s_platform.groups[group_id]
+//IDF/components/esp_hw_support/dma/gdma.c
+group->pairs[pair_id]
+E (%lu) %s: %s(%d): invalid argument
+E (%lu) %s: %s(%d): no mem for gdma tx channel
+E (%lu) %s: %s(%d): no mem for gdma rx channel
+E (%lu) %s: %s(%d): invalid sibling channel
+E (%lu) %s: %s(%d): sibling channel should have a different direction
+E (%lu) %s: %s(%d): no mem for group(%d)
+E (%lu) %s: %s(%d): no mem for pair(%d,%d)
+E (%lu) %s: %s(%d): no free gdma channel, search code=%d
+pair && group
+E (%lu) %s: %s(%d): channel is using by peripheral: %d
+E (%lu) %s: %s(%d): peripheral and DMA system bus mismatch
+E (%lu) %s: %s(%d): peripheral %d is already used by another channel
+E (%lu) %s: %s(%d): no peripheral is connected to the channel
+E (%lu) %s: %s(%d): invalid max_data_burst_size: %lu
+E (%lu) %s: %s(%d): max_data_burst_size must not exceed %d when accessing external memory
+E (%lu) %s: %s(%d): channel is controlled by ETM
+esp_timer
+E (%lu) %s: Task is already initialized
+E (%lu) %s: Not enough memory to create timer task
+E (%lu) %s: ISR init failed
+ETSTimer
+esp_timer_create(&create_args, (esp_timer_handle_t*) & (ptimer->timer_arg))
+timer_initialized(ptimer)
+//IDF/components/esp_timer/src/ets_timer_legacy.c
+esp_timer_start_once(ESP_TIMER(ptimer), time_us)
+esp_timer_start_periodic(ESP_TIMER(ptimer), time_us)
+(pxRingbuffer->xItemsWaiting > 0) && ((pxRingbuffer->pucRead != pxRingbuffer->pucWrite) || (pxRingbuffer->uxRingbufferFlags & ( ( UBaseType_t ) 4 )))
+//IDF/components/esp_ringbuf/ringbuf.c
+pxRingbuffer->pucRead >= pxRingbuffer->pucHead && pxRingbuffer->pucRead < pxRingbuffer->pucTail
+pxRingbuffer->pucRead == pxRingbuffer->pucFree
+pxRingbuffer->pucAcquire >= pxRingbuffer->pucHead && pxRingbuffer->pucAcquire < pxRingbuffer->pucTail
+( ( ( UBaseType_t ) ( pucItem ) & (0x03) ) == 0 )
+pucItem <= pxRingbuffer->pucTail
+pxCurHeader->xItemLen <= pxRingbuffer->xMaxItemSize
+(pxCurHeader->uxItemFlags & ( ( UBaseType_t ) 2 )) == 0
+(pxCurHeader->uxItemFlags & ( ( UBaseType_t ) 1 )) == 0
+pxRingbuffer->pucFree <= pxRingbuffer->pucHead + pxRingbuffer->xSize
+pxIsSplit != ((void *)0)
+( ( ( UBaseType_t ) ( pxRingbuffer->pucRead ) & (0x03) ) == 0 )
+(pxHeader->xItemLen <= pxRingbuffer->xMaxItemSize) || (pxHeader->uxItemFlags & ( ( UBaseType_t ) 2 ))
+pxHeader->xItemLen <= pxRingbuffer->xMaxItemSize
+pcReturn >= pxRingbuffer->pucHead && pcReturn <= pxRingbuffer->pucTail
+pcReturn >= pxRingbuffer->pucHead && pcReturn < pxRingbuffer->pucTail
+( ( ( UBaseType_t ) ( pxRingbuffer->pucAcquire ) & (0x03) ) == 0 )
+xRemLen >= sizeof(ItemHeader_t)
+(pxCurHeader->uxItemFlags & ( ( UBaseType_t ) 8 )) == 0
+pxRingbuffer->pucWrite <= pxRingbuffer->pucHead + pxRingbuffer->xSize
+*pvItem2 < *pvItem1
+xIsSplit == ( ( BaseType_t ) 0 )
+(uint8_t *)pucItem >= pxRingbuffer->pucHead
+(uint8_t *)pucItem < pxRingbuffer->pucTail
+xBufferSize > 0
+xBufferType < RINGBUF_TYPE_MAX
+pucRingbufferStorage != ((void *)0) && pxStaticRingbuffer != ((void *)0)
+( ( ( UBaseType_t ) ( xBufferSize ) & (0x03) ) == 0 )
+pxRingbuffer
+ppvItem != ((void *)0)
+(pxRingbuffer->uxRingbufferFlags & (( ( UBaseType_t ) 2 ) | ( ( UBaseType_t ) 1 ))) == 0
+pvItem != ((void *)0) || xItemSize == 0
+pxRingbuffer && pxItemSize
+(pxRingbuffer->uxRingbufferFlags & ( ( UBaseType_t ) 1 )) == 0
+pxRingbuffer->uxRingbufferFlags & ( ( UBaseType_t ) 2 )
+pxRingbuffer && ppucRingbufferStorage && ppxStaticRingbuffer
+esp-sha
+E (%lu) %s: SHA DMA buf_len cannot exceed max size for a single block
+blk_len != 0
+//IDF/components/mbedtls/port/sha/core/sha.c
+E (%lu) %s: Failed to allocate buf memory
+E (%lu) %s: Unsupported SHA type
+E (%lu) %s: esp_sha_dma_start failed, no DMA channel available
+crypto_shared_gdma
+E (%lu) %s: Failed to acquire DMA channel, Err=%d
+coexist adapter function is NULL
+coexist adapter function version error! Version %x is expected, but it is %x
+coexist adapter function magic error! Magic %x is expected, but it is %x
+coex firmware version: %s
+7937614
+fcd4bec
+6964e7f
+093e3d2-remote
+093e3d2
+coexist rom version %s
+/IDF/components/hal/esp32s3/include/hal/gdma_ll.h
+bad_function_call
+std::bad_array_new_length
+__gnu_cxx::__concurrence_lock_error
+__gnu_cxx::__concurrence_unlock_error
+basic_string_view::substr
+%s: __pos (which is %zu) > __size (which is %zu)
+GLIBCXX_TUNABLES
+glibcxx.eh_pool
+obj_size
+obj_count
+std::bad_alloc
+basic_string::_S_create
+basic_string::_S_construct null not valid
+REENT malloc succeeded
+/builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdlib/mprec.c
+Balloc succeeded
+0123456789abcdef
+0123456789ABCDEF
+Infinity
+/builds/idf/crosstool-NG/.build/xtensa-esp-elf/src/newlib/newlib/libc/stdlib/dtoa.c
+BuartFlushTxOnly
+gpio_func_sel
+gpio_iomux_output
+gpio_iomux_input
+gpio_output_disable
+gpio_input_enable
+gpio_pullup_en
+esp_ota_get_running_partition
+esp_ota_get_app_partition_count
+esp_partition_get
+esp_partition_next
+esp_partition_mmap
+esp_partition_erase_range
+esp_partition_write_raw
+esp_partition_read_raw
+esp_partition_write
+esp_partition_read
+bootloader_flash_execute_command_common
+bootloader_sha256_finish
+bootloader_sha256_data
+spi_flash_munmap
+E (%lu) %s: chip %s doesn't support reading unique id
+E (%lu) %s: failed to get chip size
+len_remain < len
+//IDF/components/spi_flash/esp_flash_api.c
+E (%lu) %s: esp_flash_get_size failed, flash error code: %d
+len_remain < length
+E (%lu) %s: get_chip_caps function pointer hasn't been initialized
+E (%lu) %s: Suspend and resume may not supported for this flash model yet.
+esp_flash_write
+esp_flash_erase_region
+esp_flash_init_default_chip
+spi_flash
+spi_flash_enable_interrupts_caches_and_other_cpu
+spi_flash_disable_interrupts_caches_and_other_cpu
+spi_flash_init_lock
+esp_mspi_get_io
+%!"#$ipc_task
+esp_ipc_init
+`__esp_system_init_fn_init_flash
+esp_task_wdt_reset
+add_entry
+esp_task_wdt_add
+subscribe_idle
+task_wdt_isr
+esp_task_wdt_init
+task_wdt_timeout_abort
+'esp_clk_init
+esp_crosscore_int_send
+esp_crosscore_int_init
+7@ERROR
+<esp_log_cache_get_level
+esp_log_cache_set_level
+heap_caps_calloc
+heap_caps_realloc
+heap_caps_realloc_default
+heap_caps_malloc_default
+heap_caps_malloc
+heap_caps_init
+register_heap
+s_prepare_reserved_regions
+heap_caps_realloc_base
+dram_alloc_to_iram_addr
+heap_caps_free
+esp_intr_disable
+intr_free_for_current_cpu
+esp_cpu_intr_edge_ack
+esp_cpu_intr_set_handler
+is_vect_desc_usable
+find_desc_for_source
+periph_module_enable
+esp_clk_tree_src_get_freq_hz
+rtc_time_us_to_slowclk
+rtc_clk_cal
+esp_cpu_intr_get_desc
+main_task
+esp_startup_start_app
+vQueueDelete
+xQueueReceiveFromISR
+xQueueSemaphoreTake
+xQueueReceive
+xQueueGiveFromISR
+xQueueGenericSendFromISR
+prvNotifyQueueSetContainer
+xQueueGenericSend
+xQueueCreateCountingSemaphoreStatic
+xQueueTakeMutexRecursive
+xQueueGiveMutexRecursive
+xQueueGetMutexHolder
+xQueueGenericCreate
+xQueueGenericGetStaticBuffers
+xQueueGenericCreateStatic
+xQueueGenericReset
+xTaskGetCurrentTaskHandleForCore
+xTaskGetIdleTaskHandleForCore
+xTaskCreateStaticPinnedToCore
+prvInitialiseNewTask
+xTaskCreatePinnedToCore
+xTaskIncrementTickOtherCores
+vTaskGenericNotifyGiveFromISR
+xTaskGenericNotify
+ulTaskGenericNotifyTake
+vTaskPriorityDisinheritAfterTimeout
+xTaskPriorityDisinherit
+xTaskCheckForTimeOut
+xTaskRemoveFromEventList
+vTaskPlaceOnEventList
+prvSelectHighestPriorityTaskSMP
+xTaskIncrementTick
+pcTaskGetName
+xTaskResumeAll
+vTaskStartScheduler
+prvIsYieldRequiredSMP
+vTaskPrioritySet
+vTaskDelay
+prvDeleteTCB
+vTaskDelete
+//IDF/components/esp_hw_support/include/spinlock.h
+lock->count > 0 && lock->count < 0xFF
+lock->owner == core_owner_id
+lock->count == 0
+lock->owner == SPINLOCK_FREE || lock->owner == other_core_owner_id
+lock->count < 0xFF
+core_owner_id == lock->owner
+lock->count < 0x100
+nesting > 0
+spinlock_release
+vPortExitCritical
+spinlock_acquire
+pxPortInitialiseStack
+vSemaphoreDeleteWithCaps
+vQueueDeleteWithCaps
+vApplicationGetIdleTaskMemory
+7@vSystimerSetup
+esp_libc_locks_init
+check_lock_nonzero
+lock_release_generic
+lock_acquire_generic
+_lock_close
+pthread_mutex_unlock
+pthread_cancel
+pthread_cleanup_thread_specific_data_callback
+7@esp_timer_impl_set_alarm_id
+uart_set_rx_timeout
+uart_set_rx_full_threshold
+uart_driver_delete
+uart_driver_install
+uart_flush_input
+uart_get_tx_buffer_free_size
+uart_get_buffered_data_len
+uart_reenable_intr_mask
+uart_read_bytes
+uart_write_bytes
+uart_wait_tx_done
+uart_wait_tx_done
+uart_intr_config
+uart_param_config
+uart_enable_tx_intr
+uart_pattern_queue_reset
+uart_disable_intr_mask
+uart_set_line_inverse
+uart_get_baudrate
+uart_set_baudrate
+uart_get_parity
+uart_set_parity
+uart_get_stop_bits
+uart_set_stop_bits
+uart_get_word_length
+uart_set_word_length
+uart_vfs_dev_register
+uart_write
+uart_return_char
+uart_read
+uart_close
+uart_fstat
+uart_fcntl
+uart_fsync
+Busb_serial_jtag_return_char
+usb_serial_jtag_read
+translate_path
+<esp_core_dump_get_user_ram_info
+`esp_core_dump_common
+esp_core_dump_image_check
+esp_core_dump_flash
+elf_add_wdt_panic_details
+elf_write_core_dump_info
+elf_write_core_dump_user_data
+elf_process_task_tcb
+elf_save_task
+elf_add_segment
+elf_save_interrupted_stack
+elf_process_task_data
+elf_write_segment_header
+elf_process_note_segment
+elf_write_note_header
+elf_write_note
+elf_add_note
+elf_process_tasks_regs
+elf_write_tasks_data
+elf_write_file_header
+esp_core_dump_do_write_elf_pass
+esp_core_dump_elf
+core_dump_crc_print
+esp_core_dump_crc
+esp_core_dump_get_task_regs_dump
+esp_core_dump_get_stack
+esp_core_dump_port
+esp_mmu_vaddr_to_paddr
+esp_mmu_unmap
+esp_mmu_map
+esp_mmu_map
+esp_mmu_map_get_max_consecutive_free_block_size
+s_reserve_drom_region
+cache_ll_l1_get_bus
+s_reserve_irom_region
+esp_mmu_map_init
+clk_ll_rtc_slow_get_src
+clk_hal_soc_root_get_freq_mhz
+periph_rtc_dig_clk8m_disable
+gdma_start
+gdma_config_transfer
+gdma_disconnect
+gdma_connect
+gdma_get_group_channel_id
+gdma_del_channel
+gdma_release_group_handle
+gdma_release_pair_handle
+do_allocate_gdma_channel
+do_allocate_gdma_channel
+ets_timer_arm_us
+ets_timer_setfn
+vRingbufferDeleteWithCaps
+xRingbufferGetStaticBuffer
+vRingbufferGetInfo
+xRingbufferGetCurFreeSize
+xRingbufferGetMaxItemSize
+vRingbufferDelete
+vRingbufferReturnItemFromISR
+vRingbufferReturnItem
+xRingbufferReceiveUpTo
+prvReceiveGenericFromISR
+xRingbufferReceiveFromISR
+prvReceiveGeneric
+xRingbufferReceive
+xRingbufferSendFromISR
+xRingbufferSend
+xRingbufferCreateStatic
+prvCheckItemFitsDefault
+prvSendItemDoneNoSplit
+prvAcquireItemNoSplit
+prvGetItemDefault
+prvReturnItemDefault
+prvCopyItemAllowSplit
+prvCheckItemFitsByteBuffer
+prvCopyItemByteBuf
+prvGetItemByteBuf
+prvReturnItemByteBuf
+esp_sha_block_mode_fallback
+St9bad_alloc
+<St9exception
+<St20bad_array_new_length
+BSt17bad_function_call
+BN9__gnu_cxx24__concurrence_lock_errorE
+<N9__gnu_cxx26__concurrence_unlock_errorE
+BSt11logic_error
+<St12length_error
+<St12out_of_range
+         (((((                  
+AAAAAA
+BBBBBB
+B0000000000000000                
+B0000000000000000                esp_cpu_unstall
+esp_cpu_stall
+esp_reset_reason_set_hint
+multi_heap_realloc_impl
+multi_heap_register_impl
+multi_heap_get_allocated_size
+multi_heap_realloc
+multi_heap_free
+tlsf_realloc
+block_merge_next
+block_absorb
+block_merge_prev
+tlsf_free
+tlsf_memalign_offs
+block_split
+block_trim_free
+block_prepare_used
+search_suitable_block
+block_locate_free
+control_construct
+remove_free_block
+align_ptr
+insert_free_block
+align_up
+block_next
+spi_flash_os_check_yield
+D8@(D8@
+?E %s: restore cache fail
+E %s: flash acquire lock failed
+E %s: flash encrypted write length must be multiple of 16
+E %s: flash encrypted write address must be 16 bytes aligned
+E %s: restore cache fail
+N8@@N8@
+M8@spi_flash
+7@`j8@
+)8@p*8@
+*8@l%8@
+)8@,P8@
+,+8@P+8@,&8@T
+Stack smashing protect failure!
+Tasks currently running:
+E %s: Brownout detector was triggered
+esp_psram
+[%u] CO: init coex schm error!
+[%u] CO: create semaphore error!
+[%u] No memory to allocate coexist osi funcs
+[%u] CO: create schm semaphore error!
+mspi_timing_config_set_psram_clock
+mspi_timing_config_set_flash_clock
+`rtc_clk_cpu_freq_to_8m
+clk_ll_cpu_set_divider
+clk_ll_rtc_slow_get_src
+esp_cache_get_alignment
+s_c2m_ops
+esp_cache_msync
+esp_cache_msync
+esp_cache_freeze_caches_disable_interrupts
+cache_ll_get_line_size
+cache_hal_get_cache_line_size
+cache_hal_unfreeze
+cache_hal_freeze
+cache_hal_resume
+cache_hal_suspend
+cache_hal_enable
+cache_hal_disable
+mmu_hal_paddr_to_vaddr
+mmu_hal_vaddr_to_paddr
+mmu_hal_unmap_region
+mmu_hal_map_region
+spi_flash_encrypt_ll_plaintext_save
+systimer_ll_set_alarm_period
+memspi_host_program_page
+memspi_host_erase_block
+memspi_host_erase_sector
+memspi
+O8@LO8@HP8@
+O8@pO8@
+,+8@P+8@
+R8@h[8@
+W8@<\8@
+U8@<Z8@
+\8@P[8@
+\8@hV8@
+R8@PS8@boya
+[8@Tf8@te8@
+W8@<\8@
+U8@0g8@
+\8@HR8@,R8@
+\8@hV8@
+R8@PS8@gd
+spi_flash_chip_generic_get_write_protect
+R8@h[8@
+W8@<\8@
+U8@<Z8@
+\8@P[8@
+\8@hV8@
+V8@XT8@PS8@generic
+chip_generic
+R8@h[8@
+W8@<\8@
+U8@<Z8@
+\8@hV8@
+^8@PS8@issi
+R8@8^8@
+W8@<\8@
+U8@<Z8@
+\8@hV8@
+T8@ ]8@|^8@PS8@mxic
+spi_flash_chip_mxic_opi_get_write_protect
+spi_flash_chip_mxic_opi_get_data_length_zoom
+^8@|_8@
+`8@La8@
+b8@hV8@
+T8@ ]8@
+d8@$d8@mxic (opi)
+R8@h[8@
+W8@<\8@
+U8@<Z8@
+\8@P[8@
+\8@hV8@
+d8@PS8@th
+R8@h[8@
+[8@Tf8@te8@
+W8@<\8@
+U8@0g8@
+\8@P[8@
+\8@hV8@
+g8@PS8@winbond
+chip_wb
+g8@\h8@<h8@chip_status == 0
+//IDF/components/spi_flash/spi_flash_os_func_app.c
+E (%lu) %s: configure host io mode failed - unsupported
+E (%lu) %s: No response from device when trying to retrieve Unique ID
+out_write_protect!=NULL
+//IDF/components/spi_flash/spi_flash_chip_generic.c
+(io_mode == SPI_FLASH_OPI_STR) || (io_mode == SPI_FLASH_OPI_DTR)
+//IDF/components/spi_flash/spi_flash_chip_mxic_opi.c
+E (%lu) %s: no response
+out_write_protected!=NULL
+start_address < 0x1000000
+//IDF/components/spi_flash/memspi_host_driver.c
+address + length <= 0x1000000
+Octal Flash
+E (%lu) %s: Detected MXIC Flash, but memory type is not Octal
+E (%lu) %s: No detected Flash chip, please check the menuconfig to see if the chip is supported
+%s failed: esp_err_t 0x%x
+file: "%s" line %d
+func: %s
+expression: %s
+ESP_ERROR_CHECK
+mmu_ll_check_valid_paddr_region(mmu_id, paddr, 1)
+/IDF/components/hal/mmu_hal.c
+vaddr % page_size_in_bytes == 0
+paddr % page_size_in_bytes == 0
+mmu_ll_check_valid_paddr_region(mmu_id, paddr, len)
+mmu_hal_check_valid_ext_vaddr_region(mmu_id, vaddr, len, MMU_VADDR_DATA | MMU_VADDR_INSTRUCTION)
+mmu_hal_check_valid_ext_vaddr_region(mmu_id, vaddr, 1, MMU_VADDR_DATA | MMU_VADDR_INSTRUCTION)
+cache_level && (cache_level <= CACHE_LL_LEVEL_NUMS)
+/IDF/components/hal/cache_hal.c
+cache_level <= CACHE_LL_LEVEL_NUMS
+/IDF/components/hal/esp32s3/include/hal/cache_ll.h
+plaintext_offs + size <= SOC_FLASH_ENCRYPTED_XTS_AES_BLOCK_MAX
+/IDF/components/hal/esp32s3/include/hal/spi_flash_encrypted_ll.h
+CORRUPT HEAP: multi_heap.c:%d detected at 0x%08x
+heap != NULL
+0 == (align & (align - 1)) && "must align to a power of two"
+sl_map && "internal error - second level bitmap is null"
+block_size(block) >= *size
+size && "size must be non-zero"
+block_is_free(block) && "block must be free"
+block_to_ptr(remaining) == align_ptr(block_to_ptr(remaining), ALIGN_SIZE) && "remaining block not aligned properly"
+block_size(block) == remain_size + size + block_header_overhead
+block_size(remaining) >= block_size_min && "block split with invalid size"
+gap >= gap_minimum && "gap size too small"
+!block_is_free(block) && "block already marked as free"
+prev && "prev physical block can't be null"
+block_is_free(prev) && "prev block is not free though marked as such"
+!block_is_last(prev) && "previous block can't be last"
+next && "next physical block can't be null"
+CORRUPT HEAP: Bad head at %p. Expected 0x%08x got 0x%08x
+CORRUPT HEAP: Bad tail at %p. Expected 0x%08x got 0x%08x
+head != NULL
+//IDF/components/heap/multi_heap_poisoning.c
+core_id >= 0 && core_id < SOC_CPU_CORES_NUM
+//IDF/components/esp_hw_support/cpu.c
+/IDF/components/hal/esp32s3/include/hal/clk_tree_ll.h
+divider > 0
+0 && "LDO dbias need to modified"
+//IDF/components/esp_hw_support/port/esp32s3/rtc_clk.c
+freqdiv > 0
+//IDF/components/esp_hw_support/mspi_timing_tuning/port/esp32s3/mspi_timing_config.c
+abort() was called at PC 0x
+ on core 
+<cached disabled>
+assert failed: 
+E (%lu) %s: %s(%d): null pointer
+E (%lu) %s: %s(%d): not supported cap matches
+E (%lu) %s: %s(%d): wrong size, total size overflow
+E (%lu) %s: %s(%d): both C2M and M2C directions, or both data and instruction type are selected, you should only select one direction or one type
+E (%lu) %s: %s(%d): invalid addr or null pointer
+E (%lu) %s: %s(%d): start address: 0x%lx, or the size: 0x%lx is(are) not aligned with cache line size (0x%lx)B
+E (%lu) %s: %s(%d): M2C direction doesn't allow ESP_CACHE_MSYNC_FLAG_UNALIGNED
+//IDF/components/esp_mm/esp_cache_msync.c
+E (%lu) %s: %s(%d): C2M direction doesn't support instruction type
+s_task_stack_is_sane_when_cache_frozen()
+//IDF/components/esp_mm/esp_cache_utils.c
+(hint & (~RST_REASON_MASK)) == 0
+//IDF/components/esp_system/port/soc/esp32s3/reset_reason.c
+period < (1 << 26)
+/IDF/components/hal/esp32s3/include/hal/systimer_ll.h
+ 84@30@
+I@@IPPI``IppI
+Z8@8[8@l|
+[8@ [8@
+)Q9aIqba
+  t00t@@tPPt``t
+  t00t@@tPPt
+  t00t@@tPPt``tppt
+ ``tP% V
+&5@&E:
+h%x5i$y4
+  `  t
+&K0f[m
+< @BAb
+<x08@Lp
+?|D8@DD8@
+-8@`,8@
+++CCUNG
+<DA8@tA8@ A8@|
+yRIbyr
+BR rBBrb
+DPPt``tppt
+100tPPt``t
+#00t@@tPPt"
+qPPt``t
+Yq9QIa
+PPt``t'
+::' (b
+"  `  t
+J PUAPe
+@``tpuA"
+3 00t2G 
+*0  tF
++&#^Vc
+p00t@@t
+12A,BA-RA/
+iJiZijizi
+ r 00t
+"  `  t
+tPY Y8
+)!91  t
+)!91  t
+pp`PwcK
+9(98)H)X
+TBQ:Ra
+"  `  t
+3*30(b
+H$bH%bH&bH'
+H,bH-bH.bH/
+H4bH5bH6bH7
+H<bH=bH>bH?
+HDbHEbHFbHG
+HLbHMbHNbHO
+HTbHUbHVbHW
+H\bH]bH^bH_
+HdbHebHfbHg
+H+X;hK
+9QIaYqr
+9'I7IW
+4:fZTG
+yByRyb2R
+yByRyb
+9QIaYqba
+YAiQra
+j@Rl f"
+YHPPtF
+U#PO1}
+f```ba
+YIPPtF
+YHPPtF
+U#PO1}
+f```ba
+YIPPtF
+ba%jaY
+f```Pf
+"  `  t
+@ %A@"
+@ %A@"
+``tpptPP
+T18@ =
+')7y9|
+p4%PP`0U
+A=yaYQ9Ay!y
+KyaYQ9A)1y!y
+KyaYQyAy1i
+ryaYQyAy19!i
+0"  0` 3
+i#y3 aA
+)Q9aIqY
+ 4  300
+H+X;hK
+9QIaYqr
+ .AP" Q
+ .AP" Q
+ .AP" Q
+ .AP" Q
+ .AP" Qn
+ .AP" QY
+ .AP" Q4
+3 2T!2'
+@3 2X!B
+9f9v2V
+E00d2HE8
+3 2W!2
+rJ-rJ.
+`3 2T!8
+1B$/:30
+301!@3 A?
+P3 r'/
+08tZ32T
+08tZ3Q:
+3r'/`3
+  t@@tV
+*  t@D
+:R%/'j.
+W2#/`w
+W2#/`w
+R%/`3 
+  t00t@
+o&*<VJ
+X%*3P3
+h(zD`D
+zDx*pD
+:"8'0"
+zfx)pf
+JfH'@f
+300t2A
+300t2A
+"  t"A
+"  t"A
+("j"BR
+"  t"A
+"  t"A
+x'*fpf
+je`Pt75
+H01A2Q$2!
+rQ&2Q'2
+rC"b&?
+(:7bC>
+C@@tBa
+@f'6!6
+UPPta$
+ha2E"iUhQrU
+300t"$
+"G8BQ/
+x'Zfpf
+U PPtV5
+x':DpD
+z300t2a,
+f ``tV6
+fZ+2!,B
+=j6zDr
+As2Au"Av(%
+h&JU`U
+`U0PPt
+D@@tBA
+z"x(p"
+eRB@!0
+jf`U b
+jUh'`U
+8#j3BC@1
+@"   t7
+UPPtRA
+jUh'`U
+zfx)pf
+jUh'`U
+uRD@A%
+@@tr&3PPt
+3 00t2E
+e(":"RB@F
+("J"2B@
+00t:""
+  u00tf
+&22&BA1
+  tf"h
+P3s9BQ_
+UPPt E
+9'I7IW
+wpptrH
+%PPt0D
+yQqX%iA9
+  t00tA
+"#+" "t  t
+ $ "cH
+  t00t@@t@
+B"H04 2bH
+B"H04 2bH%
+  t`V H
+8"(2Ba
+Ba'2a("a)
+Ba$2a%H
+("2a""a#!
+2a,"a-"!
+pu0``4
+ $ "cH"
+wppt&'
+0?1 !!02
+02!0 t
+" (!`"
+U+"B#H!
+ $ "cH
+3*(00t
+;2#A  
+300t:HB
+  t\4 C
+3Zwppt
+ # "eHq
+05  3 
+ # "d5"
+05  3 
+0?1 #!0"
+yA)1i!I
+aIQyA)1i!9
+  t00t
+  t00t
+`@@`Pr 
+#PfC (S``t
+  t``t
+)A@@t-
+f#0"C@fS06C  T00T
++w+"prt bt
+"#ZWjb
+fpqt`atF
+PPt""k``t
+jUPPt !AV
+j"  t01AV
+t2#j*UPPt
+@"C@3C
+  t00t)
++r'k)1)A)Q)
+J900t9
+@@tr'j
+  t@@t
+300t"!
+|2"d!H
++U2#jPR!
++" "!2#j
++DB#H!
+ $ "cH
+R$jB$k
+!00`q'
+ $   4
+PPt``t
+PX RdHH
+"%H02 2eH
+#H ( "cH
+ $ "cH
+#  t)A(A
+ # "dH
+  t00t@@t
+`,K8@tL8@
+8@|'8@,(8@
+<8>8@x@
+8@PJ8@
+7@tB8@Rj
+C8@DE8@"
+P8@LP8@>
+Y1iAyQ
+yByRyb2R
+yByRyb
+9QIaYqba
+ra%Ra#ba$
+ba$ra%
+Ba"Ra#ba$ra%
+YAiQra
+j@Rl f"
+9QYai!+
+4&)3&99f
+Pe!PPD-
+f`````t
+spg @3
+YHPPtF
+U#PO1}
+f```ba
+YIPPtF
+YHPPtF
+U#PO1}
+f```ba
+YIPPtF
+ba%jaY
+f```Pf
+&IT&iE&)Y
+#W-$ZU
+@ t00t "
+@ %A@"
+"  `  t
+@ %A@"
+@ %A@"
+``tpptPP
+wpptV%
+  t00t
+00t@@t
+@@tI!B
+\  tI1A
+ijU00t@D
+3 `3 h
+  tb&/pr
+2#/  t
+  tPP4f5
+ U0PPt
+  t@@tPR
+ 01A@3
+ 01A@3
+RRA@d r
+H@@tIAHA
+fR%/jg``
+  t*Ub
+00tIA9aFs
+T""/`D
+00t9!8
+"F="F>
+;  40" "T
+3#R%/00
+R%/@@t
+82#/@D
+"  t*JB
+J$@ED +A
+8s&(=F
+3 L'p3 00
+#0w pp
+ @t00tPPt'X1
+)Q9aIqba
+"H08 2bH
+"   tR%d
+2A.BA2
+t2A/BA>2
+:2A0BA4
+A6"A@BA
+A*2A"2
+dbA+bA,RA#
+D `d PV A
+  t00t@@tPPt``t
+  t00t@@tPPt
+  t00t@@tPPt``tppt
+ ``tP% V
+&5@&E:
+h%x5i$y4
+  `  t
+&K0f[m
+< @BAb
+')7y9|
+p4%PP`0U
+A=yaYQ9Ay!y
+KyaYQ9A)1y!y
+KyaYQyAy1i
+ryaYQyAy19!i
+0"  0` 3
+i#y3 aA
+)Q9aIqY
+ 4  300
+R9mQWX<lcX
+006 PSA"H
+0 4*$"
+02 PTAP# VB
+00` r 
+j"Po1Pf
+J90"c2!
+@#S*U"!
+YAiQra
+)#(S  `)c
+HSI#HC
+IAYQ"!)
+2JBhA@
+:"`4!H
+0c @A!
+)A9QHa
+HAjcXQiAF
+P"0)a(
+PE xChD
+p7 @A!
+t<z  D
+KRY$W,
+RC8BC9
+`@$`cA
+0`h psABC
+`@4JEB
+`d ptApF V
+t<z  D
+KRY$W,
+RC<BC=
+`@$`cA
+0`h psABC
+`@4JEB
+`d ptApF V
+PSSZD2!
+@@tPPt``t
+@HAPXA
+ (A (   
+PPtW>#
+ (t #   
+()Gj-r
+9xT ' )T"&
+XT % )T-
+!"P ( 
+8"y"9'
+(#)'y#F
+(3)7y3
+uHRyRI'F
+H%I'y%
+H&I#F#
+9Q8"IaV#
+QQ3P3 
+Ar}@3 A
+QG#PD 
+00$@3 9
+7#J3PP
+9Ai1I!
+"A.2A2
+s"A/2A>"
+;"A02A4
+A*"A""
+dRA+RA,BA#
+  t00t@@tQ
+ !A941
+EP3 9"I
+EP3 9"I
+YAiQyq
+)Q9aIqY
+*$(2(2
+h%x5i$y4
+(HZYP;
+PPtPR 
+PPTPR 
+"(8`b 
+&#J&3j
+Rh&@AA
+:476-A
+0Dc@"c
+Zd fc(
+@3 9r8
+@3 9r8
+@3 9r8
+@3 9r8
+@3 9r8
+@3 9r8
+@3 9r8
+0"  0` 3
+i#y3 aA
+ 4  300

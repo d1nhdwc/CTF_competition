@@ -1,0 +1,102 @@
+﻿0x42001a8c: 360101       entry          a1, 0x80
+0x42001a8f: 8167f9       l32r           a8, . 0x4200002c
+0x42001a92: 32c15c       addi           a3, a1, 0x5c
+0x42001a95: c02000       memw           
+0x42001a98: 8808         l32i.n         a8, a8, 0
+0x42001a9a: c165f9       l32r           a12, . 0x42000030
+0x42001a9d: c02000       memw           
+0x42001aa0: 8903         s32i.n         a8, a3, 0
+0x42001aa2: 82a078       movi           a8, 0x78
+0x42001aa5: 8911         s32i.n         a8, a1, 4
+0x42001aa7: 2c08         movi.n         a8, 0x20
+0x42001aa9: 82d84e       addmi          a8, a8, 0x4e00
+0x42001aac: a15ff9       l32r           a10, . 0x42000028
+0x42001aaf: b2a0e1       movi           a11, 0xe1
+0x42001ab2: 0c0f         movi.n         a15, 0
+0x42001ab4: 7cfe         movi.n         a14, -1
+0x42001ab6: 7cfd         movi.n         a13, -1
+0x42001ab8: 8901         s32i.n         a8, a1, 0
+0x42001aba: 70bb11       slli           a11, a11, 9
+0x42001abd: a54200       call8          . +0x42c
+0x42001ac0: a2a5dc       movi           a10, 0x5dc
+0x42001ac3: 65bb00       call8          . +0xbb8
+0x42001ac6: 515bf9       l32r           a5, . 0x42000034
+0x42001ac9: 0c08         movi.n         a8, 0
+0x42001acb: 72c116       addi           a7, a1, 0x16
+0x42001ace: c02000       memw           
+0x42001ad1: 8905         s32i.n         a8, a5, 0
+0x42001ad3: 1c0c         movi.n         a12, 0x10
+0x42001ad5: 0c0b         movi.n         a11, 0
+0x42001ad7: ad07         mov.n          a10, a7
+0x42001ad9: 8162f9       l32r           a8, . 0x42000064
+0x42001adc: e00800       callx8         a8
+0x42001adf: 42c126       addi           a4, a1, 0x26
+0x42001ae2: 1c0c         movi.n         a12, 0x10
+0x42001ae4: 0c0b         movi.n         a11, 0
+0x42001ae6: ad04         mov.n          a10, a4
+0x42001ae8: 815ff9       l32r           a8, . 0x42000064
+0x42001aeb: e00800       callx8         a8
+0x42001aee: a152f9       l32r           a10, . 0x42000038
+0x42001af1: 1c0b         movi.n         a11, 0x10
+0x42001af3: a5f7ff       call8          . -0x84
+0x42001af6: 0c08         movi.n         a8, 0
+0x42001af8: 0c06         movi.n         a6, 0
+0x42001afa: a68802       blti           a8, 8, . +6
+0x42001afd: c62100       j              . +0x8b
+0x42001b00: 263850       beqi           a8, 3, . +0x54
+0x42001b03: a64802       blti           a8, 4, . +6
+0x42001b06: 863500       j              . +0xda
+0x42001b09: 56f819       bnez           a8, . +0x1a3
+0x42001b0c: 1c0c         movi.n         a12, 0x10
+0x42001b0e: 0c0b         movi.n         a11, 0
+0x42001b10: 70a720       or             a10, a7, a7
+0x42001b13: 8154f9       l32r           a8, . 0x42000064
+0x42001b16: e00800       callx8         a8
+0x42001b19: a148f9       l32r           a10, . 0x4200003c
+0x42001b1c: 0c5b         movi.n         a11, 5
+0x42001b1e: e5f4ff       call8          . -0xb0
+0x42001b21: 0c02         movi.n         a2, 0
+0x42001b23: a141f9       l32r           a10, . 0x42000028
+0x42001b26: a52200       call8          . +0x22c
+0x42001b29: 166aff       beqz           a10, . -6
+0x42001b2c: a13ff9       l32r           a10, . 0x42000028
+0x42001b2f: a52500       call8          . +0x25c
+0x42001b32: 2ab7         add.n          a11, a7, a2
+0x42001b34: a24b00       s8i            a10, a11, 0
+0x42001b37: 1b22         addi.n         a2, a2, 1
+0x42001b39: 66b2e6       bnei           a2, 0x10, . -0x16
+0x42001b3c: ad07         mov.n          a10, a7
+0x42001b3e: a5f0ff       call8          . -0xf4
+0x42001b41: 8cfac02000b8050cd80c3ab08a83c6e9ff0000c020008805 .byte          0x8c, 0xfa, 0xc0, 0x20, 0x00, 0xb8, 0x05, 0x0c, 0xd8, 0x0c, 0x3a, 0xb0, 0x8a, 0x83, 0xc6, 0xe9, 0xff, 0x00, 0x00, 0xc0, 0x20, 0x00, 0x88, 0x05, 0xc0, 0x20, 0x0
+0x42001c40: c2a00c       movi           a12, 0xc
+0x42001c43: 50a520       or             a10, a5, a5
+0x42001c46: 8108f9       l32r           a8, . 0x42000068
+0x42001c49: e00800       callx8         a8
+0x42001c4c: b103f9       l32r           a11, . 0x42000058
+0x42001c4f: 0cdc         movi.n         a12, 0xd
+0x42001c51: a2c142       addi           a10, a1, 0x42
+0x42001c54: 8105f9       l32r           a8, . 0x42000068
+0x42001c57: e00800       callx8         a8
+0x42001c5a: b100f9       l32r           a11, . 0x4200005c
+0x42001c5d: 0cdc         movi.n         a12, 0xd
+0x42001c5f: a2c14f       addi           a10, a1, 0x4f
+0x42001c62: 8101f9       l32r           a8, . 0x42000068
+0x42001c65: e00800       callx8         a8
+0x42001c68: 0c07         movi.n         a7, 0
+0x42001c6a: 2c62         movi.n         a2, 0x26
+0x42001c6c: 708580       add            a8, a5, a7
+0x42001c6f: b20800       l8ui           a11, a8, 0
+0x42001c72: 708034       extui          a8, a7, 0, 4
+0x42001c75: 8a84         add.n          a8, a4, a8
+0x42001c77: 820800       l8ui           a8, a8, 0
+0x42001c7a: b0b730       xor            a11, a7, a11
+0x42001c7d: 80bb30       xor            a11, a11, a8
+0x42001c80: a1eaf8       l32r           a10, . 0x42000028
+0x42001c83: b0b074       extui          a11, a11, 0, 8
+0x42001c86: 1b77         addi.n         a7, a7, 1
+0x42001c88: 651400       call8          . +0x148
+0x42001c8b: 2797dd       bne            a7, a2, . -0x1f
+0x42001c8e: a1e6f8       l32r           a10, . 0x42000028
+0x42001c91: 655700       call8          . +0x578
+0x42001c94: 81e6f8       l32r           a8, . 0x4200002c
+0x42001c97: c02000       memw           

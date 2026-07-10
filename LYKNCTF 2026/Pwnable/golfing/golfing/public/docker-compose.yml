@@ -1,0 +1,14 @@
+services:
+  golfing:
+    build: ./
+    ports:
+      - "9002:9002"
+    read_only: true
+    tmpfs:
+      - /tmp:rw,nosuid,nodev,size=64m
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    pids_limit: 256
+    mem_limit: 1g

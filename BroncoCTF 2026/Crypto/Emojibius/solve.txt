@@ -1,0 +1,1 @@
+mỗi cặp emoji là 1 cặp (hàng, cột) theo thứ tự 1->5: 🍎  🦊  🍐  🐶  🎈 -> ánh xạ lên ma trận trong ảnh ta được flag

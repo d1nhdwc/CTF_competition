@@ -1,0 +1,403 @@
+I will guess your birth day, month and region.
+I see it now: you were born in October... on a Saturday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in June... on a Thursday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Saturday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in July... on a Tuesday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Tuesday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in September... on a Wednesday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Wednesday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Wednesday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in October... on a Thursday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Saturday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Tuesday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Friday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in May... on a Thursday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in June... on a Monday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in May... on a Saturday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Sunday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in July... on a Wednesday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Saturday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Saturday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Thursday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Thursday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in September... on a Wednesday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in November... on a Wednesday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in June... on a Wednesday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Sunday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Tuesday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in November... on a Sunday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in June... on a Friday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Sunday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Monday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Saturday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Wednesday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in October... on a Tuesday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in October... on a Tuesday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in May... on a Friday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Thursday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in February... on a Sunday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Monday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Thursday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in May... on a Wednesday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Wednesday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in June... on a Saturday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in November... on a Tuesday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Thursday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Tuesday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Tuesday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Wednesday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in November... on a Tuesday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Wednesday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Sunday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in November... on a Wednesday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Wednesday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in October... on a Sunday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Thursday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in February... on a Thursday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Thursday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Monday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in July... on a Wednesday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Sunday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Wednesday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Thursday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Monday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Thursday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Monday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Monday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in June... on a Wednesday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in August... on a Sunday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in June... on a Friday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in October... on a Thursday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in July... on a Sunday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in February... on a Wednesday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in February... on a Saturday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Sunday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Saturday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in January... on a Tuesday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in May... on a Friday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Thursday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in September... on a Saturday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in February... on a Monday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Wednesday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Thursday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Friday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in May... on a Friday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in October... on a Thursday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in May... on a Monday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in November... on a Saturday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Friday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Sunday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in September... on a Wednesday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Friday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Wednesday, in Africa
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in May... on a Friday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in March... on a Sunday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in June... on a Sunday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in April... on a Sunday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Sunday, in the Americas
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in November... on a Saturday, in Asia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in October... on a Thursday, in Australia
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Sunday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in September... on a Saturday, in Europe
+Did I get it right? 
+No
+It seems that I've gotten something wrong, let me listen again...
+I see it now: you were born in December... on a Tuesday, in Africa
+Did I get it right? 

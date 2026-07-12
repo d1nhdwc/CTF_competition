@@ -1,0 +1,5 @@
+Random garbage:
+96dbcaae807788b5e3abae8e91dc467bd6b5291094a33033c7f47fb66cccf6d41b2bc01426033a73f444fa44eb412e3ee249
+The flag:
+2d4f326d141f0c75e1ff445d23b39880581c09e0585645eab8
+They look equally random, right? Pretty impressive!

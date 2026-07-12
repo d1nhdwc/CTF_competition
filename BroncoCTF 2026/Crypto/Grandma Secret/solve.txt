@@ -1,0 +1,55 @@
+Bài này dùng ADFGVX cipher với:
+
+Khóa hoán vị cột: SUGAR
+Ciphertext: GVXXFVXVAFXFXVGADAFF
+Bảng Polybius trong ảnh có hàng/cột A D F G V X
+
+Sắp xếp chữ trong khóa:
+
+S U G A R
+3 4 1 0 2
+
+Thứ tự đọc ciphertext là:
+
+A, G, R, S, U
+
+Chia ciphertext thành 5 cột, mỗi cột 4 ký tự:
+
+A = GVXX
+G = FVXV
+R = AFXF
+S = XVGA
+U = DAFF
+
+Đặt lại theo thứ tự gốc SUGAR:
+
+S = XVGA
+U = DAFF
+G = FVXV
+A = GVXX
+R = AFXF
+
+Đọc theo hàng:
+
+XDFGA VAVVF GFXXX AFVXF
+
+Ghép cặp:
+
+XD FG AV AV VF GF XX XA FV XF
+
+Tra bảng:
+
+XD = J
+FG = E
+AV = L
+AV = L
+VF = Y
+GF = D
+XX = O
+XA = N
+FV = U
+XF = T
+
+Kết quả:
+
+JELLYDONUT

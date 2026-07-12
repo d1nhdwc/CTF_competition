@@ -1,0 +1,6 @@
+Cách soi:
+
+Mở spectrogram nhưng phải dùng log-frequency scale, không phải linear.
+Sau khi crop đoạn high-frequency khoảng 13s -> 40s rồi ép chiều cao xuống, text hiện ra:
+THE FLAG IS THE RELEASE YEAR OF THE SONG THE LYRICS ARE FROM
+Bài đó là Rick Astley - Never Gonna Give You Up, phát hành ngày 27 July 1987.

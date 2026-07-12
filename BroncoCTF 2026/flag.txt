@@ -1,0 +1,68 @@
+Beginner:
+No Laughing Matter: bronco{UFUNNYLMAOLOLXDIJBOLROFLHAHA}
+Negative Bread: bronco{th3_b4nk_0w3s_m3_m0n3y}
+Digital Crumbs: bronco{3360}
+Atomic Substitution Theory: bronco{my_favorite_messages_have_an_element_of_surprise}
+Pwntorial: bronco{th3_f1r5t_0f_m4ny_PWNs_2_c0m3}
+The Keymaster: bronco{h3y_y0u_f0und_th3m_4ll_w1th_4b501ut31y_n0_w0rr135_4t_411}
+
+Crypto:
+Shifting Away: bronco{Slowly_But_Surely_Shifting_Away_Into_The_PascalSnake_Strings_Of_Characters}
+Grandma's Secret: bronco{jellydonut}
+Custom Cipher: bronco{f4ct0r1ng_i5_fr3e???}
+Garbage In, Flag Out: bronco{n0t_r4nd0m_3nough}
+Number Generator: bronco{crypt0_1n5ecur3_4_c3rt4in}
+Emojibius: bronco{em0j1s_r_cr1ng3}
+Probably Unbreakable: bronco{4t_l3a5t_1mpr0b4b1e_th0ugh}
+Blorg Multiplier: bronco{ple4s3_d0nt_l3ak_fl4g}
+
+Forensics:
+Bundle 99: bronco{1m4n4rt15ttru5t}
+LEt a GO: bronco{3ve4yth1ng_1s_aw3s0me}
+Magic Ways: bronco{wh4t_ar3_mag1c_byt3s}
+EX-BOOST: bronco{F33LTH3H34T}
+Static Image: bronco{n0w_th4ts_dyn4m1c}
+Suspicious Remix: bronco{1987}
+Suspicious Remix 2: bronco{7h3y_g07_y0u_4g4in_didn'7_7h3y?}
+
+Reversing:
+Mirror: bronco{wh0_1s_th3_f@ir3st_r3v3rs3r}
+C++ Unplugged: bronco{i_c@m3_1n_lik3_@_s3gfAult}
+Cat: bronco{fluffy_baby}
+Dog: bronco{mans_best_friend}
+
+Pwn:
+Crab Trap: bronco{h0w_c4n_mr_kr4b5_c0de}
+World's Hardestest Flag: bronco{d34th_t0_th3_dehs_f0r3v3r}
+Proper Pwning: bronco{1m_th3_b35t_PWN3r_1n_th3_wh0l3_w1d3_w0r1d}
+
+MISC:
+Spot The Difference: bronco{y@yyy_Y0u_f0und_m3!!}
+Zip, zip: bronco{i_h4te_f1l3_c0mpr3ssi0n}
+Terminal Diff: bronco{resizing_the_whole_world}
+WTF_ELECTRICALENGINEERING: bronco{ov2hhU6mBY}
+Slided and Diced: bronco{th3_h1dd3n_cu3}
+
+Web:
+Super Secure Server: bronco{d0nt_3xp0se_p@ssw0rd5!}
+Forbidden Archives : bronco{y0u_d3f3@t3d_th3_h1gh_c0unc1l}
+Lovely Login : bronco{R3v3rs1ng_1s_S3cure}
+Unblur Me : bronco{1_wouldnt_m@k3_you_do_c@lculus}
+
+Osint:
+Devil's Centroid: bronco{25N,70W}
+Pure Magic: bronco{prefire_junkshadow_soldieroffortune88}
+Crowed Trip: bronco{3050}
+Online Over There: bronco{0v3r5h4r1n6_m4k3s_m3_8lu3}
+Admin Abuse: bronco{wh0_g4v3_th15_m4n_3d1t_pr1v1l3g35}
+AO-SINT: bronco{ierochos_portmistral_makrinaos_ravenna}
+
+
+
+
+
+
+
+
+
+ 

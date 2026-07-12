@@ -1,0 +1,17 @@
+Nên wrap đúng 97 columns × 35 rows. Sau khi thay _ bằng space, ASCII art hiện ra. Đọc theo hướng mũi tên:
+
+bronco{r
+↓
+e s i z
+←
+i n g _ t h e _
+↑
+w h o l
+→
+e _ w o r l
+↓
+d}
+
+Ghép lại:
+
+bronco{resizing_the_whole_world}

@@ -1,0 +1,1 @@
+write(0x6767,{["Type".."Tag"]=4});print(read(0x6767))

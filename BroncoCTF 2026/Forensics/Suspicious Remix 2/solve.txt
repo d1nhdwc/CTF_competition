@@ -1,0 +1,19 @@
+Hướng làm:
+
+Soi ảnh bằng bit-plane, ở Red channel bit 2 sẽ thấy dòng:
+Password = release year the non-OST song was from
+Password đúng là:
+1988
+File WAV dùng kiểu steghide để giấu payload trong audio. steghide hỗ trợ WAV/AU và thường dùng passphrase để extract payload ẩn.
+
+Lệnh extract:
+
+steghide extract -sf sg_remix2.wav -p 1988
+
+Nó sẽ bung ra file:
+
+got_u_so_good.txt
+
+Nội dung file:
+
+bronco{7h3y_g07_y0u_4g4in_didn'7_7h3y?}

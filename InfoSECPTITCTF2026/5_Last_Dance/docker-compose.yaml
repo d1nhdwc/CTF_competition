@@ -1,0 +1,16 @@
+version: "3.5"
+
+services:
+  heap:
+    build:
+      context: ./chal
+      dockerfile: Dockerfile
+    ports:
+      - "13335:13335"
+    restart: unless-stopped
+    environment:
+      - EXPOSED_PORT=13335
+      - TIMEOUT=60
+      - TERM=xterm
+    stdin_open: true
+    tty: true

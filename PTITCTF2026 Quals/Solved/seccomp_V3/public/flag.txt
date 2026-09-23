@@ -1,0 +1,1 @@
+PTITCTF{test_local_flag}

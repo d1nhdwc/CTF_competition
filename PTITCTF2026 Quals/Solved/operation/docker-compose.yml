@@ -1,0 +1,7 @@
+services:
+  challenge_2:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    ports:
+      - "6305:6305"

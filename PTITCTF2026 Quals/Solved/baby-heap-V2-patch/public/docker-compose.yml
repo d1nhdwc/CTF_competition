@@ -1,0 +1,8 @@
+services:
+  babyheap_v2_patch:
+    build: .
+    ports:
+      - "6300:6300"
+    environment:
+      FLAG: "PTITCTF{local_test_flag}"
+    restart: unless-stopped

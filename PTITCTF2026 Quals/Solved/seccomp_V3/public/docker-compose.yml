@@ -1,0 +1,8 @@
+services:
+  seccomp_v3:
+    build: .
+    ports:
+      - "6302:6302"
+    environment:
+      FLAG: "PTITCTF{local_test_flag}"
+    restart: unless-stopped

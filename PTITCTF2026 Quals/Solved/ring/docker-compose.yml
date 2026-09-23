@@ -1,0 +1,7 @@
+services:
+  pwnable_2:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    ports:
+      - "6304:6304"

@@ -1,0 +1,8 @@
+services:
+  heap_basic_v2:
+    build: .
+    ports:
+      - "6301:6301"
+    environment:
+      FLAG: "PTITCTF{local_test_flag}"
+    restart: unless-stopped

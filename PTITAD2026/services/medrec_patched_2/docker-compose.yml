@@ -1,0 +1,23 @@
+services:
+  medrec:
+    build: .
+    image: medrec:latest
+    container_name: medrec
+    restart: unless-stopped
+    ports:
+      - "9999:9999"
+    volumes:
+      - medrec-data:/srv/medrec/data
+    cap_drop:
+      - ALL
+    cap_add:
+      - SETUID        # cha ha quyen xuong medrec-front / medrec-rend
+      - SETGID
+      - CHOWN         # entrypoint dat lai quyen thu muc du lieu
+      - DAC_OVERRIDE
+      - FOWNER
+    pids_limit: 1024
+    mem_limit: 512m
+
+volumes:
+  medrec-data:

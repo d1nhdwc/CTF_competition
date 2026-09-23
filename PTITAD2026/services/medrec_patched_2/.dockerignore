@@ -1,0 +1,4 @@
+medrecd
+medrecd-dev
+src/*.o
+data/

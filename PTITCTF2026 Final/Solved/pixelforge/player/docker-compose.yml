@@ -1,0 +1,8 @@
+services:
+  challenge:
+    container_name: challenge-2
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    ports:
+      - "6303:6303"

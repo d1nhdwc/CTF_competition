@@ -1,0 +1,495 @@
+-----
+--- Question 10 --- When is search and seizure of electronic data permitted under the Convention?
+1. When national law authorizes it to seek and seize relevant digital evidence
+2. Anytime without legal grounds
+3. Only for printed materials
+4. Only for traditional financial crimes
+Correct: 1 - When national law authorizes it to seek and seize relevant digital evidence
+
+-----
+--- Question 10 --- Which forms of international cooperation are typically included under the Convention?
+1. Executing search/seizure, gathering testimony, and providing records or data
+2. Issuing visas for investigators
+3. Donating technology to states
+4. Recruiting IT personnel
+Correct: 1 - Executing search/seizure, gathering testimony, and providing records or data
+
+-----
+--- Question 2 --- Which forms of international cooperation are typically included under the Convention?
+1. Executing search/seizure, gathering testimony, and providing records or data
+2. Issuing visas for investigators
+3. Donating technology to states
+4. Recruiting IT personnel
+Correct: 1 - Executing search/seizure, gathering testimony, and providing records or data
+
+-----
+--- Question 4 --- What must service providers do when receiving a lawful order?
+1. Comply confidentially under law
+2. Ignore it if client is special
+3. Publish it online
+4. Only respond for a fee
+Correct: 1 - Comply confidentially under law
+
+-----
+--- Question 6 --- What is the primary objective of the UN Cybercrime Convention?
+1. To create a unified global operating system for cybersecurity
+2. To establish an international legal framework for preventing, criminalizing, and cooperating on cybercrime
+3. To replace all national criminal laws on cybercrime
+4. To define mandatory encryption standards for all member states
+Correct: ?   (tried wrong: 1)
+
+-----
+--- Question 6 --- What is the purpose of real-time collection of traffic data?
+1. To record communication parameters (source, destination, timing) useful in investigations
+2. To capture message content
+3. To permanently block Internet
+4. To identify users without legal basis
+Correct: 1 - To record communication parameters (source, destination, timing) useful in investigations
+
+-----
+--- Question 9 --- Under what circumstances may a state refuse mutual legal assistance (MLA)?
+1. If the request would seriously impair its sovereignty, security, or public order
+2. If the requesting country speaks a different language
+3. If the crime involves the Internet
+4. If the suspect resides abroad
+Correct: 1 - If the request would seriously impair its sovereignty, security, or public order
+
+-----
+--- Question 9 --- What is emphasized by the Convention about handling personal data?
+1. Investigative measures must include safeguards and use-limitation
+2. Broad data collection is preferable
+3. Privacy is irrelevant
+4. All states must adopt GDPR
+Correct: 1 - Investigative measures must include safeguards and use-limitation
+
+-----
+=== END OF QUIZ === You answered 10/10 questions correctly. Current score: 200 CONGRATULATIONS! You passed the quiz with an excellent result! ⭐ LEVEL UP! You have reached rank 2! ⭐ === Main Menu ===
+1. Create New Player
+2. View Player Information
+3. Start Challenge
+4. Exit Game
+Correct: ?   (tried wrong: )
+
+-----
+=== END OF QUIZ === You answered 5/10 questions correctly. Current score: 100 You need to try harder next time to master the rules. === Main Menu ===
+1. Create New Player
+2. View Player Information
+3. Start Challenge
+4. Exit Game
+Correct: ?   (tried wrong: )
+
+-----
+=== END OF QUIZ === You answered 7/10 questions correctly. Current score: 140 You need to try harder next time to master the rules. === Main Menu ===
+1. Create New Player
+2. View Player Information
+3. Start Challenge
+4. Exit Game
+Correct: ?   (tried wrong: )
+
+-----
+=== END OF QUIZ === You answered 8/10 questions correctly. Current score: 160 You need to try harder next time to master the rules. === Main Menu ===
+1. Create New Player
+2. View Player Information
+3. Start Challenge
+4. Exit Game
+Correct: ?   (tried wrong: )
+
+-----
+=== END OF QUIZ === You answered 9/10 questions correctly. Current score: 180 You need to try harder next time to master the rules. === Main Menu ===
+1. Create New Player
+2. View Player Information
+3. Start Challenge
+4. Exit Game
+Correct: ?   (tried wrong: )
+
+-----
+Can information obtained through MLA be used for purposes other than originally requested?
+1. Always permitted
+2. Never permitted
+3. Only for the original purpose or under conditions imposed by the providing state
+4. Freely at the discretion of the recipient
+Correct: 3 - Only for the original purpose or under conditions imposed by the providing state
+
+-----
+Does the Convention apply to traditional crimes committed via ICT means?
+1. Yes, when traditional crimes are executed via ICT systems
+2. Only new cybercrimes
+3. Never to traditional crimes
+4. Only when large financial harm occurs
+Correct: 1 - Yes, when traditional crimes are executed via ICT systems
+
+-----
+Does the Convention fix a uniform time limit for freezing or seizing assets?
+1. No, it depends on national law and procedures
+2. Always 90 days
+3. Always 7 days
+4. Always 30 days
+Correct: 1 - No, it depends on national law and procedures
+
+-----
+Does the Convention mandate all states to use the same cybersecurity software?
+1. Yes, UN-approved software is mandatory
+2. No, it provides legal framework without prescribing technical standards
+3. Yes, open-source only
+4. Yes, commercial antivirus only
+Correct: 2 - No, it provides legal framework without prescribing technical standards
+
+-----
+Does the Convention require capacity building for law enforcement?
+1. Yes, it encourages training, technical assistance, and sharing best practices
+2. No, it leaves this optional
+3. Only hardware donations
+4. Only trains private sector
+Correct: 1 - Yes, it encourages training, technical assistance, and sharing best practices
+
+-----
+How does the Convention address online child sexual exploitation material (CSEM)?
+1. It does not regulate this area
+2. It criminalizes production, distribution, possession, and intentional access of CSEM
+3. It only gives ethical guidance
+4. It only bans uploads to social media
+Correct: 2 - It criminalizes production, distribution, possession, and intentional access of CSEM
+
+-----
+How does the Convention define 'electronic data'?
+1. Only text data stored in computers
+2. Any representation of information suitable for processing in an ICT system, including a program
+3. Only multimedia content such as audio or video
+4. Only data owned by governments
+Correct: 2 - Any representation of information suitable for processing in an ICT system, including a program
+
+-----
+How does the Convention ensure protection of personal data and human rights?
+1. It ignores human rights issues
+2. It emphasizes compliance with national and international human rights obligations
+3. It requires a single global data protection law
+4. It only applies to developed countries
+Correct: 2 - It emphasizes compliance with national and international human rights obligations
+
+-----
+How does the Convention treat extradition?
+1. Based on existing treaties or reciprocity, following domestic law
+2. Prohibits extradition in all cases
+3. Mandates extradition without legal basis
+4. Only via international courts
+Correct: 1 - Based on existing treaties or reciprocity, following domestic law
+
+-----
+If a state cannot fully comply with an MLA request, what is encouraged?
+1. Consult to find alternative measures or clarify conditions
+2. Refuse outright without explanation
+3. Delegate to private sector
+4. Delete the request
+Correct: 1 - Consult to find alternative measures or clarify conditions
+
+-----
+In an emergency cooperation scenario, what does the Convention encourage?
+1. Rapid communication between contact points to avoid data loss
+2. Halting investigations pending treaties
+3. Only paper correspondence
+4. Ignoring national laws
+Correct: 1 - Rapid communication between contact points to avoid data loss
+
+-----
+Is real-time interception allowed for all crimes?
+1. Only where authorized by national law and consistent with human rights
+2. Even for minor administrative violations
+3. Only for traffic offences
+4. Automatically upon foreign request
+Correct: 1 - Only where authorized by national law and consistent with human rights
+
+-----
+Search and seizure of electronic data may include what measure?
+1. Copying stored data to preserve evidence
+2. Always seizing physical hardware
+3. Viewing data only without copying
+4. Only unencrypted data
+Correct: 1 - Copying stored data to preserve evidence
+
+-----
+Under what circumstances may a state refuse mutual legal assistance (MLA)?
+1. If the request would seriously impair its sovereignty, security, or public order
+2. If the requesting country speaks a different language
+3. If the crime involves the Internet
+4. If the suspect resides abroad
+Correct: 1 - If the request would seriously impair its sovereignty, security, or public order
+
+-----
+What bases of jurisdiction may a state assert under the Convention?
+1. Territory, offender nationality, or registered vessel/aircraft
+2. Only victim's residence
+3. Only server location
+4. Only when profit is obtained
+Correct: 1 - Territory, offender nationality, or registered vessel/aircraft
+
+-----
+What conditions apply to real-time collection of content data (interception)?
+1. None — it may be done freely
+2. Only verbal request by investigator
+3. Must comply with national law and human rights safeguards
+4. Always notify the target immediately
+Correct: 3 - Must comply with national law and human rights safeguards
+
+-----
+What constitutes 'interference with electronic data'?
+1. Authorized data copying
+2. Unauthorized alteration, deletion, or corruption of data
+3. Accessing public data on websites
+4. Compression of files to save space
+Correct: 2 - Unauthorized alteration, deletion, or corruption of data
+
+-----
+What data types can production orders target?
+1. Subscriber and electronic data held lawfully by persons or providers
+2. Only real-time content data
+3. Only printed documents
+4. Only state-generated data
+Correct: 1 - Subscriber and electronic data held lawfully by persons or providers
+
+-----
+What does 'subscriber information' usually cover under the Convention?
+1. The actual contents of communications (text, audio, video)
+2. Identifying details of the subscriber: name, address, billing info, etc.
+3. The source code of service providers
+4. Encrypted messages
+Correct: 2 - Identifying details of the subscriber: name, address, billing info, etc.
+
+-----
+What guiding principles must investigative powers respect under the Convention?
+1. Necessity, proportionality, legality, and human rights safeguards
+2. Collect as much data as possible
+3. Disregard privacy for speed
+4. Follow only international norms
+Correct: 1 - Necessity, proportionality, legality, and human rights safeguards
+
+-----
+What is 'illegal interception' under the Convention?
+1. Seizing hardware to access stored data
+2. Secretly intercepting data in transit without authorization
+3. Deleting data from a system
+4. Automatically backing up data
+Correct: 2 - Secretly intercepting data in transit without authorization
+
+-----
+What is 'system interference' according to the Convention?
+1. Configuring firewalls for security
+2. Deliberately disrupting or degrading the functioning of an ICT system unlawfully
+3. Debugging software for performance
+4. Routine backup operations
+Correct: 2 - Deliberately disrupting or degrading the functioning of an ICT system unlawfully
+
+-----
+What is a 'production order' used for?
+1. To compel a person or service provider to produce electronic data or subscriber info lawfully held
+2. To authorize real-time interception of communications
+3. To authorize home search
+4. To seize physical property
+Correct: 1 - To compel a person or service provider to produce electronic data or subscriber info lawfully held
+
+-----
+What is emphasized by the Convention about handling personal data?
+1. Investigative measures must include safeguards and use-limitation
+2. Broad data collection is preferable
+3. Privacy is irrelevant
+4. All states must adopt GDPR
+Correct: 1 - Investigative measures must include safeguards and use-limitation
+
+-----
+What is the key difference between data preservation and asset freezing/seizure?
+1. Preservation targets electronic data; freezing concerns assets or tangible property
+2. They are identical
+3. Both only apply to real-time data
+4. Neither appears in the Convention
+Correct: 1 - Preservation targets electronic data; freezing concerns assets or tangible property
+
+-----
+What is the main purpose of expedited disclosure of traffic data?
+1. To quickly identify routes, origin/destination, and guide jurisdictional decisions
+2. To obtain message contents
+3. To block user accounts
+4. To shut down Internet services
+Correct: 1 - To quickly identify routes, origin/destination, and guide jurisdictional decisions
+
+-----
+What is the meaning of an 'ICT system' in the Convention?
+1. Only government servers
+2. Any device or group of devices that processes electronic data, including interrelated components
+3. Only Internet-connected broadband devices
+4. Only computers and smartphones
+Correct: 2 - Any device or group of devices that processes electronic data, including interrelated components
+
+-----
+What is the primary objective of the UN Cybercrime Convention?
+1. To create a unified global operating system for cybersecurity
+2. To establish an international legal framework for preventing, criminalizing, and cooperating on cybercrime
+3. To replace all national criminal laws on cybercrime
+4. To define mandatory encryption standards for all member states
+Correct: 2 - To establish an international legal framework for preventing, criminalizing, and cooperating on cybercrime
+
+-----
+What is the principal aim of computer-related fraud in the Convention?
+1. Creating poetry via computer
+2. Using deception via ICT to obtain property or advantage unlawfully
+3. Sharing open-source tools
+4. Copying materials for academic use
+Correct: 2 - Using deception via ICT to obtain property or advantage unlawfully
+
+-----
+What is the principal function of the 24/7 contact network under the Convention?
+1. To issue antivirus licenses
+2. To facilitate urgent inter-state requests for data preservation and cooperation
+3. To penalize telecom operators
+4. To publish scam alerts
+Correct: 2 - To facilitate urgent inter-state requests for data preservation and cooperation
+
+-----
+What is the principle governing use of information from MLA?
+1. Only for stated purpose or agreed conditions
+2. Free use for all domestic matters
+3. Must delete after first use
+4. Must be published in international court
+Correct: 1 - Only for stated purpose or agreed conditions
+
+-----
+What is the purpose of real-time collection of traffic data?
+1. To record communication parameters (source, destination, timing) useful in investigations
+2. To capture message content
+3. To permanently block Internet
+4. To identify users without legal basis
+Correct: 1 - To record communication parameters (source, destination, timing) useful in investigations
+
+-----
+What is the purpose of the 'expedited preservation of data' measure?
+1. To perform regular backups
+2. To require service providers to preserve relevant data for investigation purposes temporarily
+3. To delete data to protect privacy
+4. To move data abroad proactively
+Correct: 2 - To require service providers to preserve relevant data for investigation purposes temporarily
+
+-----
+What is the role of the central authority for mutual legal assistance (MLA)?
+1. To receive, send, and coordinate MLA requests between states
+2. To manage domain name registration
+3. To issue cybersecurity certificates
+4. To provide cloud storage
+Correct: 1 - To receive, send, and coordinate MLA requests between states
+
+-----
+What is the treatment of money laundering linked to cybercrime in the Convention?
+1. It is not covered
+2. It criminalizes concealing or transferring assets derived from cybercrime
+3. It treats it as a civil matter
+4. It only applies to cash transactions
+Correct: 2 - It criminalizes concealing or transferring assets derived from cybercrime
+
+-----
+What is the usual duration allowed for data preservation under the Convention?
+1. Up to 90 days, extendable by national law
+2. Fixed 7 days, no extension
+3. 365 days mandatory
+4. There is no such concept
+Correct: 1 - Up to 90 days, extendable by national law
+
+-----
+What is the withdrawal mechanism from the Convention?
+1. One year prior written notice to the UN Secretary-General
+2. Immediate withdrawal without notice
+3. Requires approval from other member states
+4. 30 days' notice
+Correct: 1 - One year prior written notice to the UN Secretary-General
+
+-----
+What must service providers do under valid expedited preservation requests?
+1. Delete data to free disk space
+2. Preserve specified data intact and confidential
+3. Publish the preserved data
+4. Transfer it abroad
+Correct: 2 - Preserve specified data intact and confidential
+
+-----
+What must service providers do when receiving a lawful order?
+1. Comply confidentially under law
+2. Ignore it if client is special
+3. Publish it online
+4. Only respond for a fee
+Correct: 1 - Comply confidentially under law
+
+-----
+What type of requests can the 24/7 contact point support?
+1. Urgent preservation of electronic data in investigations
+2. Allocating Internet bandwidth
+3. Telecom licensing
+4. IT security certification
+Correct: 1 - Urgent preservation of electronic data in investigations
+
+-----
+When does the Convention enter into force?
+1. After 10 signatures
+2. 90 days after 40 ratifications or accessions
+3. By UN Security Council resolution
+4. Once all G20 countries sign
+Correct: 2 - 90 days after 40 ratifications or accessions
+
+-----
+When is real-time interception of content allowed?
+1. When permitted under national law and consistent with human rights
+2. At any time investigators wish
+3. Only with user consent
+4. Never, per Convention
+Correct: 1 - When permitted under national law and consistent with human rights
+
+-----
+When is search and seizure of electronic data permitted under the Convention?
+1. When national law authorizes it to seek and seize relevant digital evidence
+2. Anytime without legal grounds
+3. Only for printed materials
+4. Only for traditional financial crimes
+Correct: 1 - When national law authorizes it to seek and seize relevant digital evidence
+
+-----
+When transferring electronic evidence across borders, what must be observed?
+1. Chain of custody, integrity, authenticity, and local evidentiary rules
+2. Free public dissemination online
+3. Only a summary is enough
+4. Must translate into all UN languages
+Correct: 1 - Chain of custody, integrity, authenticity, and local evidentiary rules
+
+-----
+Which article defines 'illegal access' (unauthorized access)?
+1. Article 10 - System interference
+2. Article 6 - Illegal access (unauthorized access to an ICT system)
+3. Article 7 - Illegal interception
+4. Article 12 - Computer-related fraud
+Correct: 2 - Article 6 - Illegal access (unauthorized access to an ICT system)
+
+-----
+Which forms of international cooperation are typically included under the Convention?
+1. Executing search/seizure, gathering testimony, and providing records or data
+2. Issuing visas for investigators
+3. Donating technology to states
+4. Recruiting IT personnel
+Correct: 1 - Executing search/seizure, gathering testimony, and providing records or data
+
+-----
+Which of the following best distinguishes traffic data from content data?
+1. Traffic data indicates routing, source/destination, timestamps; it does not include the substance of communication
+2. Traffic data includes full message content
+3. Content data only includes IP addresses and time information
+4. The two are equivalent in meaning
+Correct: 1 - Traffic data indicates routing, source/destination, timestamps; it does not include the substance of communication
+
+-----
+Which refusal ground for MLA is valid under the Convention?
+1. If the request would seriously affect sovereignty or security
+2. If countries are not neighbors
+3. If the case involves advanced technology
+4. If there is a time zone difference
+Correct: 1 - If the request would seriously affect sovereignty or security
+
+-----
+You answered 10/10 questions correctly. Current score: 200 CONGRATULATIONS! You passed the quiz with an excellent result! ⭐ LEVEL UP! You have reached rank 2! ⭐ === Main Menu ===
+1. Create New Player
+2. View Player Information
+3. Start Challenge
+4. Exit Game
+Correct: ?   (tried wrong: )

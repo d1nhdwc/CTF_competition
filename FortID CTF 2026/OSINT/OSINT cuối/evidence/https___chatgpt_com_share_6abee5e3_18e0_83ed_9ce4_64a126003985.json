@@ -1,0 +1,3720 @@
+{
+  "title": "Workout App Comparison",
+  "create_time": 1790895587.10239,
+  "update_time": 1790895587.737652,
+  "moderation_results": [],
+  "conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+  "is_archived": false,
+  "safe_urls": [
+    "https://www.openai.com",
+    "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide",
+    "https://www.hevyapp.com/features/exercise-performance/?utm_source=chatgpt.com",
+    "https://www.hevyapp.com/features/track-workouts/",
+    "https://www.apple.com/",
+    "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com",
+    "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises",
+    "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises?utm_source=chatgpt.com",
+    "https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com",
+    "https://www.hevyapp.com/features/exercise-performance/"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": "auto",
+  "disabled_tool_ids": [],
+  "is_temporary_chat": false,
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": [
+    "GLOBAL"
+  ],
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "mapping": {
+    "client-created-root": {
+      "id": "client-created-root",
+      "children": [
+        "e6c6b40a-011b-4cce-8d59-69dbfef2807a"
+      ]
+    },
+    "e6c6b40a-011b-4cce-8d59-69dbfef2807a": {
+      "id": "e6c6b40a-011b-4cce-8d59-69dbfef2807a",
+      "message": {
+        "id": "e6c6b40a-011b-4cce-8d59-69dbfef2807a",
+        "author": {
+          "role": "user",
+          "metadata": {}
+        },
+        "create_time": 1790270644.312,
+        "update_time": 1790270651.459696,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I’m returning to weight training and want a straightforward workout log, not a coaching platform or pre-made training program. I need to create a few routines, record weights/reps/sets, see my previous performance during each workout, track PRs over time, and add custom exercises for unusual gym equipment. I’m not particularly interested in meal planning, community features, or automatic program recommendations. Which app would be the best fit?"
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_source": null,
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "client-created-root",
+      "children": [
+        "fb26680f-817a-4a90-8961-dc49467705b0"
+      ]
+    },
+    "fb26680f-817a-4a90-8961-dc49467705b0": {
+      "id": "fb26680f-817a-4a90-8961-dc49467705b0",
+      "message": {
+        "id": "fb26680f-817a-4a90-8961-dc49467705b0",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.656193,
+        "update_time": 1790270645.656193,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0,
+        "metadata": {
+          "rebase_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "e6c6b40a-011b-4cce-8d59-69dbfef2807a",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "e6c6b40a-011b-4cce-8d59-69dbfef2807a",
+      "children": [
+        "f374cb69-4d27-4def-a990-f40f2c847049"
+      ]
+    },
+    "f374cb69-4d27-4def-a990-f40f2c847049": {
+      "id": "f374cb69-4d27-4def-a990-f40f2c847049",
+      "message": {
+        "id": "f374cb69-4d27-4def-a990-f40f2c847049",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.663401,
+        "update_time": 1790270645.663401,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0,
+        "metadata": {
+          "rebase_developer_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "fb26680f-817a-4a90-8961-dc49467705b0",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "fb26680f-817a-4a90-8961-dc49467705b0",
+      "children": [
+        "e33a2a7f-b980-42f7-a46d-d0e9a071e716"
+      ]
+    },
+    "e33a2a7f-b980-42f7-a46d-d0e9a071e716": {
+      "id": "e33a2a7f-b980-42f7-a46d-d0e9a071e716",
+      "message": {
+        "id": "e33a2a7f-b980-42f7-a46d-d0e9a071e716",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.667009,
+        "update_time": 1790270645.667009,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "f374cb69-4d27-4def-a990-f40f2c847049",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "f374cb69-4d27-4def-a990-f40f2c847049",
+      "children": [
+        "50173094-0895-4a8c-b299-aaa2b4d54b49"
+      ]
+    },
+    "50173094-0895-4a8c-b299-aaa2b4d54b49": {
+      "id": "50173094-0895-4a8c-b299-aaa2b4d54b49",
+      "message": {
+        "id": "50173094-0895-4a8c-b299-aaa2b4d54b49",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.672304,
+        "update_time": 1790270645.672304,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "e33a2a7f-b980-42f7-a46d-d0e9a071e716",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "e33a2a7f-b980-42f7-a46d-d0e9a071e716",
+      "children": [
+        "b7a8ceaf-97a0-452b-a5de-77e67a9df433"
+      ]
+    },
+    "b7a8ceaf-97a0-452b-a5de-77e67a9df433": {
+      "id": "b7a8ceaf-97a0-452b-a5de-77e67a9df433",
+      "message": {
+        "id": "b7a8ceaf-97a0-452b-a5de-77e67a9df433",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.675931,
+        "update_time": 1790270645.675931,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "50173094-0895-4a8c-b299-aaa2b4d54b49",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "50173094-0895-4a8c-b299-aaa2b4d54b49",
+      "children": [
+        "4810a429-87dd-4069-87bc-cb40b3d3c6f6"
+      ]
+    },
+    "4810a429-87dd-4069-87bc-cb40b3d3c6f6": {
+      "id": "4810a429-87dd-4069-87bc-cb40b3d3c6f6",
+      "message": {
+        "id": "4810a429-87dd-4069-87bc-cb40b3d3c6f6",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270645.681179,
+        "update_time": 1790270645.681179,
+        "content": {
+          "content_type": "model_editable_context",
+          "model_set_context": ""
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "cot_version": "v5",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "parent_id": "b7a8ceaf-97a0-452b-a5de-77e67a9df433",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_redacted": true
+        },
+        "recipient": "all"
+      },
+      "parent": "b7a8ceaf-97a0-452b-a5de-77e67a9df433",
+      "children": [
+        "490e4be1-10fc-4a46-ba4b-2b207806c787"
+      ]
+    },
+    "490e4be1-10fc-4a46-ba4b-2b207806c787": {
+      "id": "490e4be1-10fc-4a46-ba4b-2b207806c787",
+      "message": {
+        "id": "490e4be1-10fc-4a46-ba4b-2b207806c787",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.685197,
+        "update_time": 1790270645.685197,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "cot_version": "v5",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "parent_id": "4810a429-87dd-4069-87bc-cb40b3d3c6f6",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "4810a429-87dd-4069-87bc-cb40b3d3c6f6",
+      "children": [
+        "9bf77e83-b8e7-4aba-8dc3-9d0d87df2087"
+      ]
+    },
+    "9bf77e83-b8e7-4aba-8dc3-9d0d87df2087": {
+      "id": "9bf77e83-b8e7-4aba-8dc3-9d0d87df2087",
+      "message": {
+        "id": "9bf77e83-b8e7-4aba-8dc3-9d0d87df2087",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.689407,
+        "update_time": 1790270645.689407,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "citations": [],
+          "content_references": [],
+          "story_events": [],
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "490e4be1-10fc-4a46-ba4b-2b207806c787",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "assistant"
+      },
+      "parent": "490e4be1-10fc-4a46-ba4b-2b207806c787",
+      "children": [
+        "a0d60e1a-36eb-447f-b602-8ecdcdccf664"
+      ]
+    },
+    "a0d60e1a-36eb-447f-b602-8ecdcdccf664": {
+      "id": "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+      "message": {
+        "id": "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270645.808091,
+        "update_time": 1790270645.808091,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "resolved_model_slug": "gpt-5-6",
+          "reasoning_titles": [
+            "Searching the web"
+          ],
+          "reasoning_title": "Searching the web",
+          "reasoning_status": "is_reasoning",
+          "tool_icons": [
+            "globe"
+          ],
+          "reasoning_start_time": 1790270645.0192263,
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "6b415b42-6984-4115-bd11-caa09d11564b",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "web"
+      },
+      "parent": "9bf77e83-b8e7-4aba-8dc3-9d0d87df2087",
+      "children": [
+        "5869a183-f652-4fc9-bc66-7fcc50e89f09"
+      ]
+    },
+    "5869a183-f652-4fc9-bc66-7fcc50e89f09": {
+      "id": "5869a183-f652-4fc9-bc66-7fcc50e89f09",
+      "message": {
+        "id": "5869a183-f652-4fc9-bc66-7fcc50e89f09",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270645.921574,
+        "update_time": 1790270645.921574,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "resolved_model_slug": "gpt-5-6",
+          "hide_inline_actions": true,
+          "disable_turn_actions": true,
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+          "reasoning_status": "is_reasoning",
+          "tool_icons": [
+            "globe"
+          ],
+          "reasoning_start_time": 1790270645.0192263,
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "web.run"
+      },
+      "parent": "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+      "children": [
+        "6563401a-c55c-4eeb-b101-dfcf829d3df3"
+      ]
+    },
+    "6563401a-c55c-4eeb-b101-dfcf829d3df3": {
+      "id": "6563401a-c55c-4eeb-b101-dfcf829d3df3",
+      "message": {
+        "id": "6563401a-c55c-4eeb-b101-dfcf829d3df3",
+        "author": {
+          "role": "tool",
+          "name": "web.run",
+          "metadata": {
+            "real_author": "tool:web.run"
+          }
+        },
+        "create_time": 1790270646.030391,
+        "update_time": 1790270646.030391,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The output of this plugin was redacted."
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "reasoning_titles": [
+            "Searching best workout log app custom exercises PR tracking routines weights reps sets Hevy Strong FitNotes 2026",
+            "Searching Hevy workout tracker custom exercises routines history personal records features",
+            "Searching Strong workout tracker custom exercises history PRs routines features",
+            "Searching FitNotes workout log custom exercises history personal records routines"
+          ],
+          "reasoning_title": "Searching best workout log app custom exercises PR tracking routines weights reps sets Hevy Strong FitNotes 2026",
+          "reasoning_status": "is_reasoning",
+          "reasoning_start_time": 1790270645.0192263,
+          "cot_version": "v5",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "parent_id": "5869a183-f652-4fc9-bc66-7fcc50e89f09",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_redacted": true
+        },
+        "recipient": "all"
+      },
+      "parent": "5869a183-f652-4fc9-bc66-7fcc50e89f09",
+      "children": [
+        "791b39fc-3f57-400d-b23c-144bf2098d91"
+      ]
+    },
+    "791b39fc-3f57-400d-b23c-144bf2098d91": {
+      "id": "791b39fc-3f57-400d-b23c-144bf2098d91",
+      "message": {
+        "id": "791b39fc-3f57-400d-b23c-144bf2098d91",
+        "author": {
+          "role": "tool",
+          "name": "web.run",
+          "metadata": {
+            "real_author": "tool:web.run"
+          }
+        },
+        "create_time": 1790270646.355991,
+        "update_time": 1790270646.355991,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The output of this plugin was redacted."
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "cot_version": "v5",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "parent_id": "8637a899-dbd6-4e01-8c9d-5e714ac4a39f",
+          "reasoning_title_content_transition": "numeric",
+          "reasoning_status": "is_reasoning",
+          "reasoning_start_time": 1790270645.0192263,
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_redacted": true
+        },
+        "recipient": "all"
+      },
+      "parent": "6563401a-c55c-4eeb-b101-dfcf829d3df3",
+      "children": [
+        "c0ba223c-edca-4dfb-bf2e-728ef0adac67"
+      ]
+    },
+    "c0ba223c-edca-4dfb-bf2e-728ef0adac67": {
+      "id": "c0ba223c-edca-4dfb-bf2e-728ef0adac67",
+      "message": {
+        "id": "c0ba223c-edca-4dfb-bf2e-728ef0adac67",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270646.670449,
+        "update_time": 1790270646.670449,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 0,
+        "metadata": {
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "d729b97f-983e-4b68-995e-29a378edf412",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "791b39fc-3f57-400d-b23c-144bf2098d91",
+      "children": [
+        "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b"
+      ]
+    },
+    "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b": {
+      "id": "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b",
+      "message": {
+        "id": "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270646.704702,
+        "update_time": 1790270646.704702,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 0,
+        "metadata": {
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "c0ba223c-edca-4dfb-bf2e-728ef0adac67",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "c0ba223c-edca-4dfb-bf2e-728ef0adac67",
+      "children": [
+        "0358822e-3970-4cad-bc15-8769f634a61f"
+      ]
+    },
+    "0358822e-3970-4cad-bc15-8769f634a61f": {
+      "id": "0358822e-3970-4cad-bc15-8769f634a61f",
+      "message": {
+        "id": "0358822e-3970-4cad-bc15-8769f634a61f",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270646.725718,
+        "update_time": 1790270646.725718,
+        "content": {
+          "content_type": "thoughts",
+          "thoughts": [
+            {
+              "summary": "Searched 2 websites",
+              "content": "",
+              "chunks": [],
+              "finished": true
+            }
+          ],
+          "source_analysis_msg_id": "e7f9f97a-9859-4c47-ad92-d7db6706ec7f"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1,
+        "metadata": {
+          "inline_cot_expandable_content": {
+            "search_result_groups": [
+              {
+                "type": "search_result_group",
+                "domain": "help.hevyapp.com",
+                "entries": [
+                  {
+                    "type": "search_result",
+                    "url": "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide",
+                    "title": "Everything You Need to Know About the Hevy App (2025 Features Guide) – Hevy Help Centre (English",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 0
+                    },
+                    "pub_date": null,
+                    "attribution": "help.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises",
+                    "title": "Hevy Exercise Library: 400+ Exercises and Custom Exercises – Hevy Help Centre (English",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 1
+                    },
+                    "pub_date": null,
+                    "attribution": "help.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://help.hevyapp.com/hc/en-us/articles/35688036014231-Hevy-App-Social-Guide-Connect-Follow-and-Share-Your-Workouts",
+                    "title": "Hevy App Social Guide: Connect, Follow, and Share Your Workouts – Hevy Help Centre (English",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 5
+                    },
+                    "pub_date": null,
+                    "attribution": "help.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://help.hevyapp.com/hc/en-us/articles/35382889578135-Exercise-Performance-Tracking-in-Library-Weight-Bodyweight-Cardio-and-Duration-Based-Exercises",
+                    "title": "Exercise Performance Tracking in Library (Weight, Bodyweight, Cardio and Duration Based Exercises) – Hevy Help Centre (English",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 8
+                    },
+                    "pub_date": null,
+                    "attribution": "help.hevyapp.com"
+                  }
+                ]
+              },
+              {
+                "type": "search_result_group",
+                "domain": "www.hevyapp.com",
+                "entries": [
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/exercise-performance/",
+                    "title": "How to Track Gym and Exercise Performance - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 2
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/",
+                    "title": "Hevy - The #1 Workout Tracker & Gym Logger App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 3
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/track-workouts/",
+                    "title": "How to Log & Track Workouts Easier and Faster - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 4
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/workout-log/",
+                    "title": "How to Save Workouts (The Best Workout Log) - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 6
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/athlete-workouts/",
+                    "title": "Explore Athlete Workouts For Ideas & Inspiration - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 7
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/gym-progress/",
+                    "title": "Track Your Gym Progress and Body Composition - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 9
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/",
+                    "title": "Hevy App Feature List - #1 Workout Tracker & Gym Log App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 10
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/best-way-to-track-workouts/",
+                    "title": "The Best Way to Track Workouts You've Logged - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 11
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  }
+                ]
+              }
+            ],
+            "source_message_ids": [
+              "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+              "6563401a-c55c-4eeb-b101-dfcf829d3df3"
+            ]
+          },
+          "reasoning_status": "is_reasoning",
+          "tool_summary_type": "web",
+          "tool_icons": [
+            "https://www.google.com/s2/favicons?domain=help.hevyapp.com&sz=128",
+            "https://www.google.com/s2/favicons?domain=www.hevyapp.com&sz=128"
+          ],
+          "reasoning_start_time": 1790270645.0192263,
+          "cot_version": "v5",
+          "conversation_followup_suggestions_eligible": false,
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "resolved_model_slug": "gpt-5-6",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "can_save": false,
+          "parent_id": "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b",
+          "hide_inline_actions": true,
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985"
+        },
+        "recipient": "all"
+      },
+      "parent": "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b",
+      "children": [
+        "dc230741-9dd4-458d-b6ee-3b3a595bd9f7"
+      ]
+    },
+    "dc230741-9dd4-458d-b6ee-3b3a595bd9f7": {
+      "id": "dc230741-9dd4-458d-b6ee-3b3a595bd9f7",
+      "message": {
+        "id": "dc230741-9dd4-458d-b6ee-3b3a595bd9f7",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270646.737434,
+        "update_time": 1790270646.737434,
+        "content": {
+          "content_type": "reasoning_recap",
+          "content": "Worked for a couple of seconds"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1,
+        "metadata": {
+          "reasoning_status": "reasoning_ended",
+          "finished_duration_sec": 1,
+          "reasoning_start_time": 1790270645.0192263,
+          "reasoning_end_time": 1790270646.7055132,
+          "reasoning_recap_type": "hide_all",
+          "cot_version": "v5",
+          "conversation_followup_suggestions_eligible": false,
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "resolved_model_slug": "gpt-5-6",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "can_save": false,
+          "parent_id": "0358822e-3970-4cad-bc15-8769f634a61f",
+          "hide_inline_actions": true,
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985"
+        },
+        "recipient": "all"
+      },
+      "parent": "0358822e-3970-4cad-bc15-8769f634a61f",
+      "children": [
+        "c7c6f80a-091a-4956-b978-4be19d7613d6"
+      ]
+    },
+    "c7c6f80a-091a-4956-b978-4be19d7613d6": {
+      "id": "c7c6f80a-091a-4956-b978-4be19d7613d6",
+      "message": {
+        "id": "c7c6f80a-091a-4956-b978-4be19d7613d6",
+        "author": {
+          "role": "assistant",
+          "metadata": {
+            "real_author": "tool:web"
+          }
+        },
+        "create_time": 1790270646.747195,
+        "update_time": 1790270918.800351,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on what you described, **Hevy** looks like the closest fit.\n\n| What you want | Hevy |\n|---|---|\n| Create your own routines | ✅ Yes |\n| Log weight, reps, and sets | ✅ Yes |\n| See last performance while training | ✅ Yes — previous values appear alongside exercises |\n| Track PRs over time | ✅ Yes — including heaviest weight, estimated 1RM, best sets and volume |\n| Performance history | ✅ Workout-by-workout history and graphs |\n| Custom exercises/equipment | ✅ Yes |\n| Avoid coaching/program recommendations | ✅ You can simply ignore those features |\n| Meal planning | Not central to the app |\n| Community/social features | Present, but optional |\n\nHevy specifically lets you create reusable routines with your own exercises, sets, loads and reps. When you repeat an exercise, it shows your previous values so you can immediately see what you did last time. citeturn0search4\n\nIts exercise tracking is also unusually well aligned with your PR requirement: it records things like heaviest weight, projected 1RM, best set/session volume, and maximum weight for particular rep counts, with history and graphs over time. Custom exercises are supported too. citeturn0search2turn0search1\n\n**One caveat:** the free version is somewhat deliberately limited. You get **up to 4 routines, 7 custom exercises, and 3 months of statistics history**; Pro removes those limits and gives you longer/all-time statistics. citeturn0search0\n\nSo if your goal is essentially **“digital notebook for lifting, but smart enough to remember my last numbers and PRs,” Hevy is a strong match.** Its coaching and social functionality is there, but you don't need to use it.\n\nIf you want, I can also compare **Hevy vs Strong vs FitNotes** specifically on *simplicity, free-tier limits, custom exercises, and PR/history tracking*."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "content_references": [
+            {
+              "matched_text": "citeturn0search4",
+              "prefix": null,
+              "start_idx": 864,
+              "end_idx": 883,
+              "safe_urls": [
+                "https://www.hevyapp.com/features/track-workouts/",
+                "https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com"
+              ],
+              "refs": [],
+              "alt": "([Hevy](https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com))",
+              "prompt_text": null,
+              "type": "grouped_webpages",
+              "items": [
+                {
+                  "title": "How to Log & Track Workouts Easier and Faster - Hevy App",
+                  "url": "https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com",
+                  "attribution": "Hevy",
+                  "pub_date": null,
+                  "snippet": "",
+                  "attribution_segments": null,
+                  "supporting_websites": [],
+                  "refs": [
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 4
+                    }
+                  ],
+                  "hue": null,
+                  "attributions": null
+                }
+              ],
+              "fallback_items": [],
+              "status": "done",
+              "error": null,
+              "style": null
+            },
+            {
+              "matched_text": "citeturn0search2turn0search1",
+              "prefix": null,
+              "start_idx": 1161,
+              "end_idx": 1193,
+              "safe_urls": [
+                "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises",
+                "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises?utm_source=chatgpt.com",
+                "https://www.hevyapp.com/features/exercise-performance/",
+                "https://www.hevyapp.com/features/exercise-performance/?utm_source=chatgpt.com"
+              ],
+              "refs": [],
+              "alt": "([Hevy](https://www.hevyapp.com/features/exercise-performance/?utm_source=chatgpt.com))",
+              "prompt_text": null,
+              "type": "grouped_webpages",
+              "items": [
+                {
+                  "title": "How to Track Gym and Exercise Performance - Hevy App",
+                  "url": "https://www.hevyapp.com/features/exercise-performance/?utm_source=chatgpt.com",
+                  "attribution": "Hevy",
+                  "pub_date": null,
+                  "snippet": "",
+                  "attribution_segments": null,
+                  "supporting_websites": [
+                    {
+                      "title": "Hevy Exercise Library: 400+ Exercises and Custom Exercises – Hevy Help Centre (English",
+                      "url": "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises?utm_source=chatgpt.com",
+                      "pub_date": null,
+                      "snippet": "",
+                      "attribution": "Hevy Help Centre"
+                    }
+                  ],
+                  "refs": [
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 2
+                    },
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 1
+                    }
+                  ],
+                  "hue": null,
+                  "attributions": null
+                }
+              ],
+              "fallback_items": [],
+              "status": "done",
+              "error": null,
+              "style": null
+            },
+            {
+              "matched_text": "citeturn0search0",
+              "prefix": null,
+              "start_idx": 1415,
+              "end_idx": 1434,
+              "safe_urls": [
+                "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide",
+                "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com"
+              ],
+              "refs": [],
+              "alt": "([Hevy Help Centre](https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com))",
+              "prompt_text": null,
+              "type": "grouped_webpages",
+              "items": [
+                {
+                  "title": "Everything You Need to Know About the Hevy App (2025 Features Guide) – Hevy Help Centre (English",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com",
+                  "attribution": "Hevy Help Centre",
+                  "pub_date": null,
+                  "snippet": "",
+                  "attribution_segments": null,
+                  "supporting_websites": [],
+                  "refs": [
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 0
+                    }
+                  ],
+                  "hue": null,
+                  "attributions": null
+                }
+              ],
+              "fallback_items": [],
+              "status": "done",
+              "error": null,
+              "style": null
+            },
+            {
+              "matched_text": " ",
+              "prefix": null,
+              "start_idx": 1813,
+              "end_idx": 1813,
+              "safe_urls": [],
+              "refs": [],
+              "alt": "",
+              "prompt_text": null,
+              "type": "sources_footnote",
+              "sources": [
+                {
+                  "title": "How to Log & Track Workouts Easier and Faster - Hevy App",
+                  "url": "https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com",
+                  "attribution": "Hevy"
+                },
+                {
+                  "title": "Everything You Need to Know About the Hevy App (2025 Features Guide) – Hevy Help Centre (English",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com",
+                  "attribution": "Hevy Help Centre"
+                }
+              ],
+              "has_images": false
+            },
+            {
+              "type": "followup_a",
+              "matched_text": "compare **Hevy vs Strong vs FitNotes** specifically on *simplicity, free-tier limits, custom exercises, and PR/history tracking*",
+              "start_idx": 1684,
+              "end_idx": 1812,
+              "alt": "compare **Hevy vs Strong vs FitNotes** specifically on *simplicity, free-tier limits, custom exercises, and PR/history tracking*",
+              "prompt_text": "Compare Hevy vs Strong vs FitNotes specifically on simplicity, free-tier limits, custom exercises, and PR/history tracking"
+            }
+          ],
+          "search_result_groups": [
+            {
+              "type": "search_result_group",
+              "domain": "hevyapp.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises?utm_source=chatgpt.com",
+                  "title": "Hevy Exercise Library: 400+ Exercises and Custom Exercises – Hevy Help Centre (English",
+                  "snippet": "HEVY EXERCISE LIBRARY: 400+ EXERCISES AND CUSTOM EXERCISES  Image  Philip  Hevy’s library has 400+ high-quality exercises. The built-in filters for equipment and muscle targets and the search bar hel...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 1
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/?utm_source=chatgpt.com",
+                  "title": "Hevy - The #1 Workout Tracker & Gym Logger App",
+                  "snippet": "Hevy – #1 Workout Tracker & Planner Gym Log App  LOG WORKOUTS  GET STRONGER  STAY MOTIVATED  LOG WORKOUTS  GET STRONGER  STAY MOTIVATED  HEVY IS A FREE WORKOUT TRACKER FOR IOS AND ANDROID. BUILD ROUTI...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 3
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/35688036014231-Hevy-App-Social-Guide-Connect-Follow-and-Share-Your-Workouts?utm_source=chatgpt.com",
+                  "title": "Hevy App Social Guide: Connect, Follow, and Share Your Workouts – Hevy Help Centre (English",
+                  "snippet": "You can save any of the workouts that you see as routines to use later or you can copy the workout so you can complete it on your own. This ia  great way to try something new and to learn from other a...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 5
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/workout-log/?utm_source=chatgpt.com",
+                  "title": "How to Save Workouts (The Best Workout Log) - Hevy App",
+                  "snippet": "SAVING A WORKOUT  Hevy is a simple workout log app that makes workout tracking and saving easy. Learn about all the available options for completing sessions and saving them to your profile.  Downloa...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 6
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/athlete-workouts/?utm_source=chatgpt.com",
+                  "title": "Explore Athlete Workouts For Ideas & Inspiration - Hevy App",
+                  "snippet": "ATHLETE WORKOUTS  Learn how Hevy allows you to explore other gym-goers’ and athletes’ workouts down to the smallest detail and save the ones you like as routines (reusable templates) for future use....",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 7
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/35382889578135-Exercise-Performance-Tracking-in-Library-Weight-Bodyweight-Cardio-and-Duration-Based-Exercises?utm_source=chatgpt.com",
+                  "title": "Exercise Performance Tracking in Library (Weight, Bodyweight, Cardio and Duration Based Exercises) – Hevy Help Centre (English",
+                  "snippet": "EXERCISE PERFORMANCE TRACKING IN LIBRARY (WEIGHT, BODYWEIGHT, CARDIO AND DURATION BASED EXERCISES)  A QUICK OVERVIEW OF HEVY’S EXERCISE LIBRARY  Navigate to the Profile tab and tap the grey Exercises...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 8
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/gym-progress/?utm_source=chatgpt.com",
+                  "title": "Track Your Gym Progress and Body Composition - Hevy App",
+                  "snippet": "2. EXERCISE PERFORMANCE  Navigate to Profile and tap Exercises to access the Hevy library. Use the search field and filters to find movements or scroll down to recently logged and custom exercises.  I...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 9
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/?utm_source=chatgpt.com",
+                  "title": "Hevy App Feature List - #1 Workout Tracker & Gym Log App",
+                  "snippet": "HEVY APP FEATURES BY CATEGORY  PROGRESS TRACKING  * Track Progress (Feature List) * Gym Performance Tracking * Monthly Report * Muscle Group Workout Chart * Sets Per Muscle Group Per Week * Muscle Di...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 10
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/best-way-to-track-workouts/?utm_source=chatgpt.com",
+                  "title": "The Best Way to Track Workouts You've Logged - Hevy App",
+                  "snippet": "ImageImage  Tap on any workout to see the details and explore the likes and comments.  ImageImage  If you’ve logged a particular workout on a smartwatch (WatchOS or WearOS), Hevy will also record you...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 11
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "strongapp.io",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://help.strongapp.io/article/237-about-exercise-detail?utm_source=chatgpt.com",
+                  "title": "About Exercise Detail Screen - Strong Help Center",
+                  "snippet": "ABOUT EXERCISE DETAIL SCREEN  The following instructions apply to the iPhone and Android versions of Strong.  You can easily track your progress and information about any individual exercise in Strong...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 12
+                  },
+                  "pub_date": null,
+                  "attribution": "strongapp.io"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://help.strongapp.io/article/229-my-first-workout?utm_source=chatgpt.com",
+                  "title": "How do I perform a workout with Strong? - Strong Help Center",
+                  "snippet": "HOW DO I PERFORM A WORKOUT WITH STRONG?  The following instructions apply to the iPhone and Android versions of Strong. For Strong for Apple Watch, check this article  Strong gives you the full freedo...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 14
+                  },
+                  "pub_date": null,
+                  "attribution": "strongapp.io"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://help.strongapp.io/article/228-what-is-strong?utm_source=chatgpt.com",
+                  "title": "What is Strong? - Strong Help Center",
+                  "snippet": "WHAT IS STRONG?  Strong is the most intuitive and convenient way to track your gym and weightlifting workouts and measure your progress.  It's a place for everyone to record their entire workout histo...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 22
+                  },
+                  "pub_date": 1613347200,
+                  "attribution": "strongapp.io"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "lastlift.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://lastlift.app/articles/best-hevy-alternatives/?utm_source=chatgpt.com",
+                  "title": "Best Hevy Alternatives in 2026 (When You Want Something Simpler) — LastLift",
+                  "snippet": "By Jens Skott, Level 3 PT · Published 7 Jun 2026 · Updated 9 Jun 2026  BEST HEVY ALTERNATIVES IN 2026  The best Hevy alternatives in 2026 are LastLift (fastest logging, no account), Strong (polished...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 13
+                  },
+                  "pub_date": 1780790400,
+                  "attribution": "lastlift.app"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://lastlift.app/articles/best-app-to-log-workouts/?utm_source=chatgpt.com",
+                  "title": "Best App to Log Workouts in 2026 (Compared for Lifters) — LastLift",
+                  "snippet": "By Jens Skott, Level 3 PT · Published 7 Jun 2026 · Updated 6 Jul 2026  BEST APP TO LOG WORKOUTS IN 2026  The best app to log workouts in 2026 depends on what matters most to you. LastLift is purpose-...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 15
+                  },
+                  "pub_date": 1780790400,
+                  "attribution": "lastlift.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "liftag.fit",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://liftag.fit/best-workout-tracking-app?utm_source=chatgpt.com",
+                  "title": "Best Workout Tracking App 2026: Honest Comparison | LIFTAG",
+                  "snippet": "COMPARISON · UPDATED MAY 2026  BEST WORKOUT TRACKING APP IN 2026.  An honest head-to-head comparison of the best workout and set tracking apps in 2026, covering LIFTAG, Strong, Hevy, FitNotes, JEFIT,...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 16
+                  },
+                  "pub_date": 1779667200,
+                  "attribution": "liftag.fit"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "findyouredge.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.findyouredge.app/news/best-workout-logging-apps?utm_source=chatgpt.com",
+                  "title": "Best Workout Logging Apps in 2026",
+                  "snippet": "Roundup 2026  BEST WORKOUT LOGGING APPS IN 2026  A clear, honest look at the workout loggers worth your time this year, from the deepest free strength tracker to the app that logs your sessions insid...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 17
+                  },
+                  "pub_date": null,
+                  "attribution": "findyouredge.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "sweatora.fit",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://sweatora.fit/blog/best-workout-tracker-app?utm_source=chatgpt.com",
+                  "title": "Best Workout Tracker App: Free Tiers Compared | Sweatora",
+                  "snippet": "Comparison  BEST WORKOUT TRACKER APP IN 2026: WHAT EACH FREE TIER ACTUALLY GIVES YOU  Six workout tracker apps compared on the thing reviews leave out: what the free tier actually caps. Routines, his...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 18
+                  },
+                  "pub_date": 1790121600,
+                  "attribution": "sweatora.fit"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "prept.pro",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://prept.pro/blog/best-workout-log-apps?utm_source=chatgpt.com",
+                  "title": "The 8 Best Workout Log Apps in 2026 · Prept",
+                  "snippet": "Roundup July 5, 2026·Updated August 8, 2026·9 min read  THE 8 BEST WORKOUT LOG APPS IN 2026  From dedicated strength loggers to apps that turn saved videos into a trackable session, here are the best...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 19
+                  },
+                  "pub_date": 1783209600,
+                  "attribution": "prept.pro"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "jotform.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.jotform.com/blog/best-apps-for-workout-tracking/?utm_source=chatgpt.com",
+                  "title": "The 5 best apps for workout tracking in 2026 | Jotform Blog",
+                  "snippet": "2. STRONG  Strong is a dedicated gym tracker for building reusable routines, logging sets and reps, and measuring your progress lift by lift.  Open the Workout tab, and you can start with an empty ses...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 20
+                  },
+                  "pub_date": 1786320000,
+                  "attribution": "jotform.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "kensoforge.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://kensoforge.com/insights/best-free-workout-logger-app-comparison?utm_source=chatgpt.com",
+                  "title": "What's the Best Free Workout Logger for Serious Lifters? | Kenso Forge",
+                  "snippet": "App & Tracking  ⚡ Feb 27, 2026 · 6 min read · Updated Jun 4, 2026  WHAT'S THE BEST FREE WORKOUT LOGGER FOR SERIOUS LIFTERS?  A comprehensive comparison of the best free workout loggers for serious li...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 21
+                  },
+                  "pub_date": 1772150400,
+                  "attribution": "kensoforge.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "kinoku.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://kinoku.app/compare/best-workout-apps-without-subscription?utm_source=chatgpt.com",
+                  "title": "Best Workout Apps Without a Subscription (2026) | Kinoku",
+                  "snippet": "Compare, grouped by need 9 min read Published by Dreamsoft Works Last reviewed September 20, 2026  BEST WORKOUT APPS WITHOUT A SUBSCRIPTION (2026)  Compare workout apps that do not lock routines behi...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 23
+                  },
+                  "pub_date": 1789603200,
+                  "attribution": "kinoku.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "trackreps.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://trackreps.com/?utm_source=chatgpt.com",
+                  "title": "Reps - The Best Free Workout Tracker & Gym Log App",
+                  "snippet": "DOWNLOAD REPS  Scan with your phone or choose a store.  Image: QR code for Reps app download  START TRACKING. STOP PAYING.  Reps is a free workout tracker without limits: unlimited saved routines, a...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 24
+                  },
+                  "pub_date": null,
+                  "attribution": "trackreps.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "saylift.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://saylift.app/best/workout-log-app-for-sets-and-reps?utm_source=chatgpt.com",
+                  "title": "Sets and Reps Tracking: 7 Workout Log Apps Ranked",
+                  "snippet": "Roundup  THE BEST WORKOUT LOG APP FOR TRACKING SETS AND REPS  A set-and-rep log is the least glamorous thing a gym app does and the only thing it has to get right. If recording six exercises takes fo...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 25
+                  },
+                  "pub_date": null,
+                  "attribution": "saylift.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "itechguides.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.itechguides.com/best/fitness-workout-tracking-software/strong/?utm_source=chatgpt.com",
+                  "title": "Strong Review (2026): Pricing, Pros & Cons",
+                  "snippet": "S  STRONG  Freemium #8 of 54 in Fitness Workout Tracking Software  Workout tracking for strength training and gym routines.  8.4/10★★★★☆Editor score  Visit Strong  S Strong8.4 Visit Strong  S Strong8...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 26
+                  },
+                  "pub_date": null,
+                  "attribution": "itechguides.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "google.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?hl=en&id=com.github.jamesgay.fitnotes&utm_source=chatgpt.com",
+                  "title": "FitNotes - Gym Workout Log - Apps on Google Play",
+                  "snippet": "Image: Icon imageImage  Image: Icon image  FITNOTES - GYM WORKOUT LOG  James Gay  4.8 star  31.4K reviews  Image: Content rating  Everyone  info  1M+  Downloads  Install  ABOUT THIS APP  arrow_forwar...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 27
+                  },
+                  "pub_date": null,
+                  "attribution": "google.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?hl=en&id=io.strongapp.strong&utm_source=chatgpt.com",
+                  "title": "Strong Workout Tracker Gym Log - Apps on Google Play",
+                  "snippet": "Image: Icon imageImage  Image: Icon image  STRONG WORKOUT TRACKER GYM LOG  Strong Fitness PTE. LTD.  In-app purchases  4.3 star  42.7K reviews  Image: Content rating  Everyone  info  1M+  Downloads...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 28
+                  },
+                  "pub_date": null,
+                  "attribution": "google.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?hl=en-US&id=com.github.jamesgay.fitnotes&utm_source=chatgpt.com",
+                  "title": "FitNotes - Gym Workout Log - Apps on Google Play",
+                  "snippet": "FITNOTES - GYM WORKOUT LOG  James Gay  4.8 star  31.4K reviews  Image: Content rating  Everyone  info  1M+  Downloads   ABOUT THIS APP  arrow_forward  FitNotes is a workout tracker with a focus on si...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 30
+                  },
+                  "pub_date": 1761264000,
+                  "attribution": "google.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?gl=gb&hl=en-GB&id=io.strongapp.strong&utm_source=chatgpt.com",
+                  "title": "Strong Workout Tracker Gym Log – Apps on Google Play",
+                  "snippet": "Image: Icon imageImage  Image: Icon image  STRONG WORKOUT TRACKER GYM LOG  Strong Fitness PTE. LTD.  In-app purchases  4.3 star  42.7k reviews  Image: Content rating  PEGI 3  info  1m+  Downloads  AB...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 31
+                  },
+                  "pub_date": null,
+                  "attribution": "google.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?hl=gsw&id=com.github.jamesgay.fitnotes&utm_source=chatgpt.com",
+                  "title": "FitNotes - Gym Workout Log – Apps bei Google Play",
+                  "snippet": "Image: Bild für SymbolImage  Image: Bild für Symbol  FITNOTES - GYM WORKOUT LOG  James Gay  4.8 star  31.4 Tsg. Rezensionen  Image: Altersfreigabe  Jedes Alter  info  1 Mio.+  Downloads  Installieren...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 42
+                  },
+                  "pub_date": null,
+                  "attribution": "google.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "strongermobileapp.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.strongermobileapp.com/?utm_source=chatgpt.com",
+                  "title": "Stronger — Gym Workout Tracker & Strength Training App",
+                  "snippet": "TRACK YOUR STRENGTH, NOT JUST YOUR WORKOUTS.  Every set you log builds your Strength Score, a single number that shows how strong you really are, muscle by muscle. Compare it with friends and watch i...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 29
+                  },
+                  "pub_date": null,
+                  "attribution": "strongermobileapp.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "prepaihq.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://prepaihq.com/blog/hevy-alternatives-in-2026-fitness-tracker-options-compared/?utm_source=chatgpt.com",
+                  "title": "Hevy Alternatives for 2026 | PrepAI",
+                  "snippet": "HEVY ALTERNATIVES FOR 2026  Published August 29, 2026 · Reviewed by Jonathan Gan on August 29, 2026  COMPARISON VERIFICATION  Products and platforms checked  | Hevy (iOS, Android, and web), Strong (i...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 32
+                  },
+                  "pub_date": 1787961600,
+                  "attribution": "prepaihq.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "hardy.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://hardy.app/articles/best-workout-apps?utm_source=chatgpt.com",
+                  "title": "Best Workout Apps in 2026: 5 Picks for Lifting Weights | Hardy",
+                  "snippet": "BEST WORKOUT APPS IN 2026: 5 PICKS FOR LIFTING WEIGHTS  The best workout apps for lifting weights are Hardy, Hevy, Strong, Fitbod and JEFIT. Pick Hardy to run a real program for free, or Hevy if you w...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 33
+                  },
+                  "pub_date": 1789603200,
+                  "attribution": "hardy.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "whistleout.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.whistleout.com/CellPhones/Apps/fitnotes-app-review?utm_source=chatgpt.com",
+                  "title": "FitNotes Is the Gym Log I Wish I'd Found Years Ago | WhistleOut",
+                  "snippet": "We may earn money when you click our links. More info  Edited by: Jessica Santero - Staff Writer  Updated 16 June 2026  FitNotes is an Android gym log that does exactly one thing: tracks your workout...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 34
+                  },
+                  "pub_date": 1781568000,
+                  "attribution": "whistleout.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "strongandfit.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://strongandfit.app/features/?utm_source=chatgpt.com",
+                  "title": "Features - Planner, Charts, Photo Check-ins | Strong & Fit",
+                  "snippet": "EVERYTHING YOU NEED TO PLAN, LOG, AND TRACK PROGRESS  One app for the week you are about to train, the sets you actually lifted, and the evidence that any of it worked.  Start your 2-week free trialS...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 35
+                  },
+                  "pub_date": null,
+                  "attribution": "strongandfit.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "kustosapp.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://kustosapp.com/?utm_source=chatgpt.com",
+                  "title": "Kustos — Free Offline-First Workout Tracker",
+                  "snippet": "Workout tracker · iOS & Android  THE WORKOUT TRACKER THAT GUARDS YOUR GAINS.  Kustos is a free, offline-first workout tracker for iOS and Android. Log sets in seconds, keep unlimited routines, and br...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 36
+                  },
+                  "pub_date": null,
+                  "attribution": "kustosapp.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "vitalhabitshub.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://vitalhabitshub.com/strong-app-review/?utm_source=chatgpt.com",
+                  "title": "Strong App Review: Is the Simplest Workout Logger Still the Best One? - VitalHabitsHub",
+                  "snippet": "STRONG APP REVIEW: IS THE SIMPLEST WORKOUT LOGGER STILL THE BEST ONE?  VitalHabitsHub Team  August 16, 2026  Supplements & Vitamins  Reviewed by the VitalHabitsHub team · Last reviewed August 2026....",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 37
+                  },
+                  "pub_date": 1786838400,
+                  "attribution": "vitalhabitshub.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "apple.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577?utm_source=chatgpt.com",
+                  "title": "‎Strong Workout Tracker Gym Log App - App Store",
+                  "snippet": "Strong Workout Tracker Gym Log  Strength Training Planner  Free · In‑App Purchases  Share  * 109K Ratings 4.9  * Age Rating 4+ Years  * Category Health & Fitness  * Developer Strong Fitness PTE Lim...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 38
+                  },
+                  "pub_date": null,
+                  "attribution": "apple.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://apps.apple.com/gb/app/fitnotes-2-gym-workout-log/id1538896016?utm_source=chatgpt.com",
+                  "title": "‎FitNotes 2 - Gym Workout Log App - App Store",
+                  "snippet": "FitNotes 2 - Gym Workout Log  FitNotes Workout Tracker  Free · In-App Purchases  Share  * 103 Ratings 4.2  * Age Rating 4+ Years  * Category Health & Fitness  * Developer Ginger Technologies Pte Lt...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 39
+                  },
+                  "pub_date": null,
+                  "attribution": "apple.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "fireful.co",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://fireful.co/?utm_source=chatgpt.com",
+                  "title": "FIREFUL - Workout Tracker & Gym Log",
+                  "snippet": "TRAIN WITH PURPOSE.SEE YOUR PROGRESS.  FIREFUL is a workout tracker and gym log for iPhone and Android. Log your workouts, build custom routines, track personal records, and visualize your training p...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 40
+                  },
+                  "pub_date": null,
+                  "attribution": "fireful.co"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "fitnotesx.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://fitnotesx.com/?utm_source=chatgpt.com",
+                  "title": "Fitnotes X — Free Workout Tracker for iOS & Android | 800+ Exercises",
+                  "snippet": "Free on iOS & Android  TRACK WORKOUTS. Crush your PRs.  The simple, powerful workout tracker with 800+ exercises, video demos, smart timers, and detailed progress analytics. No fluff.  Download on th...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 41
+                  },
+                  "pub_date": null,
+                  "attribution": "fitnotesx.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "github.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://github.com/DuarteSantos8/openGym/discussions/39?utm_source=chatgpt.com",
+                  "title": "How to log exercise data of a different date? · DuarteSantos8 openGym · Discussion #39 · GitHub",
+                  "snippet": "DuarteSantos8 / openGym Public  * ### Uh oh!  There was an error while loading. Please reload this page.  * Notifications You must be signed in to change notification settings * Fork 184 * Star  * Co...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 43
+                  },
+                  "pub_date": 1785715200,
+                  "attribution": "github.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "tools.fit",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.tools.fit/gym-tracker?utm_source=chatgpt.com",
+                  "title": "Gym Tracker: Free Workout Log for Sets and Reps | FitTools",
+                  "snippet": "Free workout tracker  GYM TRACKER  Log every set, rep and weight as you lift, with last session’s numbers beside every row. Routines for repeat days, records spotted for you, and a history that shows...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 44
+                  },
+                  "pub_date": null,
+                  "attribution": "tools.fit"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "namivisa.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.namivisa.com/blog/namivisa-vs-fitnotes?utm_source=chatgpt.com",
+                  "title": "NaMiVisa vs FitNotes: Which Free Workout Tracker Should You Use? | NaMiVisa",
+                  "snippet": "2026-09-16 · 6 min read  NAMIVISA VS FITNOTES: WHICH FREE WORKOUT TRACKER SHOULD YOU USE?  NaMiVisa Team·Free workout tracking for self-directed lifters  FitNotes has a small but genuinely loyal foll...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 45
+                  },
+                  "pub_date": 1789516800,
+                  "attribution": "namivisa.com"
+                }
+              ]
+            }
+          ],
+          "safe_urls": [
+            "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide",
+            "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com",
+            "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises",
+            "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises?utm_source=chatgpt.com",
+            "https://www.hevyapp.com/features/exercise-performance/",
+            "https://www.hevyapp.com/features/exercise-performance/?utm_source=chatgpt.com",
+            "https://www.hevyapp.com/features/track-workouts/",
+            "https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com"
+          ],
+          "story_events": [],
+          "citations": [],
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "conversation_followup_suggestions_eligible": true,
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "can_save": true,
+          "parent_id": "dc230741-9dd4-458d-b6ee-3b3a595bd9f7",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985"
+        },
+        "recipient": "all",
+        "channel": "final"
+      },
+      "parent": "dc230741-9dd4-458d-b6ee-3b3a595bd9f7",
+      "children": []
+    }
+  },
+  "current_node": "c7c6f80a-091a-4956-b978-4be19d7613d6",
+  "og_title": "Check out this chat",
+  "og_description": "Workout App Comparison",
+  "is_public": true,
+  "linear_conversation": [
+    {
+      "id": "client-created-root",
+      "children": [
+        "e6c6b40a-011b-4cce-8d59-69dbfef2807a"
+      ]
+    },
+    {
+      "id": "e6c6b40a-011b-4cce-8d59-69dbfef2807a",
+      "message": {
+        "id": "e6c6b40a-011b-4cce-8d59-69dbfef2807a",
+        "author": {
+          "role": "user",
+          "metadata": {}
+        },
+        "create_time": 1790270644.312,
+        "update_time": 1790270651.459696,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I’m returning to weight training and want a straightforward workout log, not a coaching platform or pre-made training program. I need to create a few routines, record weights/reps/sets, see my previous performance during each workout, track PRs over time, and add custom exercises for unusual gym equipment. I’m not particularly interested in meal planning, community features, or automatic program recommendations. Which app would be the best fit?"
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_source": null,
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "client-created-root",
+      "children": [
+        "fb26680f-817a-4a90-8961-dc49467705b0"
+      ]
+    },
+    {
+      "id": "fb26680f-817a-4a90-8961-dc49467705b0",
+      "message": {
+        "id": "fb26680f-817a-4a90-8961-dc49467705b0",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.656193,
+        "update_time": 1790270645.656193,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0,
+        "metadata": {
+          "rebase_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "e6c6b40a-011b-4cce-8d59-69dbfef2807a",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "e6c6b40a-011b-4cce-8d59-69dbfef2807a",
+      "children": [
+        "f374cb69-4d27-4def-a990-f40f2c847049"
+      ]
+    },
+    {
+      "id": "f374cb69-4d27-4def-a990-f40f2c847049",
+      "message": {
+        "id": "f374cb69-4d27-4def-a990-f40f2c847049",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.663401,
+        "update_time": 1790270645.663401,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0,
+        "metadata": {
+          "rebase_developer_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "fb26680f-817a-4a90-8961-dc49467705b0",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "fb26680f-817a-4a90-8961-dc49467705b0",
+      "children": [
+        "e33a2a7f-b980-42f7-a46d-d0e9a071e716"
+      ]
+    },
+    {
+      "id": "e33a2a7f-b980-42f7-a46d-d0e9a071e716",
+      "message": {
+        "id": "e33a2a7f-b980-42f7-a46d-d0e9a071e716",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.667009,
+        "update_time": 1790270645.667009,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "f374cb69-4d27-4def-a990-f40f2c847049",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "f374cb69-4d27-4def-a990-f40f2c847049",
+      "children": [
+        "50173094-0895-4a8c-b299-aaa2b4d54b49"
+      ]
+    },
+    {
+      "id": "50173094-0895-4a8c-b299-aaa2b4d54b49",
+      "message": {
+        "id": "50173094-0895-4a8c-b299-aaa2b4d54b49",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.672304,
+        "update_time": 1790270645.672304,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "e33a2a7f-b980-42f7-a46d-d0e9a071e716",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "e33a2a7f-b980-42f7-a46d-d0e9a071e716",
+      "children": [
+        "b7a8ceaf-97a0-452b-a5de-77e67a9df433"
+      ]
+    },
+    {
+      "id": "b7a8ceaf-97a0-452b-a5de-77e67a9df433",
+      "message": {
+        "id": "b7a8ceaf-97a0-452b-a5de-77e67a9df433",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.675931,
+        "update_time": 1790270645.675931,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "50173094-0895-4a8c-b299-aaa2b4d54b49",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "50173094-0895-4a8c-b299-aaa2b4d54b49",
+      "children": [
+        "4810a429-87dd-4069-87bc-cb40b3d3c6f6"
+      ]
+    },
+    {
+      "id": "4810a429-87dd-4069-87bc-cb40b3d3c6f6",
+      "message": {
+        "id": "4810a429-87dd-4069-87bc-cb40b3d3c6f6",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270645.681179,
+        "update_time": 1790270645.681179,
+        "content": {
+          "content_type": "model_editable_context",
+          "model_set_context": ""
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "cot_version": "v5",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "parent_id": "b7a8ceaf-97a0-452b-a5de-77e67a9df433",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_redacted": true
+        },
+        "recipient": "all"
+      },
+      "parent": "b7a8ceaf-97a0-452b-a5de-77e67a9df433",
+      "children": [
+        "490e4be1-10fc-4a46-ba4b-2b207806c787"
+      ]
+    },
+    {
+      "id": "490e4be1-10fc-4a46-ba4b-2b207806c787",
+      "message": {
+        "id": "490e4be1-10fc-4a46-ba4b-2b207806c787",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.685197,
+        "update_time": 1790270645.685197,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "cot_version": "v5",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "parent_id": "4810a429-87dd-4069-87bc-cb40b3d3c6f6",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "4810a429-87dd-4069-87bc-cb40b3d3c6f6",
+      "children": [
+        "9bf77e83-b8e7-4aba-8dc3-9d0d87df2087"
+      ]
+    },
+    {
+      "id": "9bf77e83-b8e7-4aba-8dc3-9d0d87df2087",
+      "message": {
+        "id": "9bf77e83-b8e7-4aba-8dc3-9d0d87df2087",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270645.689407,
+        "update_time": 1790270645.689407,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "citations": [],
+          "content_references": [],
+          "story_events": [],
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "490e4be1-10fc-4a46-ba4b-2b207806c787",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "assistant"
+      },
+      "parent": "490e4be1-10fc-4a46-ba4b-2b207806c787",
+      "children": [
+        "a0d60e1a-36eb-447f-b602-8ecdcdccf664"
+      ]
+    },
+    {
+      "id": "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+      "message": {
+        "id": "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270645.808091,
+        "update_time": 1790270645.808091,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "resolved_model_slug": "gpt-5-6",
+          "reasoning_titles": [
+            "Searching the web"
+          ],
+          "reasoning_title": "Searching the web",
+          "reasoning_status": "is_reasoning",
+          "tool_icons": [
+            "globe"
+          ],
+          "reasoning_start_time": 1790270645.0192263,
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "6b415b42-6984-4115-bd11-caa09d11564b",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "web"
+      },
+      "parent": "9bf77e83-b8e7-4aba-8dc3-9d0d87df2087",
+      "children": [
+        "5869a183-f652-4fc9-bc66-7fcc50e89f09"
+      ]
+    },
+    {
+      "id": "5869a183-f652-4fc9-bc66-7fcc50e89f09",
+      "message": {
+        "id": "5869a183-f652-4fc9-bc66-7fcc50e89f09",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270645.921574,
+        "update_time": 1790270645.921574,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "resolved_model_slug": "gpt-5-6",
+          "hide_inline_actions": true,
+          "disable_turn_actions": true,
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+          "reasoning_status": "is_reasoning",
+          "tool_icons": [
+            "globe"
+          ],
+          "reasoning_start_time": 1790270645.0192263,
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "can_save": false
+        },
+        "recipient": "web.run"
+      },
+      "parent": "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+      "children": [
+        "6563401a-c55c-4eeb-b101-dfcf829d3df3"
+      ]
+    },
+    {
+      "id": "6563401a-c55c-4eeb-b101-dfcf829d3df3",
+      "message": {
+        "id": "6563401a-c55c-4eeb-b101-dfcf829d3df3",
+        "author": {
+          "role": "tool",
+          "name": "web.run",
+          "metadata": {
+            "real_author": "tool:web.run"
+          }
+        },
+        "create_time": 1790270646.030391,
+        "update_time": 1790270646.030391,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The output of this plugin was redacted."
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "reasoning_titles": [
+            "Searching best workout log app custom exercises PR tracking routines weights reps sets Hevy Strong FitNotes 2026",
+            "Searching Hevy workout tracker custom exercises routines history personal records features",
+            "Searching Strong workout tracker custom exercises history PRs routines features",
+            "Searching FitNotes workout log custom exercises history personal records routines"
+          ],
+          "reasoning_title": "Searching best workout log app custom exercises PR tracking routines weights reps sets Hevy Strong FitNotes 2026",
+          "reasoning_status": "is_reasoning",
+          "reasoning_start_time": 1790270645.0192263,
+          "cot_version": "v5",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "parent_id": "5869a183-f652-4fc9-bc66-7fcc50e89f09",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_redacted": true
+        },
+        "recipient": "all"
+      },
+      "parent": "5869a183-f652-4fc9-bc66-7fcc50e89f09",
+      "children": [
+        "791b39fc-3f57-400d-b23c-144bf2098d91"
+      ]
+    },
+    {
+      "id": "791b39fc-3f57-400d-b23c-144bf2098d91",
+      "message": {
+        "id": "791b39fc-3f57-400d-b23c-144bf2098d91",
+        "author": {
+          "role": "tool",
+          "name": "web.run",
+          "metadata": {
+            "real_author": "tool:web.run"
+          }
+        },
+        "create_time": 1790270646.355991,
+        "update_time": 1790270646.355991,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The output of this plugin was redacted."
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 1,
+        "metadata": {
+          "cot_version": "v5",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "parent_id": "8637a899-dbd6-4e01-8c9d-5e714ac4a39f",
+          "reasoning_title_content_transition": "numeric",
+          "reasoning_status": "is_reasoning",
+          "reasoning_start_time": 1790270645.0192263,
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_redacted": true
+        },
+        "recipient": "all"
+      },
+      "parent": "6563401a-c55c-4eeb-b101-dfcf829d3df3",
+      "children": [
+        "c0ba223c-edca-4dfb-bf2e-728ef0adac67"
+      ]
+    },
+    {
+      "id": "c0ba223c-edca-4dfb-bf2e-728ef0adac67",
+      "message": {
+        "id": "c0ba223c-edca-4dfb-bf2e-728ef0adac67",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270646.670449,
+        "update_time": 1790270646.670449,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 0,
+        "metadata": {
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "d729b97f-983e-4b68-995e-29a378edf412",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "791b39fc-3f57-400d-b23c-144bf2098d91",
+      "children": [
+        "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b"
+      ]
+    },
+    {
+      "id": "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b",
+      "message": {
+        "id": "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b",
+        "author": {
+          "role": "system",
+          "metadata": {}
+        },
+        "create_time": 1790270646.704702,
+        "update_time": 1790270646.704702,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "weight": 0,
+        "metadata": {
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "parent_id": "c0ba223c-edca-4dfb-bf2e-728ef0adac67",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all"
+      },
+      "parent": "c0ba223c-edca-4dfb-bf2e-728ef0adac67",
+      "children": [
+        "0358822e-3970-4cad-bc15-8769f634a61f"
+      ]
+    },
+    {
+      "id": "0358822e-3970-4cad-bc15-8769f634a61f",
+      "message": {
+        "id": "0358822e-3970-4cad-bc15-8769f634a61f",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270646.725718,
+        "update_time": 1790270646.725718,
+        "content": {
+          "content_type": "thoughts",
+          "thoughts": [
+            {
+              "summary": "Searched 2 websites",
+              "content": "",
+              "chunks": [],
+              "finished": true
+            }
+          ],
+          "source_analysis_msg_id": "e7f9f97a-9859-4c47-ad92-d7db6706ec7f"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1,
+        "metadata": {
+          "inline_cot_expandable_content": {
+            "search_result_groups": [
+              {
+                "type": "search_result_group",
+                "domain": "help.hevyapp.com",
+                "entries": [
+                  {
+                    "type": "search_result",
+                    "url": "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide",
+                    "title": "Everything You Need to Know About the Hevy App (2025 Features Guide) – Hevy Help Centre (English",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 0
+                    },
+                    "pub_date": null,
+                    "attribution": "help.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises",
+                    "title": "Hevy Exercise Library: 400+ Exercises and Custom Exercises – Hevy Help Centre (English",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 1
+                    },
+                    "pub_date": null,
+                    "attribution": "help.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://help.hevyapp.com/hc/en-us/articles/35688036014231-Hevy-App-Social-Guide-Connect-Follow-and-Share-Your-Workouts",
+                    "title": "Hevy App Social Guide: Connect, Follow, and Share Your Workouts – Hevy Help Centre (English",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 5
+                    },
+                    "pub_date": null,
+                    "attribution": "help.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://help.hevyapp.com/hc/en-us/articles/35382889578135-Exercise-Performance-Tracking-in-Library-Weight-Bodyweight-Cardio-and-Duration-Based-Exercises",
+                    "title": "Exercise Performance Tracking in Library (Weight, Bodyweight, Cardio and Duration Based Exercises) – Hevy Help Centre (English",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 8
+                    },
+                    "pub_date": null,
+                    "attribution": "help.hevyapp.com"
+                  }
+                ]
+              },
+              {
+                "type": "search_result_group",
+                "domain": "www.hevyapp.com",
+                "entries": [
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/exercise-performance/",
+                    "title": "How to Track Gym and Exercise Performance - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 2
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/",
+                    "title": "Hevy - The #1 Workout Tracker & Gym Logger App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 3
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/track-workouts/",
+                    "title": "How to Log & Track Workouts Easier and Faster - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 4
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/workout-log/",
+                    "title": "How to Save Workouts (The Best Workout Log) - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 6
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/athlete-workouts/",
+                    "title": "Explore Athlete Workouts For Ideas & Inspiration - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 7
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/gym-progress/",
+                    "title": "Track Your Gym Progress and Body Composition - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 9
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/",
+                    "title": "Hevy App Feature List - #1 Workout Tracker & Gym Log App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 10
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  },
+                  {
+                    "type": "search_result",
+                    "url": "https://www.hevyapp.com/features/best-way-to-track-workouts/",
+                    "title": "The Best Way to Track Workouts You've Logged - Hevy App",
+                    "snippet": "",
+                    "ref_id": {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 11
+                    },
+                    "pub_date": null,
+                    "attribution": "www.hevyapp.com"
+                  }
+                ]
+              }
+            ],
+            "source_message_ids": [
+              "a0d60e1a-36eb-447f-b602-8ecdcdccf664",
+              "6563401a-c55c-4eeb-b101-dfcf829d3df3"
+            ]
+          },
+          "reasoning_status": "is_reasoning",
+          "tool_summary_type": "web",
+          "tool_icons": [
+            "https://www.google.com/s2/favicons?domain=help.hevyapp.com&sz=128",
+            "https://www.google.com/s2/favicons?domain=www.hevyapp.com&sz=128"
+          ],
+          "reasoning_start_time": 1790270645.0192263,
+          "cot_version": "v5",
+          "conversation_followup_suggestions_eligible": false,
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "resolved_model_slug": "gpt-5-6",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "can_save": false,
+          "parent_id": "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b",
+          "hide_inline_actions": true,
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985"
+        },
+        "recipient": "all"
+      },
+      "parent": "2b96d504-01ec-4bea-b27d-d3ae0fc6b31b",
+      "children": [
+        "dc230741-9dd4-458d-b6ee-3b3a595bd9f7"
+      ]
+    },
+    {
+      "id": "dc230741-9dd4-458d-b6ee-3b3a595bd9f7",
+      "message": {
+        "id": "dc230741-9dd4-458d-b6ee-3b3a595bd9f7",
+        "author": {
+          "role": "assistant",
+          "metadata": {}
+        },
+        "create_time": 1790270646.737434,
+        "update_time": 1790270646.737434,
+        "content": {
+          "content_type": "reasoning_recap",
+          "content": "Worked for a couple of seconds"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1,
+        "metadata": {
+          "reasoning_status": "reasoning_ended",
+          "finished_duration_sec": 1,
+          "reasoning_start_time": 1790270645.0192263,
+          "reasoning_end_time": 1790270646.7055132,
+          "reasoning_recap_type": "hide_all",
+          "cot_version": "v5",
+          "conversation_followup_suggestions_eligible": false,
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "resolved_model_slug": "gpt-5-6",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "can_save": false,
+          "parent_id": "0358822e-3970-4cad-bc15-8769f634a61f",
+          "hide_inline_actions": true,
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985"
+        },
+        "recipient": "all"
+      },
+      "parent": "0358822e-3970-4cad-bc15-8769f634a61f",
+      "children": [
+        "c7c6f80a-091a-4956-b978-4be19d7613d6"
+      ]
+    },
+    {
+      "id": "c7c6f80a-091a-4956-b978-4be19d7613d6",
+      "message": {
+        "id": "c7c6f80a-091a-4956-b978-4be19d7613d6",
+        "author": {
+          "role": "assistant",
+          "metadata": {
+            "real_author": "tool:web"
+          }
+        },
+        "create_time": 1790270646.747195,
+        "update_time": 1790270918.800351,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Based on what you described, **Hevy** looks like the closest fit.\n\n| What you want | Hevy |\n|---|---|\n| Create your own routines | ✅ Yes |\n| Log weight, reps, and sets | ✅ Yes |\n| See last performance while training | ✅ Yes — previous values appear alongside exercises |\n| Track PRs over time | ✅ Yes — including heaviest weight, estimated 1RM, best sets and volume |\n| Performance history | ✅ Workout-by-workout history and graphs |\n| Custom exercises/equipment | ✅ Yes |\n| Avoid coaching/program recommendations | ✅ You can simply ignore those features |\n| Meal planning | Not central to the app |\n| Community/social features | Present, but optional |\n\nHevy specifically lets you create reusable routines with your own exercises, sets, loads and reps. When you repeat an exercise, it shows your previous values so you can immediately see what you did last time. citeturn0search4\n\nIts exercise tracking is also unusually well aligned with your PR requirement: it records things like heaviest weight, projected 1RM, best set/session volume, and maximum weight for particular rep counts, with history and graphs over time. Custom exercises are supported too. citeturn0search2turn0search1\n\n**One caveat:** the free version is somewhat deliberately limited. You get **up to 4 routines, 7 custom exercises, and 3 months of statistics history**; Pro removes those limits and gives you longer/all-time statistics. citeturn0search0\n\nSo if your goal is essentially **“digital notebook for lifting, but smart enough to remember my last numbers and PRs,” Hevy is a strong match.** Its coaching and social functionality is there, but you don't need to use it.\n\nIf you want, I can also compare **Hevy vs Strong vs FitNotes** specifically on *simplicity, free-tier limits, custom exercises, and PR/history tracking*."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "content_references": [
+            {
+              "matched_text": "citeturn0search4",
+              "prefix": null,
+              "start_idx": 864,
+              "end_idx": 883,
+              "safe_urls": [
+                "https://www.hevyapp.com/features/track-workouts/",
+                "https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com"
+              ],
+              "refs": [],
+              "alt": "([Hevy](https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com))",
+              "prompt_text": null,
+              "type": "grouped_webpages",
+              "items": [
+                {
+                  "title": "How to Log & Track Workouts Easier and Faster - Hevy App",
+                  "url": "https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com",
+                  "attribution": "Hevy",
+                  "pub_date": null,
+                  "snippet": "",
+                  "attribution_segments": null,
+                  "supporting_websites": [],
+                  "refs": [
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 4
+                    }
+                  ],
+                  "hue": null,
+                  "attributions": null
+                }
+              ],
+              "fallback_items": [],
+              "status": "done",
+              "error": null,
+              "style": null
+            },
+            {
+              "matched_text": "citeturn0search2turn0search1",
+              "prefix": null,
+              "start_idx": 1161,
+              "end_idx": 1193,
+              "safe_urls": [
+                "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises",
+                "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises?utm_source=chatgpt.com",
+                "https://www.hevyapp.com/features/exercise-performance/",
+                "https://www.hevyapp.com/features/exercise-performance/?utm_source=chatgpt.com"
+              ],
+              "refs": [],
+              "alt": "([Hevy](https://www.hevyapp.com/features/exercise-performance/?utm_source=chatgpt.com))",
+              "prompt_text": null,
+              "type": "grouped_webpages",
+              "items": [
+                {
+                  "title": "How to Track Gym and Exercise Performance - Hevy App",
+                  "url": "https://www.hevyapp.com/features/exercise-performance/?utm_source=chatgpt.com",
+                  "attribution": "Hevy",
+                  "pub_date": null,
+                  "snippet": "",
+                  "attribution_segments": null,
+                  "supporting_websites": [
+                    {
+                      "title": "Hevy Exercise Library: 400+ Exercises and Custom Exercises – Hevy Help Centre (English",
+                      "url": "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises?utm_source=chatgpt.com",
+                      "pub_date": null,
+                      "snippet": "",
+                      "attribution": "Hevy Help Centre"
+                    }
+                  ],
+                  "refs": [
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 2
+                    },
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 1
+                    }
+                  ],
+                  "hue": null,
+                  "attributions": null
+                }
+              ],
+              "fallback_items": [],
+              "status": "done",
+              "error": null,
+              "style": null
+            },
+            {
+              "matched_text": "citeturn0search0",
+              "prefix": null,
+              "start_idx": 1415,
+              "end_idx": 1434,
+              "safe_urls": [
+                "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide",
+                "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com"
+              ],
+              "refs": [],
+              "alt": "([Hevy Help Centre](https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com))",
+              "prompt_text": null,
+              "type": "grouped_webpages",
+              "items": [
+                {
+                  "title": "Everything You Need to Know About the Hevy App (2025 Features Guide) – Hevy Help Centre (English",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com",
+                  "attribution": "Hevy Help Centre",
+                  "pub_date": null,
+                  "snippet": "",
+                  "attribution_segments": null,
+                  "supporting_websites": [],
+                  "refs": [
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 0
+                    }
+                  ],
+                  "hue": null,
+                  "attributions": null
+                }
+              ],
+              "fallback_items": [],
+              "status": "done",
+              "error": null,
+              "style": null
+            },
+            {
+              "matched_text": " ",
+              "prefix": null,
+              "start_idx": 1813,
+              "end_idx": 1813,
+              "safe_urls": [],
+              "refs": [],
+              "alt": "",
+              "prompt_text": null,
+              "type": "sources_footnote",
+              "sources": [
+                {
+                  "title": "How to Log & Track Workouts Easier and Faster - Hevy App",
+                  "url": "https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com",
+                  "attribution": "Hevy"
+                },
+                {
+                  "title": "Everything You Need to Know About the Hevy App (2025 Features Guide) – Hevy Help Centre (English",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com",
+                  "attribution": "Hevy Help Centre"
+                }
+              ],
+              "has_images": false
+            },
+            {
+              "type": "followup_a",
+              "matched_text": "compare **Hevy vs Strong vs FitNotes** specifically on *simplicity, free-tier limits, custom exercises, and PR/history tracking*",
+              "start_idx": 1684,
+              "end_idx": 1812,
+              "alt": "compare **Hevy vs Strong vs FitNotes** specifically on *simplicity, free-tier limits, custom exercises, and PR/history tracking*",
+              "prompt_text": "Compare Hevy vs Strong vs FitNotes specifically on simplicity, free-tier limits, custom exercises, and PR/history tracking"
+            }
+          ],
+          "search_result_groups": [
+            {
+              "type": "search_result_group",
+              "domain": "hevyapp.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises?utm_source=chatgpt.com",
+                  "title": "Hevy Exercise Library: 400+ Exercises and Custom Exercises – Hevy Help Centre (English",
+                  "snippet": "HEVY EXERCISE LIBRARY: 400+ EXERCISES AND CUSTOM EXERCISES  Image  Philip  Hevy’s library has 400+ high-quality exercises. The built-in filters for equipment and muscle targets and the search bar hel...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 1
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/?utm_source=chatgpt.com",
+                  "title": "Hevy - The #1 Workout Tracker & Gym Logger App",
+                  "snippet": "Hevy – #1 Workout Tracker & Planner Gym Log App  LOG WORKOUTS  GET STRONGER  STAY MOTIVATED  LOG WORKOUTS  GET STRONGER  STAY MOTIVATED  HEVY IS A FREE WORKOUT TRACKER FOR IOS AND ANDROID. BUILD ROUTI...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 3
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/35688036014231-Hevy-App-Social-Guide-Connect-Follow-and-Share-Your-Workouts?utm_source=chatgpt.com",
+                  "title": "Hevy App Social Guide: Connect, Follow, and Share Your Workouts – Hevy Help Centre (English",
+                  "snippet": "You can save any of the workouts that you see as routines to use later or you can copy the workout so you can complete it on your own. This ia  great way to try something new and to learn from other a...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 5
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/workout-log/?utm_source=chatgpt.com",
+                  "title": "How to Save Workouts (The Best Workout Log) - Hevy App",
+                  "snippet": "SAVING A WORKOUT  Hevy is a simple workout log app that makes workout tracking and saving easy. Learn about all the available options for completing sessions and saving them to your profile.  Downloa...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 6
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/athlete-workouts/?utm_source=chatgpt.com",
+                  "title": "Explore Athlete Workouts For Ideas & Inspiration - Hevy App",
+                  "snippet": "ATHLETE WORKOUTS  Learn how Hevy allows you to explore other gym-goers’ and athletes’ workouts down to the smallest detail and save the ones you like as routines (reusable templates) for future use....",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 7
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://help.hevyapp.com/hc/en-us/articles/35382889578135-Exercise-Performance-Tracking-in-Library-Weight-Bodyweight-Cardio-and-Duration-Based-Exercises?utm_source=chatgpt.com",
+                  "title": "Exercise Performance Tracking in Library (Weight, Bodyweight, Cardio and Duration Based Exercises) – Hevy Help Centre (English",
+                  "snippet": "EXERCISE PERFORMANCE TRACKING IN LIBRARY (WEIGHT, BODYWEIGHT, CARDIO AND DURATION BASED EXERCISES)  A QUICK OVERVIEW OF HEVY’S EXERCISE LIBRARY  Navigate to the Profile tab and tap the grey Exercises...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 8
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/gym-progress/?utm_source=chatgpt.com",
+                  "title": "Track Your Gym Progress and Body Composition - Hevy App",
+                  "snippet": "2. EXERCISE PERFORMANCE  Navigate to Profile and tap Exercises to access the Hevy library. Use the search field and filters to find movements or scroll down to recently logged and custom exercises.  I...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 9
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/?utm_source=chatgpt.com",
+                  "title": "Hevy App Feature List - #1 Workout Tracker & Gym Log App",
+                  "snippet": "HEVY APP FEATURES BY CATEGORY  PROGRESS TRACKING  * Track Progress (Feature List) * Gym Performance Tracking * Monthly Report * Muscle Group Workout Chart * Sets Per Muscle Group Per Week * Muscle Di...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 10
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.hevyapp.com/features/best-way-to-track-workouts/?utm_source=chatgpt.com",
+                  "title": "The Best Way to Track Workouts You've Logged - Hevy App",
+                  "snippet": "ImageImage  Tap on any workout to see the details and explore the likes and comments.  ImageImage  If you’ve logged a particular workout on a smartwatch (WatchOS or WearOS), Hevy will also record you...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 11
+                  },
+                  "pub_date": null,
+                  "attribution": "hevyapp.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "strongapp.io",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://help.strongapp.io/article/237-about-exercise-detail?utm_source=chatgpt.com",
+                  "title": "About Exercise Detail Screen - Strong Help Center",
+                  "snippet": "ABOUT EXERCISE DETAIL SCREEN  The following instructions apply to the iPhone and Android versions of Strong.  You can easily track your progress and information about any individual exercise in Strong...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 12
+                  },
+                  "pub_date": null,
+                  "attribution": "strongapp.io"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://help.strongapp.io/article/229-my-first-workout?utm_source=chatgpt.com",
+                  "title": "How do I perform a workout with Strong? - Strong Help Center",
+                  "snippet": "HOW DO I PERFORM A WORKOUT WITH STRONG?  The following instructions apply to the iPhone and Android versions of Strong. For Strong for Apple Watch, check this article  Strong gives you the full freedo...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 14
+                  },
+                  "pub_date": null,
+                  "attribution": "strongapp.io"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://help.strongapp.io/article/228-what-is-strong?utm_source=chatgpt.com",
+                  "title": "What is Strong? - Strong Help Center",
+                  "snippet": "WHAT IS STRONG?  Strong is the most intuitive and convenient way to track your gym and weightlifting workouts and measure your progress.  It's a place for everyone to record their entire workout histo...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 22
+                  },
+                  "pub_date": 1613347200,
+                  "attribution": "strongapp.io"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "lastlift.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://lastlift.app/articles/best-hevy-alternatives/?utm_source=chatgpt.com",
+                  "title": "Best Hevy Alternatives in 2026 (When You Want Something Simpler) — LastLift",
+                  "snippet": "By Jens Skott, Level 3 PT · Published 7 Jun 2026 · Updated 9 Jun 2026  BEST HEVY ALTERNATIVES IN 2026  The best Hevy alternatives in 2026 are LastLift (fastest logging, no account), Strong (polished...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 13
+                  },
+                  "pub_date": 1780790400,
+                  "attribution": "lastlift.app"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://lastlift.app/articles/best-app-to-log-workouts/?utm_source=chatgpt.com",
+                  "title": "Best App to Log Workouts in 2026 (Compared for Lifters) — LastLift",
+                  "snippet": "By Jens Skott, Level 3 PT · Published 7 Jun 2026 · Updated 6 Jul 2026  BEST APP TO LOG WORKOUTS IN 2026  The best app to log workouts in 2026 depends on what matters most to you. LastLift is purpose-...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 15
+                  },
+                  "pub_date": 1780790400,
+                  "attribution": "lastlift.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "liftag.fit",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://liftag.fit/best-workout-tracking-app?utm_source=chatgpt.com",
+                  "title": "Best Workout Tracking App 2026: Honest Comparison | LIFTAG",
+                  "snippet": "COMPARISON · UPDATED MAY 2026  BEST WORKOUT TRACKING APP IN 2026.  An honest head-to-head comparison of the best workout and set tracking apps in 2026, covering LIFTAG, Strong, Hevy, FitNotes, JEFIT,...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 16
+                  },
+                  "pub_date": 1779667200,
+                  "attribution": "liftag.fit"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "findyouredge.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.findyouredge.app/news/best-workout-logging-apps?utm_source=chatgpt.com",
+                  "title": "Best Workout Logging Apps in 2026",
+                  "snippet": "Roundup 2026  BEST WORKOUT LOGGING APPS IN 2026  A clear, honest look at the workout loggers worth your time this year, from the deepest free strength tracker to the app that logs your sessions insid...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 17
+                  },
+                  "pub_date": null,
+                  "attribution": "findyouredge.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "sweatora.fit",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://sweatora.fit/blog/best-workout-tracker-app?utm_source=chatgpt.com",
+                  "title": "Best Workout Tracker App: Free Tiers Compared | Sweatora",
+                  "snippet": "Comparison  BEST WORKOUT TRACKER APP IN 2026: WHAT EACH FREE TIER ACTUALLY GIVES YOU  Six workout tracker apps compared on the thing reviews leave out: what the free tier actually caps. Routines, his...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 18
+                  },
+                  "pub_date": 1790121600,
+                  "attribution": "sweatora.fit"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "prept.pro",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://prept.pro/blog/best-workout-log-apps?utm_source=chatgpt.com",
+                  "title": "The 8 Best Workout Log Apps in 2026 · Prept",
+                  "snippet": "Roundup July 5, 2026·Updated August 8, 2026·9 min read  THE 8 BEST WORKOUT LOG APPS IN 2026  From dedicated strength loggers to apps that turn saved videos into a trackable session, here are the best...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 19
+                  },
+                  "pub_date": 1783209600,
+                  "attribution": "prept.pro"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "jotform.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.jotform.com/blog/best-apps-for-workout-tracking/?utm_source=chatgpt.com",
+                  "title": "The 5 best apps for workout tracking in 2026 | Jotform Blog",
+                  "snippet": "2. STRONG  Strong is a dedicated gym tracker for building reusable routines, logging sets and reps, and measuring your progress lift by lift.  Open the Workout tab, and you can start with an empty ses...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 20
+                  },
+                  "pub_date": 1786320000,
+                  "attribution": "jotform.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "kensoforge.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://kensoforge.com/insights/best-free-workout-logger-app-comparison?utm_source=chatgpt.com",
+                  "title": "What's the Best Free Workout Logger for Serious Lifters? | Kenso Forge",
+                  "snippet": "App & Tracking  ⚡ Feb 27, 2026 · 6 min read · Updated Jun 4, 2026  WHAT'S THE BEST FREE WORKOUT LOGGER FOR SERIOUS LIFTERS?  A comprehensive comparison of the best free workout loggers for serious li...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 21
+                  },
+                  "pub_date": 1772150400,
+                  "attribution": "kensoforge.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "kinoku.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://kinoku.app/compare/best-workout-apps-without-subscription?utm_source=chatgpt.com",
+                  "title": "Best Workout Apps Without a Subscription (2026) | Kinoku",
+                  "snippet": "Compare, grouped by need 9 min read Published by Dreamsoft Works Last reviewed September 20, 2026  BEST WORKOUT APPS WITHOUT A SUBSCRIPTION (2026)  Compare workout apps that do not lock routines behi...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 23
+                  },
+                  "pub_date": 1789603200,
+                  "attribution": "kinoku.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "trackreps.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://trackreps.com/?utm_source=chatgpt.com",
+                  "title": "Reps - The Best Free Workout Tracker & Gym Log App",
+                  "snippet": "DOWNLOAD REPS  Scan with your phone or choose a store.  Image: QR code for Reps app download  START TRACKING. STOP PAYING.  Reps is a free workout tracker without limits: unlimited saved routines, a...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 24
+                  },
+                  "pub_date": null,
+                  "attribution": "trackreps.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "saylift.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://saylift.app/best/workout-log-app-for-sets-and-reps?utm_source=chatgpt.com",
+                  "title": "Sets and Reps Tracking: 7 Workout Log Apps Ranked",
+                  "snippet": "Roundup  THE BEST WORKOUT LOG APP FOR TRACKING SETS AND REPS  A set-and-rep log is the least glamorous thing a gym app does and the only thing it has to get right. If recording six exercises takes fo...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 25
+                  },
+                  "pub_date": null,
+                  "attribution": "saylift.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "itechguides.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.itechguides.com/best/fitness-workout-tracking-software/strong/?utm_source=chatgpt.com",
+                  "title": "Strong Review (2026): Pricing, Pros & Cons",
+                  "snippet": "S  STRONG  Freemium #8 of 54 in Fitness Workout Tracking Software  Workout tracking for strength training and gym routines.  8.4/10★★★★☆Editor score  Visit Strong  S Strong8.4 Visit Strong  S Strong8...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 26
+                  },
+                  "pub_date": null,
+                  "attribution": "itechguides.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "google.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?hl=en&id=com.github.jamesgay.fitnotes&utm_source=chatgpt.com",
+                  "title": "FitNotes - Gym Workout Log - Apps on Google Play",
+                  "snippet": "Image: Icon imageImage  Image: Icon image  FITNOTES - GYM WORKOUT LOG  James Gay  4.8 star  31.4K reviews  Image: Content rating  Everyone  info  1M+  Downloads  Install  ABOUT THIS APP  arrow_forwar...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 27
+                  },
+                  "pub_date": null,
+                  "attribution": "google.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?hl=en&id=io.strongapp.strong&utm_source=chatgpt.com",
+                  "title": "Strong Workout Tracker Gym Log - Apps on Google Play",
+                  "snippet": "Image: Icon imageImage  Image: Icon image  STRONG WORKOUT TRACKER GYM LOG  Strong Fitness PTE. LTD.  In-app purchases  4.3 star  42.7K reviews  Image: Content rating  Everyone  info  1M+  Downloads...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 28
+                  },
+                  "pub_date": null,
+                  "attribution": "google.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?hl=en-US&id=com.github.jamesgay.fitnotes&utm_source=chatgpt.com",
+                  "title": "FitNotes - Gym Workout Log - Apps on Google Play",
+                  "snippet": "FITNOTES - GYM WORKOUT LOG  James Gay  4.8 star  31.4K reviews  Image: Content rating  Everyone  info  1M+  Downloads   ABOUT THIS APP  arrow_forward  FitNotes is a workout tracker with a focus on si...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 30
+                  },
+                  "pub_date": 1761264000,
+                  "attribution": "google.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?gl=gb&hl=en-GB&id=io.strongapp.strong&utm_source=chatgpt.com",
+                  "title": "Strong Workout Tracker Gym Log – Apps on Google Play",
+                  "snippet": "Image: Icon imageImage  Image: Icon image  STRONG WORKOUT TRACKER GYM LOG  Strong Fitness PTE. LTD.  In-app purchases  4.3 star  42.7k reviews  Image: Content rating  PEGI 3  info  1m+  Downloads  AB...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 31
+                  },
+                  "pub_date": null,
+                  "attribution": "google.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://play.google.com/store/apps/details?hl=gsw&id=com.github.jamesgay.fitnotes&utm_source=chatgpt.com",
+                  "title": "FitNotes - Gym Workout Log – Apps bei Google Play",
+                  "snippet": "Image: Bild für SymbolImage  Image: Bild für Symbol  FITNOTES - GYM WORKOUT LOG  James Gay  4.8 star  31.4 Tsg. Rezensionen  Image: Altersfreigabe  Jedes Alter  info  1 Mio.+  Downloads  Installieren...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 42
+                  },
+                  "pub_date": null,
+                  "attribution": "google.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "strongermobileapp.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.strongermobileapp.com/?utm_source=chatgpt.com",
+                  "title": "Stronger — Gym Workout Tracker & Strength Training App",
+                  "snippet": "TRACK YOUR STRENGTH, NOT JUST YOUR WORKOUTS.  Every set you log builds your Strength Score, a single number that shows how strong you really are, muscle by muscle. Compare it with friends and watch i...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 29
+                  },
+                  "pub_date": null,
+                  "attribution": "strongermobileapp.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "prepaihq.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://prepaihq.com/blog/hevy-alternatives-in-2026-fitness-tracker-options-compared/?utm_source=chatgpt.com",
+                  "title": "Hevy Alternatives for 2026 | PrepAI",
+                  "snippet": "HEVY ALTERNATIVES FOR 2026  Published August 29, 2026 · Reviewed by Jonathan Gan on August 29, 2026  COMPARISON VERIFICATION  Products and platforms checked  | Hevy (iOS, Android, and web), Strong (i...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 32
+                  },
+                  "pub_date": 1787961600,
+                  "attribution": "prepaihq.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "hardy.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://hardy.app/articles/best-workout-apps?utm_source=chatgpt.com",
+                  "title": "Best Workout Apps in 2026: 5 Picks for Lifting Weights | Hardy",
+                  "snippet": "BEST WORKOUT APPS IN 2026: 5 PICKS FOR LIFTING WEIGHTS  The best workout apps for lifting weights are Hardy, Hevy, Strong, Fitbod and JEFIT. Pick Hardy to run a real program for free, or Hevy if you w...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 33
+                  },
+                  "pub_date": 1789603200,
+                  "attribution": "hardy.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "whistleout.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.whistleout.com/CellPhones/Apps/fitnotes-app-review?utm_source=chatgpt.com",
+                  "title": "FitNotes Is the Gym Log I Wish I'd Found Years Ago | WhistleOut",
+                  "snippet": "We may earn money when you click our links. More info  Edited by: Jessica Santero - Staff Writer  Updated 16 June 2026  FitNotes is an Android gym log that does exactly one thing: tracks your workout...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 34
+                  },
+                  "pub_date": 1781568000,
+                  "attribution": "whistleout.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "strongandfit.app",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://strongandfit.app/features/?utm_source=chatgpt.com",
+                  "title": "Features - Planner, Charts, Photo Check-ins | Strong & Fit",
+                  "snippet": "EVERYTHING YOU NEED TO PLAN, LOG, AND TRACK PROGRESS  One app for the week you are about to train, the sets you actually lifted, and the evidence that any of it worked.  Start your 2-week free trialS...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 35
+                  },
+                  "pub_date": null,
+                  "attribution": "strongandfit.app"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "kustosapp.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://kustosapp.com/?utm_source=chatgpt.com",
+                  "title": "Kustos — Free Offline-First Workout Tracker",
+                  "snippet": "Workout tracker · iOS & Android  THE WORKOUT TRACKER THAT GUARDS YOUR GAINS.  Kustos is a free, offline-first workout tracker for iOS and Android. Log sets in seconds, keep unlimited routines, and br...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 36
+                  },
+                  "pub_date": null,
+                  "attribution": "kustosapp.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "vitalhabitshub.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://vitalhabitshub.com/strong-app-review/?utm_source=chatgpt.com",
+                  "title": "Strong App Review: Is the Simplest Workout Logger Still the Best One? - VitalHabitsHub",
+                  "snippet": "STRONG APP REVIEW: IS THE SIMPLEST WORKOUT LOGGER STILL THE BEST ONE?  VitalHabitsHub Team  August 16, 2026  Supplements & Vitamins  Reviewed by the VitalHabitsHub team · Last reviewed August 2026....",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 37
+                  },
+                  "pub_date": 1786838400,
+                  "attribution": "vitalhabitshub.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "apple.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577?utm_source=chatgpt.com",
+                  "title": "‎Strong Workout Tracker Gym Log App - App Store",
+                  "snippet": "Strong Workout Tracker Gym Log  Strength Training Planner  Free · In‑App Purchases  Share  * 109K Ratings 4.9  * Age Rating 4+ Years  * Category Health & Fitness  * Developer Strong Fitness PTE Lim...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 38
+                  },
+                  "pub_date": null,
+                  "attribution": "apple.com"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://apps.apple.com/gb/app/fitnotes-2-gym-workout-log/id1538896016?utm_source=chatgpt.com",
+                  "title": "‎FitNotes 2 - Gym Workout Log App - App Store",
+                  "snippet": "FitNotes 2 - Gym Workout Log  FitNotes Workout Tracker  Free · In-App Purchases  Share  * 103 Ratings 4.2  * Age Rating 4+ Years  * Category Health & Fitness  * Developer Ginger Technologies Pte Lt...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 39
+                  },
+                  "pub_date": null,
+                  "attribution": "apple.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "fireful.co",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://fireful.co/?utm_source=chatgpt.com",
+                  "title": "FIREFUL - Workout Tracker & Gym Log",
+                  "snippet": "TRAIN WITH PURPOSE.SEE YOUR PROGRESS.  FIREFUL is a workout tracker and gym log for iPhone and Android. Log your workouts, build custom routines, track personal records, and visualize your training p...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 40
+                  },
+                  "pub_date": null,
+                  "attribution": "fireful.co"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "fitnotesx.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://fitnotesx.com/?utm_source=chatgpt.com",
+                  "title": "Fitnotes X — Free Workout Tracker for iOS & Android | 800+ Exercises",
+                  "snippet": "Free on iOS & Android  TRACK WORKOUTS. Crush your PRs.  The simple, powerful workout tracker with 800+ exercises, video demos, smart timers, and detailed progress analytics. No fluff.  Download on th...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 41
+                  },
+                  "pub_date": null,
+                  "attribution": "fitnotesx.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "github.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://github.com/DuarteSantos8/openGym/discussions/39?utm_source=chatgpt.com",
+                  "title": "How to log exercise data of a different date? · DuarteSantos8 openGym · Discussion #39 · GitHub",
+                  "snippet": "DuarteSantos8 / openGym Public  * ### Uh oh!  There was an error while loading. Please reload this page.  * Notifications You must be signed in to change notification settings * Fork 184 * Star  * Co...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 43
+                  },
+                  "pub_date": 1785715200,
+                  "attribution": "github.com"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "tools.fit",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.tools.fit/gym-tracker?utm_source=chatgpt.com",
+                  "title": "Gym Tracker: Free Workout Log for Sets and Reps | FitTools",
+                  "snippet": "Free workout tracker  GYM TRACKER  Log every set, rep and weight as you lift, with last session’s numbers beside every row. Routines for repeat days, records spotted for you, and a history that shows...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 44
+                  },
+                  "pub_date": null,
+                  "attribution": "tools.fit"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "namivisa.com",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.namivisa.com/blog/namivisa-vs-fitnotes?utm_source=chatgpt.com",
+                  "title": "NaMiVisa vs FitNotes: Which Free Workout Tracker Should You Use? | NaMiVisa",
+                  "snippet": "2026-09-16 · 6 min read  NAMIVISA VS FITNOTES: WHICH FREE WORKOUT TRACKER SHOULD YOU USE?  NaMiVisa Team·Free workout tracking for self-directed lifters  FitNotes has a small but genuinely loyal foll...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 45
+                  },
+                  "pub_date": 1789516800,
+                  "attribution": "namivisa.com"
+                }
+              ]
+            }
+          ],
+          "safe_urls": [
+            "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide",
+            "https://help.hevyapp.com/hc/en-us/articles/33106320824727-Everything-You-Need-to-Know-About-the-Hevy-App-2025-Features-Guide?utm_source=chatgpt.com",
+            "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises",
+            "https://help.hevyapp.com/hc/en-us/articles/35688251991575-Hevy-Exercise-Library-400-Exercises-and-Custom-Exercises?utm_source=chatgpt.com",
+            "https://www.hevyapp.com/features/exercise-performance/",
+            "https://www.hevyapp.com/features/exercise-performance/?utm_source=chatgpt.com",
+            "https://www.hevyapp.com/features/track-workouts/",
+            "https://www.hevyapp.com/features/track-workouts/?utm_source=chatgpt.com"
+          ],
+          "story_events": [],
+          "citations": [],
+          "resolved_model_slug": "gpt-5-6",
+          "cot_version": "v5",
+          "conversation_followup_suggestions_eligible": true,
+          "request_id": "5021ae26-8d12-454a-8d6d-ce31eed95a8d",
+          "message_type": "next",
+          "turn_exchange_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "working_turn_id": "2e437d05-65d8-4c2f-a0f6-8d8aa428178a",
+          "model_slug": "gpt-5-6",
+          "default_model_slug": "auto",
+          "can_save": true,
+          "parent_id": "dc230741-9dd4-458d-b6ee-3b3a595bd9f7",
+          "shared_conversation_id": "6abee5e3-18e0-83ed-9ce4-64a126003985"
+        },
+        "recipient": "all",
+        "channel": "final"
+      },
+      "parent": "dc230741-9dd4-458d-b6ee-3b3a595bd9f7",
+      "children": []
+    }
+  ],
+  "has_user_editable_context": false,
+  "highlighted_message_id": "c7c6f80a-091a-4956-b978-4be19d7613d6",
+  "continue_conversation_url": "https://chatgpt.com/share/6abee5e3-18e0-83ed-9ce4-64a126003985/continue",
+  "model": {
+    "slug": "gpt-5-6",
+    "max_tokens": 34834,
+    "title": "GPT-5.6 Luna",
+    "description": "Our latest and most advanced model",
+    "tags": [
+      "history_off_approved"
+    ]
+  },
+  "moderation_state": {
+    "has_been_moderated": false,
+    "has_been_blocked": false,
+    "has_been_accepted": false,
+    "has_been_auto_blocked": false,
+    "has_been_auto_moderated": false
+  },
+  "is_indexable": false,
+  "is_better_metatags_enabled": true,
+  "backing_conversation_id": "6ab55c70-2ef0-83eb-88f4-4090f650bfcc",
+  "og_image_variant": "response_multicolor_v1",
+  "x_metadata_policy": "complete_x_card_v1",
+  "is_potion_share": false
+}

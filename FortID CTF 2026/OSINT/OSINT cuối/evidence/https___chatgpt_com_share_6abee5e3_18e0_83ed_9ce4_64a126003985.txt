@@ -1,0 +1,35 @@
+Workout App Comparison
+
+USER
+I’m returning to weight training and want a straightforward workout log, not a coaching platform or pre-made training program. I need to create a few routines, record weights/reps/sets, see my previous performance during each workout, track PRs over time, and add custom exercises for unusual gym equipment. I’m not particularly interested in meal planning, community features, or automatic program recommendations. Which app would be the best fit?
+
+TOOL
+The output of this plugin was redacted.
+
+TOOL
+The output of this plugin was redacted.
+
+ASSISTANT
+Based on what you described, **Hevy** looks like the closest fit.
+
+| What you want | Hevy |
+|---|---|
+| Create your own routines | ✅ Yes |
+| Log weight, reps, and sets | ✅ Yes |
+| See last performance while training | ✅ Yes — previous values appear alongside exercises |
+| Track PRs over time | ✅ Yes — including heaviest weight, estimated 1RM, best sets and volume |
+| Performance history | ✅ Workout-by-workout history and graphs |
+| Custom exercises/equipment | ✅ Yes |
+| Avoid coaching/program recommendations | ✅ You can simply ignore those features |
+| Meal planning | Not central to the app |
+| Community/social features | Present, but optional |
+
+Hevy specifically lets you create reusable routines with your own exercises, sets, loads and reps. When you repeat an exercise, it shows your previous values so you can immediately see what you did last time. citeturn0search4
+
+Its exercise tracking is also unusually well aligned with your PR requirement: it records things like heaviest weight, projected 1RM, best set/session volume, and maximum weight for particular rep counts, with history and graphs over time. Custom exercises are supported too. citeturn0search2turn0search1
+
+**One caveat:** the free version is somewhat deliberately limited. You get **up to 4 routines, 7 custom exercises, and 3 months of statistics history**; Pro removes those limits and gives you longer/all-time statistics. citeturn0search0
+
+So if your goal is essentially **“digital notebook for lifting, but smart enough to remember my last numbers and PRs,” Hevy is a strong match.** Its coaching and social functionality is there, but you don't need to use it.
+
+If you want, I can also compare **Hevy vs Strong vs FitNotes** specifically on *simplicity, free-tier limits, custom exercises, and PR/history tracking*.
